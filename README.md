@@ -6,4 +6,4 @@
 
 ## Logo
 
-* https://github.com/wikinder/logo
+* [wikinder/logo](https://github.com/wikinder/logo)
