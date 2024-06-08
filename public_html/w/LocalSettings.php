@@ -204,4 +204,10 @@ $wgNamespacesWithSubpages[NS_MAIN] = true;
 
 $wgRestrictDisplayTitle = false;
 
+# https://stackoverflow.com/a/75599934
+function add_html_to_head(&$out, &$skin) {
+    $out->addHeadItem('my_html_code', '<!--nobanner-->');
+}
+$wgHooks['BeforePageDisplay'][] = 'add_html_to_head';
+
 # $wgShowExceptionDetails = true;
