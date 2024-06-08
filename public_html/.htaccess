@@ -1,0 +1,8 @@
+<Limit GET POST>
+order allow,deny
+allow from all
+</Limit>
+
+RewriteEngine On
+RewriteRule ^/?wiki(/.*)?$ %{DOCUMENT_ROOT}/w/index.php [L]
+RewriteRule ^/*$ %{DOCUMENT_ROOT}/w/index.php [L]

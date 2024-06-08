@@ -30,6 +30,7 @@ $wgSitename = "Wikinder";
 ## (like /w/index.php/Page_title to /wiki/Page_title) please see:
 ## https://www.mediawiki.org/wiki/Manual:Short_URL
 $wgScriptPath = "/w";
+$wgArticlePath = "/wiki/$1";
 
 ## The protocol and server name to use in fully-qualified URLs
 $wgServer = "https://wikinder.org";
@@ -40,8 +41,11 @@ $wgResourceBasePath = $wgScriptPath;
 ## The URL paths to the logo.  Make sure you change this from the default,
 ## or else you'll overwrite your logo when you upgrade!
 $wgLogos = [
-	'1x' => "$wgResourceBasePath/resources/assets/change-your-logo.svg",
-	'icon' => "$wgResourceBasePath/resources/assets/change-your-logo.svg",
+	'wordmark' => [
+		'src' => "$wgResourceBasePath/resources/assets/logo/logo.png",
+		'width' => 290,
+		'height' => 50,
+	],
 ];
 
 ## UPO means: this is also a user preference option
@@ -49,8 +53,8 @@ $wgLogos = [
 $wgEnableEmail = true;
 $wgEnableUserEmail = false; # UPO
 
-$wgEmergencyContact = "";
-$wgPasswordSender = "";
+$wgEmergencyContact = "bear@wikinder.org";
+$wgPasswordSender = $wgEmergencyContact;
 
 $wgEnotifUserTalk = false; # UPO
 $wgEnotifWatchlist = true; # UPO
@@ -93,7 +97,7 @@ $wgLocaltimezone = "UTC";
 ## Set $wgCacheDirectory to a writable directory on the web server
 ## to make your wiki go slightly faster. The directory should not
 ## be publicly accessible from the web.
-#$wgCacheDirectory = "$IP/cache";
+$wgCacheDirectory = "$IP/cache";
 
 # Changing this will log out all existing sessions.
 $wgAuthenticationTokenVersion = "1";
@@ -121,3 +125,83 @@ wfLoadSkin( 'MinervaNeue' );
 # End of automatically generated settings.
 # Add more configuration options below.
 
+wfLoadExtensions([ 'ConfirmEdit', 'ConfirmEdit/ReCaptchaNoCaptcha' ]);
+wfLoadExtension( 'InputBox' );
+# wfLoadExtension( 'Math' );
+wfLoadExtension( 'MultimediaViewer' );
+# wfLoadExtension( 'OATHAuth' );
+wfLoadExtension( 'PageImages' );
+wfLoadExtension( 'ParserFunctions' );
+# wfLoadExtension( 'Scribunto' );
+wfLoadExtension( 'SyntaxHighlight_GeSHi' );
+wfLoadExtension( 'TemplateData' );
+wfLoadExtension( 'TextExtracts' );
+# wfLoadExtension( 'TwitterCards' );
+wfLoadExtension( 'VisualEditor' );
+wfLoadExtension( 'WikiEditor' );
+
+# PageImages
+$wgPageImagesOpenGraphFallbackImage = "$wgResourceBasePath/resources/assets/logo/icon.png";
+
+# Scribunto
+# $wgScribuntoDefaultEngine = "luastandalone";
+# $wgScribuntoEngineConf['luastandalone']['luaPath'] = "/virtual/wikinder/lua-5.1.5/bin/lua-5.1.5";
+# $wgScribuntoEngineConf['luastandalone']['errorFile'] = "/virtual/wikinder/public_html/w/extensions/Scribunto/errorfile.log";
+# $wgScribuntoUseGeSHi = true;
+# $wgScribuntoUseCodeEditor = true;
+
+$wgAllowSiteCSSOnRestrictedPages = true;
+
+$wgDefaultUserOptions['enotifwatchlistpages'] = 0;
+$wgDefaultUserOptions['uselivepreview'] = 1;
+$wgDefaultUserOptions['watchcreations'] = 0;
+$wgDefaultUserOptions['watchdefault'] = 0;
+$wgDefaultUserOptions['watchuploads'] = 0;
+
+$wgEnableCanonicalServerLink = true;
+
+$wgHiddenPrefs = [
+	# User profile
+	'realname',
+	'gender',
+	'nickname',
+	'fancysig',
+
+	# Appearance
+	'skin',
+	'skin-responsive',
+	'imagesize',
+	'thumbsize',
+	'diffonly',
+	'norollbackdiff',
+	'underline',
+	'showhiddencats',
+	'multimediaviewer-enable',
+	'math',
+
+	# Editing
+	'editsectiononrightclick',
+	'editondblclick',
+	'editfont',
+	'minordefault',
+
+	# Recent changes
+	'usenewrc',
+	'hideminor',
+];
+
+$wgNamespaceProtection[NS_PROJECT] = ['editinterface'];
+$wgNamespaceProtection[NS_TALK] = ['editinterface'];
+$wgNamespaceProtection[NS_USER_TALK] = ['editinterface'];
+$wgNamespaceProtection[NS_PROJECT_TALK] = ['editinterface'];
+$wgNamespaceProtection[NS_FILE_TALK] = ['editinterface'];
+$wgNamespaceProtection[NS_MEDIAWIKI_TALK] = ['editinterface'];
+$wgNamespaceProtection[NS_TEMPLATE_TALK] = ['editinterface'];
+$wgNamespaceProtection[NS_HELP_TALK] = ['editinterface'];
+$wgNamespaceProtection[NS_CATEGORY_TALK] = ['editinterface'];
+
+$wgNamespacesWithSubpages[NS_MAIN] = true;
+
+$wgRestrictDisplayTitle = false;
+
+# $wgShowExceptionDetails = true;

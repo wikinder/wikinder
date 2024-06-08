@@ -1,0 +1,3 @@
+[submodule "public_html/w/resources/assets/logo"]
+	path = public_html/w/resources/assets/logo
+	url = https://github.com/wikinder/logo.git
