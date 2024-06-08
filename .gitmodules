@@ -1,3 +1,6 @@
 [submodule "public_html/w/resources/assets/logo"]
 	path = public_html/w/resources/assets/logo
 	url = https://github.com/wikinder/logo.git
+[submodule "public_html/w/skins/MinervaNeue"]
+	path = public_html/w/skins/MinervaNeue
+	url = https://github.com/wikinder/mediawiki-skins-MinervaNeue.git
