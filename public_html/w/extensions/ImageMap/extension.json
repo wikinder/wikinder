@@ -1,0 +1,28 @@
+{
+	"name": "ImageMap",
+	"author": "Tim Starling",
+	"url": "https://www.mediawiki.org/wiki/Extension:ImageMap",
+	"descriptionmsg": "imagemap_desc",
+	"license-name": "GPL-2.0-or-later",
+	"type": "parserhook",
+	"requires": {
+		"MediaWiki": ">= 1.39.0"
+	},
+	"MessagesDirs": {
+		"ImageMap": [
+			"i18n"
+		]
+	},
+	"HookHandlers": {
+		"main": {
+			"class": "MediaWiki\\Extension\\ImageMap\\ImageMap"
+		}
+	},
+	"Hooks": {
+		"ParserFirstCallInit": "main"
+	},
+	"AutoloadNamespaces": {
+		"MediaWiki\\Extension\\ImageMap\\": "includes/"
+	},
+	"manifest_version": 2
+}

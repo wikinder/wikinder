@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Янмурза Баки",
+			"З. ӘЙЛЕ"
+		]
+	},
+	"captcha-apihelp-param-captchaword": "Капчаға яуап",
+	"captcha-apihelp-param-captchaid": "Алдағы һорауҙан CAPTCHA ID"
+}

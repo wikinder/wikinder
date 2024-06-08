@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"F Samaritani",
+			"Jun Misugi"
+		]
+	},
+	"captcha-label": "CAPTCHA",
+	"captcha-id-label": "ID CAPTCHA",
+	"captchahelp-title": "Aggiuddu CAPTCHA",
+	"confirmedit-preview-content": "Indizi"
+}
