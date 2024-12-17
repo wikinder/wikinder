@@ -11,3 +11,7 @@
 * [Internet Archive](https://web.archive.org/web/*/https://github.com/wikinder/wikinder/wiki*)
 * [Archive.today](https://archive.today/https://github.com/wikinder/wikinder/wiki*)
 * [Megalodon](https://gyo.tc/https://github.com/wikinder/wikinder/wiki)
+
+## Official accounts
+
+* [X](https://x.com/wikinder)
