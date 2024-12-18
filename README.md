@@ -1,1 +1,1 @@
-# [Wikinder](https://wikinder.org/)
+# [Go to Wikinder](https://wikinder.org/)
