@@ -1,2 +1,1 @@
-# wikinder
-bear's kindergarten
+# [Go to Wikinder](https://wikinder.org/)
