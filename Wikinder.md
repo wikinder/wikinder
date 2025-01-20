@@ -7,7 +7,9 @@
 ## Social networks
 
 * [Facebook](https://www.facebook.com/wikinder)
+* [Instagram](https://www.instagram.com/wikindergarten/)
 * [LinkedIn](https://www.linkedin.com/company/wikinder/)
+* [Threads](https://www.threads.net/@wikindergarten)
 * [TikTok](https://www.tiktok.com/@wikinder)
 * [X](https://x.com/wikinder)
     * [Japanese](https://x.com/wikinderjp)
