@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <th>Age</th>
-    <td>16</td>
+    <th>Date of birth</th>
+    <td>May 17, 2009</td>
   </tr>
   <tr>
     <th>Height</th>
