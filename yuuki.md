@@ -24,14 +24,6 @@
     <td>Unemployed</td>
   </tr>
   <tr>
-    <th>Height</th>
-    <td>163 cm (5 ft 4 in)</td>
-  </tr>
-  <tr>
-    <th>Weight</th>
-    <td>50 kg (110 lb)</td>
-  </tr>
-  <tr>
     <th>Official website</th>
     <td>
       <a href="https://yuukikonno.com/">yuukikonno.com</a>
