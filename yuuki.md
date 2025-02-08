@@ -31,6 +31,12 @@
     <th>Weight</th>
     <td>50 kg (110 lb)</td>
   </tr>
+  <tr>
+    <th>Official website</th>
+    <td>
+      <a href="https://yuukikonno.com/">yuukikonno.com</a>
+    </td>
+  </tr>
 </table>
 
 **Yuuki Konno** (金野 裕希, _Konno Yūki_, born May 17, 1994) is a Japanese Wikid.
