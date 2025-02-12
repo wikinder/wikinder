@@ -1,7 +1,7 @@
 <table>
   <tr>
     <th>Date of birth</th>
-    <td>May 17, 1994 1:56 AM</td>
+    <td>May 17, 1994, 1:56 AM</td>
   </tr>
   <tr>
     <th>Place of birth</th>
