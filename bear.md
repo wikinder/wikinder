@@ -8,3 +8,5 @@
     <td>60 cm (24 in)</td>
   </tr>
 </table>
+
+Founder of Wikinder
