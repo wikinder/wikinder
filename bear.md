@@ -1,5 +1,3 @@
-Founder of Wikinder
-
 <table>
   <tr>
     <th>Date of birth</th>
