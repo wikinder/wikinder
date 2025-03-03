@@ -1,6 +1,8 @@
-**Yuuki Konno** (金野 裕希, _Konno Yūki_, born May 17, 1994) is a Japanese Wikid.
-
 <table>
+  <tr>
+    <th>Native name</th>
+    <td>金野 裕希</td>
+  </tr>
   <tr>
     <th>Date of birth</th>
     <td>May 17, 1994, 1:56 AM</td>
