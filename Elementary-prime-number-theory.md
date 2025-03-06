@@ -5,8 +5,9 @@ def is_prime(n: int) -> bool:
     if n <= 1:
         return False
 
-    # If `n` is divisible by any integer `i` such that 2 <= `i` <= `n` - 1, then
-    # it is not prime.
+    # If `n` is divisible by any integer `i` such
+    # that 2 <= `i` <= `n` - 1, then it is not
+    # prime.
     for i in range(2, n):
         if n % i == 0:
             return False
