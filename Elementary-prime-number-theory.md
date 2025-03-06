@@ -1,4 +1,4 @@
-**primes.py:**
+**primes.py**
 
 ```python
 # Determines if an integer is prime.
@@ -23,7 +23,7 @@ for i in range(1, 100):
         print(i)
 ```
 
-**Output:**
+**Output**
 
 ```
 $ python primes.py
