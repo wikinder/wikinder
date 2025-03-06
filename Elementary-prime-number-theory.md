@@ -1,8 +1,9 @@
 **primes.py**
 
 ```python
-# Determines if an integer is prime.
 def is_prime(n: int) -> bool:
+    """Determines if an integer is prime."""
+
     # 0, 1, and negative integers are not prime.
     if n <= 1:
         return False
