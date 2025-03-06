@@ -17,6 +17,7 @@ def is_prime(n: int) -> bool:
     # Otherwise, `n` is prime.
     return True
 
+
 # Displays all prime numbers less than 100.
 for i in range(1, 100):
     if is_prime(i):
