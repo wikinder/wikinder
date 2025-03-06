@@ -1,3 +1,5 @@
+primes.py
+
 ```python
 # Determines if an integer is prime.
 def is_prime(n: int) -> bool:
@@ -19,4 +21,12 @@ def is_prime(n: int) -> bool:
 for i in range(1, 100):
     if is_prime(i):
         print(i)
+```
+
+```
+$ python primes.py
+2
+3
+...
+97
 ```
