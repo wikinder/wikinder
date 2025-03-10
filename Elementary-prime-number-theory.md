@@ -1,3 +1,7 @@
+**Definition (<dfn>Prime number</dfn>)**
+<br>
+An integer $n > 1$ is prime iff it is not divisible by any integer $i$ such that $2 \le i \le n - 1$.
+
 **primes.py**
 
 ```python
