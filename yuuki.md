@@ -26,6 +26,10 @@
     <td>Unemployed</td>
   </tr>
   <tr>
+    <th>Net worth</th>
+    <td>500 USD</td>
+  </tr>
+  <tr>
     <th>Height</th>
     <td>163 cm (5 ft 4 in)</td>
   </tr>
