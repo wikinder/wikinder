@@ -38,7 +38,7 @@
     <td>50 kg (110 lb)</td>
   </tr>
   <tr>
-    <th rowspan="5">Medical conditions</th>
+    <th rowspan="6">Medical conditions</th>
     <td>Stuttering</td>
   </tr>
   <tr>
@@ -49,6 +49,9 @@
   </tr>
   <tr>
     <td>Varicocele</td>
+  </tr>
+  <tr>
+    <td>Non-24-hour sleep-wake disorder</td>
   </tr>
   <tr>
     <td>Anisometropia</td>
