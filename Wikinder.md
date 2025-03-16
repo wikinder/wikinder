@@ -12,25 +12,22 @@
 * [Threads](https://www.threads.net/@wikindergarten)
 * [TikTok](https://www.tiktok.com/@wikinder)
 * [X](https://x.com/wikinder)
-    * [Japanese](https://x.com/wikinderjp)
 * [YouTube](https://www.youtube.com/@wikinder)
+
+### Japan
+
+* [X](https://x.com/wikinderjp)
 
 ## Archives
 
 <details>
 <summary>[show]</summary>
 
-### GitHub Wiki
+* [Wiki](https://archive.today/wikinder.org)
+* [X](https://archive.today/https://x.com/wikinder/status/*)
 
-* [Archive.today](https://archive.today/https://github.com/wikinder/wikinder/wiki*)
-* [Internet Archive](https://web.archive.org/web/*/https://github.com/wikinder/wikinder/wiki*)
+### Japan
 
-### X
-
-* [Archive.today](https://archive.today/https://x.com/wikinder/status/*)
-
-#### Japanese
-
-* [Archive.today](https://archive.today/https://x.com/wikinderjp/status/*)
+* [X](https://archive.today/https://x.com/wikinderjp/status/*)
 
 </details>
