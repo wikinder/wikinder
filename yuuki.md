@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <th>Occupation</th>
-    <td>Unemployed</td>
+    <td>Wikid</td>
   </tr>
   <tr>
     <th>Net worth</th>
