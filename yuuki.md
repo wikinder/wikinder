@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <th>Weight</th>
-    <td>50 kg (110 lb)</td>
+    <td>55 kg (120 lb)</td>
   </tr>
   <tr>
     <th rowspan="6">Medical conditions</th>
