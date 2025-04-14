@@ -1,4 +1,4 @@
-**Definition (<dfn>Prime number</dfn>)**: An integer $n > 1$ is prime iff it is not divisible by any integer $i$ such that $2 \le i \le n - 1$.
+**Definition (_Prime number_)**: An integer $n > 1$ is _prime_ iff it is not divisible by any integer $i$ such that $2 \le i \le n - 1$.
 
 ```python
 def is_prime(n: int) -> bool:
@@ -31,3 +31,5 @@ for i in range(100):
 ...
 97
 ```
+
+**Definition (_Divisibility_)**: Let $n$, $m$, and $k$ be integers with $m \ne 0$. We say that $n$ is _divisible_ by $m$ iff there exists $k$ such that $n = km$.
