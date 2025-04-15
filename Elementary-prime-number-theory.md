@@ -34,12 +34,12 @@ for i in range(100):
 
 **Definition (_Divisibility_)**: Let $n$, $m$, and $k$ be integers with $m \ne 0$. We say that $n$ is _divisible_ by $m$ iff there exists $k$ such that $n = km$.
 
-**Theorem (_Upper bound for the greatest non-trivial divisor_)**: If $m < n$, then $m \le \tfrac{n}{2}$.
+**Theorem (_Upper bound for the greatest non-trivial divisor_)**: If $m < n$, then $m \le \frac{n}{2}$.
 
 **Proof**: From $m < n$, we have:
 
 $$
-\begin{array}{rll}
+\begin{array}{lll}
 km = n & <   & kn \\
 1      & <   & k \\
 2      & \le & k.
@@ -49,8 +49,8 @@ $$
 Then we have:
 
 $$
-\begin{array}{rlr}
+\begin{array}{lll}
 2m & \le & km = n \\
-m  & \le & \tfrac{n}{2}.
+m  & \le & \frac{n}{2}.
 \end{array}
 $$
