@@ -34,7 +34,7 @@ for i in range(100):
 
 **Definition (_Divisibility_)**: Let $n$, $m$, and $k$ be integers with $m \ne 0$. We say that $n$ is _divisible_ by $m$ iff there exists $k$ such that $n = km$.
 
-**Theorem (_Upper bound of non-trivial divisors_)**: If $m < n$, then $m \le \frac{n}{2}$.
+**Theorem**: If $m < n$, then $m \le \frac{n}{2}$.
 
 **Proof**: From $m < n$, we have:
 
