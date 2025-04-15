@@ -54,3 +54,7 @@ $$
 m  & \le & \frac{n}{2}.
 \end{array}
 $$
+
+**Theorem**: If $p$ is a prime divisor of $n$, then $p \le \sqrt{n}$.
+
+**Proof**:
