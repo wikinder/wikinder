@@ -26,7 +26,7 @@ oooooooooo
 
 ## Even and odd numbers
 
-An even number can be divided into two equal parts, while an odd number cannot. Halving an odd number leaves a remainder of 1. A set with an odd number of elements has a middle element.[^1]
+An even number can be divided into two equal parts, while an odd number cannot. Halving an odd number leaves a remainder of 1. A set $S$ with an odd number of elements has a middle element.[^1]
 
 ```
 o
@@ -63,4 +63,4 @@ ooooo
 
 ## Notes
 
-[^1]: If the elements are not arranged in a line, we will not be able to determine the middle element. However, the elements of any finite set can be arranged in a line. It seems to be said that every finite set can be _linearly ordered_.
+[^1]: Only if the elements are arranged in a line, which seems to be said that $S$ can be _linearly ordered_. However, it seems that, in fact, _every_ set can be linearly ordered.
