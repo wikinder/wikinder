@@ -1,4 +1,4 @@
-We can think of a number $n$ as a set of $n$ blocks arranged in a line.
+We can think of a number $n$ as a set of $n$ blocks arranged in a line--the same as marbles, dominoes, or any other countable objects.
 
 Numbers from 1 to 10:
 
