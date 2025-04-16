@@ -63,4 +63,4 @@ ooooo
 
 ## Notes
 
-[^1]: Only if the elements are arranged in a line, which seems to be said that $S$ can be _linearly ordered_. It seems, though, that _every_ set can be linearly ordered.
+[^1]: Only if the elements are arranged in a line, which seems to be said that $S$ can be _linearly ordered_. It seems, however, that _every_ set can be linearly ordered.
