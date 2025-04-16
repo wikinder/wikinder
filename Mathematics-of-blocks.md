@@ -25,3 +25,34 @@ oooooooooo
 ```
 
 ## Even and odd numbers
+
+```
+o
+
+o
+o
+
+oo
+o
+
+oo
+oo
+
+ooo
+oo
+
+ooo
+ooo
+
+oooo
+ooo
+
+oooo
+oooo
+
+ooooo
+oooo
+
+ooooo
+ooooo
+```
