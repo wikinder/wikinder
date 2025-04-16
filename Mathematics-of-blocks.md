@@ -1,3 +1,5 @@
+Numbers from 1 to 10:
+
 ```
 o
 
@@ -5,25 +7,17 @@ oo
 
 ooo
 
-oo
-oo
+oooo
 
 ooooo
 
-ooo
-ooo
+oooooo
 
 ooooooo
 
-oooo
-oooo
+oooooooo
 
-ooo
-ooo
-ooo
+ooooooooo
 
-ooooo
-ooooo
-
-ooooooooooo
+oooooooooo
 ```
