@@ -63,4 +63,4 @@ ooooo
 
 ## Notes
 
-[^1]: Three blocks have a middle one; four don't. However, if three blocks form a triangle, we wouldn't know which one is the middle. A set with an odd number of elements has a middle element if the elements are arranged in a line. Such an ordering seems to be called a _linear order_ (or _total order_).
+[^1]: Three blocks have a middle one; four don't. However, if three blocks form a triangle, we may not know which one is the middle. A set with an odd number of elements has a middle element if the elements are arranged in a line. Such an ordering seems to be called a _linear order_ (or _total order_).
