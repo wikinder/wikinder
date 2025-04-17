@@ -63,4 +63,4 @@ ooooo
 
 ## Notes
 
-[^1]: Only if the elements are arranged in a line, which seems to be said that $S$ can be _linearly ordered_. It seems, however, that _every_ set can be linearly ordered.
+[^1]: Three blocks have a middle one; four don't. However, if three blocks form a triangle, we wouldn't know which one is the middle. A set with an odd number of elements has a middle element if the elements are arranged in a line.
