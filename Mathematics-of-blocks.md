@@ -1,6 +1,6 @@
-We can think of a positive integer $n$ as a set of $n$ blocks arranged in a line--the same as marbles, dominoes, or any other countable objects.
+We can think of a number $n$ as a set of $n$ blocks arranged in a line--the same as marbles, dominoes, or any other countable objects.
 
-Integers from 1 to 10:
+Numbers from 1 to 10:
 
 ```
 o
