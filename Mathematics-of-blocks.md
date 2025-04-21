@@ -61,9 +61,9 @@ ooooo
 
 **Definition (Even and odd numbers)**: Let $n$ and $k$ be integers. We say that $n$ is **even** if there exists $k$ such that $n = 2k$, and $n$ is **odd** if there exists $k$ such that $n = 2k + 1$.
 
-### Odd numbers have a middle
+### "Odd numbers have a middle"
 
-Three doors have a middle one; four don't.[^1] However, if the three doors form a triangle, it may not be clear which is the middle.[^2] We can at least say that if a set has an odd number of elements that are arranged "in a line", it has a middle element. Such an ordering seems to be called a _linear order_ or _total order_.
+Three doors have a middle one; four don't.[^1] However, if the three doors form a triangle, it may not be clear which is the middle.[^2] We can at least say that if a set $S$ has an odd number of elements that are arranged "in a line", then $S$ has a middle element. Such an ordering seems to be called a _linear order_ or _total order_.
 
 ## Notes
 
