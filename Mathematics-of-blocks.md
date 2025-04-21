@@ -63,10 +63,12 @@ ooooo
 
 ### "Odd numbers have a middle"
 
-Three doors have a middle one; four don't.[^1] However, if the three doors form a triangle, it may not be clear which is the middle.[^2] We can at least say that if a set $S$ has an odd number of elements that are arranged "in a line", then $S$ has a middle element. Such an ordering seems to be called a _linear order_ or _total order_.
+Three doors have a middle one; four don't.[^1] However, if the three doors form a triangle, it may not be clear which is the middle.[^2] We can at least say that if a set $S$ has an odd number of elements that are arranged "in a line", then $S$ has a middle element. Such an ordering seems to be called a _linear order_ or _total order_.[^3]
 
 ## Notes
 
 [^1]: Even numbers can also be thought of as having two middle elements.
 
 [^2]: There is a concept of the _geometric median_. The geometric median of the three vertices of a triangle is called the _Fermat point_ of the triangle.
+
+[^3]: Examples of _linearly ordered sets_ include tuples (arrays in programming) and a set of real numbers.
