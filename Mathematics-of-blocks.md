@@ -71,4 +71,4 @@ Three doors have a middle one; four don't.[^1] However, if the three doors form 
 
 [^2]: There is a concept of the _geometric median_. The geometric median of the three vertices of a triangle is called the _Fermat point_ of the triangle.
 
-[^3]: Examples of _linearly ordered sets_ include tuples (arrays in programming) and a set of real numbers.
+[^3]: Examples of _totally ordered sets_ include tuples (arrays in programming) and a set of real numbers.
