@@ -63,6 +63,6 @@ ooooo
 
 ## "Odd numbers have a middle"
 
-Three doors have a middle one; four don't. A tuple with an odd number $2k + 1$ of elements has a middle element--the $(k + 1)$-th element.
+Three doors have a middle one; four don't. A tuple with an odd number $2k + 1$ of elements has a middle element--the $(k + 1)$-th element. However, if the three doors were placed at the vertices of a triangle, it wouldn't be obvious which one is the middle door.
 
-However, if three doors form a triangle, we may not know which one is the middle. If a set $S$ has an odd number of elements arranged in a line, then $S$ has a middle element. It seems that such an ordering is said to be a _linear order_ (or _total order_).
+If a set $S$ has an odd number of elements arranged in a line, then $S$ has a middle element. It seems that such an ordering is said to be a _linear order_ (or _total order_).
