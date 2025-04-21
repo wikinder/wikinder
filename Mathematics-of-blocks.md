@@ -69,4 +69,4 @@ Three doors have a middle one; four don't.[^1] However, if the three doors form 
 
 [^1]: Even numbers can also be thought of as having two middle elements.
 
-[^2]: There seems to be a concept of the _geometric median_. The geometric median of the three vertices of a triangle is called the _Fermat point_.
+[^2]: There is a concept of the _geometric median_. The geometric median of the three vertices of a triangle is called the _Fermat point_ of the triangle.
