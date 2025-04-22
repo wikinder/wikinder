@@ -69,6 +69,6 @@ Three doors have a middle one; four don't.[^1] However, if the three doors form 
 
 [^1]: One can also think of an even number as having two things in the middle.
 
-[^2]: There is a concept of the _geometric median_. The geometric median of the three vertices of a triangle is called the _Fermat point_.
+[^2]: It seems there is a concept called the _geometric median_. The geometric median of the three vertices of a triangle is called the _Fermat point_.
 
 [^3]: Examples of totally ordered sets include tuples (arrays in programming) and a set of real numbers.
