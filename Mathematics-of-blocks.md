@@ -71,4 +71,4 @@ Three doors have a middle one; four don't.[^1] However, if three doors form a tr
 
 [^2]: It seems there is a concept called the _geometric median_. The geometric median of the three vertices of a triangle is called the _Fermat point_.
 
-[^3]: Examples of totally ordered sets: tuples ordered by index, the set of natural numbers $(\mathbb{N}, \le)$, and the set of real numbers $(\mathbb{R}, \le)$.
+[^3]: Examples of _totally ordered sets_: tuples ordered by index, the set of natural numbers $(\mathbb{N}, \le)$, and the set of real numbers $(\mathbb{R}, \le)$.
