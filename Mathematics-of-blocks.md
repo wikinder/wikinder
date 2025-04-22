@@ -61,12 +61,14 @@ ooooo
 
 **Definition (Even and odd numbers)**: Let $n$ and $k$ be integers. We say that $n$ is **even** if there exists $k$ such that $n = 2k$, and $n$ is **odd** if there exists $k$ such that $n = 2k + 1$.
 
-### "Odd numbers have a middle"
+### Odd numbers have a middle
 
-Three doors have a middle one; four don't. However, if the three doors form a triangle, it may not be clear which is the middle.[^1] We can at least say that if a set $S$ has an odd number of elements that are arranged "in a line", then $S$ has a middle element. Such an ordering seems to be called a _linear order_ or _total order_.[^2]
+Three doors have a middle one; four don't.[^1] However, if the three doors form a triangle, it may not be clear which is the middle.[^2] We can at least say that if a set $S$ has an odd number of elements that are arranged "in a line", then $S$ has a middle element. Such an ordering seems to be called a _linear order_ or _total order_.[^3]
 
 ## Notes
 
-[^1]: There is a concept of the _geometric median_. The geometric median of the three vertices of a triangle is called the _Fermat point_.
+[^1]: One can also think of an even number as having two things in the middle.
 
-[^2]: Examples of _totally ordered sets_ include tuples (arrays in programming) and a set of real numbers.
+[^2]: There is a concept of the _geometric median_. The geometric median of the three vertices of a triangle is called the _Fermat point_.
+
+[^3]: Examples of totally ordered sets include tuples (arrays in programming) and a set of real numbers.
