@@ -1,11 +1,11 @@
-## Kangxi Zidian (1716)
+## _Kangxi Zidian_ (1716)
 
 <p>
   <img alt="䨻" src="https://glyphwiki.org/glyph/u4a3b.svg" width="96" height="96">
   (52 strokes)
 </p>
 
-## Dai Kan-Wa Jiten (1960)
+## _Dai Kan-Wa Jiten_ (1960)
 
 <p>
   <img alt="𠔻" src="https://glyphwiki.org/glyph/u2053b.svg" width="96" height="96">
@@ -17,7 +17,7 @@
   (64 strokes)
 </p>
 
-## _Kokuji_
+## Kokuji
 
 ![⿳⿲歒客歒⿰口圡⿲歒客客](https://github.com/user-attachments/assets/6429335c-c541-46ae-8b62-64a54c4455f4)
 (79 strokes)
