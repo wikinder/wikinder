@@ -1,4 +1,4 @@
-We can think of a number $n$ as a collection of $n$ blocks (or marbles, dominoes, or any other countable objects).
+We can think of a number $n$ as a collection of $n$ blocks (or pebbles, dominoes, or any other countable objects).
 
 Numbers from 1 to 10:
 
