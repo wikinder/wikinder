@@ -1,60 +1,74 @@
-**Definition (_Prime number_)**: An integer $n > 1$ is _prime_ iff it is not divisible by any integer $i$ such that $2 \le i \le n - 1$.
+We can think of a number $n$ as a collection of $n$ blocks (or pebbles, dominoes, or any other countable objects).
 
-```python
-def is_prime(n: int) -> bool:
-    """Determines if an integer is prime."""
-
-    # Negative numbers and the numbers 0 and 1 are
-    # not prime.
-    if n <= 1:
-        return False
-
-    # If `n` is divisible by any integer in the
-    # interval $[2, n)$, then it is not prime.
-    for i in range(2, n):
-        if n % i == 0:
-            return False
-
-    # Otherwise, `n` is prime.
-    return True
-
-
-# Displays all prime numbers less than 100.
-for i in range(100):
-    if is_prime(i):
-        print(i)
-```
+Numbers from 1 to 10:
 
 ```
-2
-3
-...
-97
+o
+
+oo
+
+ooo
+
+oooo
+
+ooooo
+
+oooooo
+
+ooooooo
+
+oooooooo
+
+ooooooooo
+
+oooooooooo
 ```
 
-**Definition (_Divisibility_)**: Let $n$, $m$, and $k$ be integers with $m \ne 0$. We say that $n$ is _divisible_ by $m$ iff there exists $k$ such that $n = km$.
+## Even and odd numbers
 
-**Theorem**: If $m < n$, then $m \le \frac{n}{2}$.
+An even number can be divided into two equal parts, while an odd number cannot. Halving an odd number leaves a remainder of 1.
 
-**Proof**: From $m < n$, we have:
+```
+o
 
-$$
-\begin{array}{lll}
-km = n & <   & kn \\
-1      & <   & k \\
-2      & \le & k.
-\end{array}
-$$
+o
+o
 
-Then we have:
+oo
+o
 
-$$
-\begin{array}{lll}
-2m & \le & km = n \\
-m  & \le & \frac{n}{2}.
-\end{array}
-$$
+oo
+oo
 
-**Theorem**: If $p$ is a prime divisor of $n$, then $p \le \sqrt{n}$.
+ooo
+oo
 
-**Proof**:
+ooo
+ooo
+
+oooo
+ooo
+
+oooo
+oooo
+
+ooooo
+oooo
+
+ooooo
+ooooo
+```
+
+**Definition (Even and odd numbers)**: Let $n$ and $k$ be integers. We say that $n$ is **even** if there exists $k$ such that $n = 2k$, and $n$ is **odd** if there exists $k$ such that $n = 2k + 1$.
+
+### Odd numbers have a middle
+
+Three doors have a middle one; four don't.[^1] However, if three doors form a triangle, it may not be clear which is the middle.[^2] We can at least say that if a set $S$ has an odd number of elements that are arranged "in a line", then $S$ has a middle element. It seems that such an ordering is called a _linear order_ or _total order_.[^3]
+
+## Notes
+
+[^1]: One can also think of an even number as having two things in the middle.
+
+[^2]: It seems there is a concept called the _geometric median_. The geometric median of the three vertices of a triangle is called the _Fermat point_.
+
+[^3]: Examples of _totally ordered sets_: tuples ordered by index, the set of natural numbers $(\mathbb{N}, \le)$, and the set of real numbers $(\mathbb{R}, \le)$.
