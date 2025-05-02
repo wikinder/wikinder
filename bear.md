@@ -1,5 +1,3 @@
-Founder of Wikinder
-
 <table>
   <tr>
     <th>Date of birth</th>
@@ -10,3 +8,5 @@ Founder of Wikinder
     <td>60 cm (24 in)</td>
   </tr>
 </table>
+
+Founder of Wikinder
