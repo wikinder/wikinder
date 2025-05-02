@@ -67,4 +67,12 @@
 
 </details>
 
-**Yuuki Konno** (金野 裕希, _Konno Yūki_, born May 17, 1994) is a Japanese Wikid.
+**Yuuki Konno**[^1] (金野 裕希, _Konno Yūki_, born May 17, 1994) is a Japanese Wikid.
+
+## Early life
+
+Yuuki was born at Iwate Prefectural Fukuoka Hospital in Ninohe, Iwate, and grew up in Esashi, Iwate.
+
+## Notes
+
+[^1]: Yuuki goes by his first name.
