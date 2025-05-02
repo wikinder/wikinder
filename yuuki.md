@@ -71,8 +71,10 @@
 
 ## Early life
 
-Yuuki was born at Iwate Prefectural Fukuoka Hospital in Ninohe, Iwate, and grew up in Esashi, Iwate. His mother, Yūko Konno (née Jūmonji), was a nurse, and his father, Kōji Konno, was a medical assistant and later a labor activist.
+Yuuki was born at Iwate Prefectural Fukuoka Hospital in Ninohe, Iwate, and grew up in Esashi, Iwate. His mother, Yūko Konno (née Jūmonji), was a nurse, and his father, Kōji Konno, was a medical assistant and later a labor activist.[^2]
 
 ## Notes
 
 [^1]: Yuuki goes by his first name.
+
+[^2]: His father served as president of the Japanese Communist Party-affiliated Iwate Federation of Trade Unions.
