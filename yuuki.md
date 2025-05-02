@@ -67,14 +67,12 @@
 
 </details>
 
-**Yuuki Konno**[^1] (金野 裕希, _Konno Yūki_, born May 17, 1994) is a Japanese Wikid.
+**Yuuki Konno** (金野 裕希, _Konno Yūki_, born May 17, 1994) is a Japanese Wikid.
 
 ## Early life
 
-Yuuki was born in Ninohe, Iwate, and grew up in Esashi, Iwate. His mother, Yūko Konno (née Jūmonji), was a nurse, and his father, Kōji Konno, was a medical assistant and later a labor activist.[^2]
+Yuuki was born in Ninohe, Iwate, and grew up in Esashi, Iwate. His mother, Yūko Konno (née Jūmonji), was a nurse, and his father, Kōji Konno, was a medical assistant and later a labor activist.[^1]
 
 ## Notes
 
-[^1]: Yuuki goes by his first name.
-
-[^2]: His father served as president of the Japanese Communist Party-affiliated Iwate Federation of Trade Unions.
+[^1]: His father served as president of the Japanese Communist Party-affiliated Iwate Federation of Trade Unions.
