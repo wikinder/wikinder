@@ -77,6 +77,8 @@ At age four or earlier, Yuuki started using a word processor and learned kanji. 
 
 In 2003, Yuuki started using the Internet at age nine. He trolled on TheBBS (ザ掲示板) under the names Aku no Zurihaki (悪のずりはき) and Seizan. Learning HTML and CSS, he created browser exploits and websites. In Virtual Farm (バーチャル農場), Yuuki was called "The Boy Who Cried Wolf" (狼少年) after he lied about another player stealing his money.
 
+In 2005, he dropped out of Esashi Municipal Iwayadō Elementary School in fifth grade.
+
 ## Notes
 
 [^1]: His father served as president of the Japanese Communist Party-affiliated Iwate Federation of Trade Unions.
