@@ -71,7 +71,7 @@
 
 ## Early life
 
-Yuuki was born at Iwate Prefectural Fukuoka Hospital in Ninohe, Iwate, and grew up in Esashi, Iwate.
+Yuuki was born at Iwate Prefectural Fukuoka Hospital in Ninohe, Iwate, and grew up in Esashi, Iwate. His mother, Yūko Konno (née Jūmonji), was a nurse, and his father, Kōji Konno, was a medical assistant and later a labor activist.
 
 ## Notes
 
