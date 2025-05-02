@@ -73,7 +73,7 @@
 
 Yuuki was born on May 17, 1994, in Ninohe, Iwate, and grew up in Esashi, Iwate. His mother, Yūko Konno (née Jūmonji), was a nurse, and his father, Kōji Konno, was a medical assistant and later a labor activist.[^1]
 
-At age four or earlier, Yuuki started using a Panasonic FW-U1P609 word processor and learned kanji. At age four, he got a Fujitsu MV205 computer.
+At age four or earlier, Yuuki started using a word processor and learned kanji. At age four, he got a computer.
 
 In 2003, Yuuki started using the Internet at age nine. He trolled on [TheBBS](https://web.archive.org/web/20031022181655/http://thebbs.jp/) under the names _Aku no Zurihaki_ and _Seizan_. Learning HTML and CSS, he created browser exploits and personal websites.
 
