@@ -71,7 +71,7 @@
 
 ## Early life
 
-Yuuki was born at Iwate Prefectural Fukuoka Hospital in Ninohe, and grew up in Esashi. His mother, Yūko (née Jūmonji), was a nurse, and his father, Kōji, was a medical assistant and later a labor activist.[^2]
+Yuuki was born in Ninohe, Iwate, and grew up in Esashi, Iwate. His mother, Yūko (née Jūmonji), was a nurse, and his father, Kōji, was a medical assistant and later a labor activist.[^2]
 
 ## Notes
 
