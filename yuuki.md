@@ -66,7 +66,7 @@
 
 ## Early life
 
-Yuuki Konno was born on May 17, 1994, and grew up in Esashi, Iwate, Japan. His mother, Yūko Konno (née Jūmonji), was a nurse, and his father, Kōji Konno, was a medical assistant and later a labor activist.[^1]
+Yuuki Konno was born on May 17, 1994, in Ninohe, Iwate, Japan, and grew up in Esashi, Iwate. His mother, Yūko Konno (née Jūmonji), was a nurse, and his father, Kōji Konno, was a medical assistant and later a labor activist.[^1]
 
 At age four or earlier, Yuuki started using a word processor and learned kanji. At age four, he got a computer.
 
