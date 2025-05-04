@@ -89,6 +89,6 @@ In 2005, he dropped out of Esashi Municipal Iwayadō Elementary School in fifth 
 
 [^3]: Yuuki (2004).
 
-[^4]: Wada, Takashi (2007).
+[^4]: Wada (2007).
 
 [^5]: Anonymous et al. (2004).
