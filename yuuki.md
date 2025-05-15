@@ -12,10 +12,6 @@
     <td>Esashi, Iwate, Japan</td>
   </tr>
   <tr>
-    <th>Residence</th>
-    <td>Karumai, Iwate, Japan</td>
-  </tr>
-  <tr>
     <th>Education</th>
     <td>Wikinder</td>
   </tr>
@@ -24,19 +20,7 @@
     <td>Wikid</td>
   </tr>
   <tr>
-    <th>Net worth</th>
-    <td>500 USD</td>
-  </tr>
-  <tr>
-    <th>Height</th>
-    <td>163 cm (5 ft 4 in)</td>
-  </tr>
-  <tr>
-    <th>Weight</th>
-    <td>50 kg (110 lb)</td>
-  </tr>
-  <tr>
-    <th rowspan="6">Medical conditions</th>
+    <th rowspan="6" valign="top">Medical conditions</th>
     <td>Stuttering</td>
   </tr>
   <tr>
@@ -55,7 +39,7 @@
     <td>Anisometropia</td>
   </tr>
   <tr>
-    <th>Official website</th>
+    <th>Website</th>
     <td>
       <a href="https://yuukikonno.com/">yuukikonno.com</a>
     </td>
