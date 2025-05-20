@@ -1,1 +1,1 @@
-* [[Mathematics of blocks]]
+* [[Math of blocks]]
