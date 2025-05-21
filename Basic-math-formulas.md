@@ -13,7 +13,10 @@
 
 Let $a$ and $b$ be real numbers, and $m$ and $n$ be positive integers. By induction on $n$:
 
-1. Base case ($n = 1$):
+1. <details>
+   <summary>[show]</summary>
+
+   Base case ($n = 1$):
    <br>
    $`a^m a^1 = a^m a = a^{m + 1}`$.
 
@@ -32,9 +35,21 @@ Let $a$ and $b$ be real numbers, and $m$ and $n$ be positive integers. By induct
    \end{align}
    `$
 
-2. Base case:
+   </details>
 
-3. Base case:
+2. <details>
+   <summary>[show]</summary>
+
+   Base case:
+
+   </details>
+
+3. <details>
+   <summary>[show]</summary>
+
+   Base case:
+
+   </details>
 
 </details>
 
