@@ -1,36 +1,40 @@
 ## Exponent laws
 
-$`a^m a^n = a^{m + n}`$
+1) $`a^m a^n = a^{m + n}`$
 
-$`(a^m)^n = a^{mn}`$
+2) $`(a^m)^n = a^{mn}`$
 
-$`(ab)^n = a^n b^n`$
+3) $`(ab)^n = a^n b^n`$
 
 ### Proof
 
 <details>
 <summary>[show]</summary>
 
-Let $a$ be a real number, and $m$ and $n$ be positive integers. By induction on $n$:
+Let $a$ and $b$ be real numbers, and $m$ and $n$ be positive integers. By induction on $n$:
 
-Base case ($n = 1$):
-<br>
-$a^m a^1 = a^m a = a^{m + 1}$.
+1. Base case ($n = 1$):
+   <br>
+   $`a^m a^1 = a^m a = a^{m + 1}`$.
 
-Inductive step:
-<br>
-Assume $a^m a^n = a^{m + n}$. Then:
+   Inductive step:
+   <br>
+   Assume $a^m a^n = a^{m + n}$. Then:
 
-$`
-\begin{align}
-a^m a^{n + 1}
-&= a^m (a^n a) \\
-&= (a^m a^n) a \\
-&= a^{m + n} a \\
-&= a^{(m + n) + 1} \\
-&= a^{m + (n + 1)}.
-\end{align}
-`$
+   $`
+   \begin{align}
+   a^m a^{n + 1}
+   &= a^m (a^n a) \\
+   &= (a^m a^n) a \\
+   &= a^{m + n} a \\
+   &= a^{(m + n) + 1} \\
+   &= a^{m + (n + 1)}.
+   \end{align}
+   `$
+
+2. Base case:
+
+3. Base case:
 
 </details>
 
