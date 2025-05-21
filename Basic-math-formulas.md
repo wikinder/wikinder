@@ -1,10 +1,10 @@
 ## Exponent laws
 
-1) $`a^m a^n = a^{m + n}`$
+1. $`a^m a^n = a^{m + n}`$
 
-2) $`(a^m)^n = a^{mn}`$
+2. $`(a^m)^n = a^{mn}`$
 
-3) $`(ab)^n = a^n b^n`$
+3. $`(ab)^n = a^n b^n`$
 
 ### Proof
 
