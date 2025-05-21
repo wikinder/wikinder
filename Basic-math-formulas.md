@@ -24,9 +24,11 @@ Assume $a^m a^n = a^{m + n}$. Then:
 $`
 \begin{align}
 a^m a^{n + 1}
-&= a^m a^n a \\
+&= a^m (a^n a) \\
+&= (a^m a^n) a \\
 &= a^{m + n} a \\
-&= a^{m + n + 1}.
+&= a^{(m + n) + 1} \\
+&= a^{m + (n + 1)}.
 \end{align}
 `$
 
