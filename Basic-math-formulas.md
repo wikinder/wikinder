@@ -1,10 +1,10 @@
 ## Exponent laws
 
-$$a^m a^n = a^{m + n}$$
+$`a^m a^n = a^{m + n}`$
 
-$$(a^m)^n = a^{mn}$$
+$`(a^m)^n = a^{mn}`$
 
-$$(ab)^n = a^n b^n$$
+$`(ab)^n = a^n b^n`$
 
 ### Proof
 
@@ -36,8 +36,21 @@ a^m a^{n + 1}
 
 ## Logarithm laws
 
-$$\log_b (xy) = \log_b x + \log_b y$$
+$`\log_b (xy) = \log_b x + \log_b y`$
 
-$$\log_b (x^k) = k \log_b x$$
+$`\log_b (x^k) = k \log_b x`$
 
-$$\log_b x = \frac{\log_c x}{\log_c b}$$
+$`\log_b x = \frac{\log_c x}{\log_c b}`$
+
+### Proof
+
+<details>
+<summary>[show]</summary>
+
+$`\log_b (xy) = \log_b (b^{\log_b x} b^{\log_b y}) = \log_b (b^{\log_b x + \log_b y}) = \log_b x + \log_b y`$
+
+$`\log_b (x^k) = \log_b [(b^{\log_b x})^k] = \log_b (b^{k \log_b x}) = k \log_b x`$
+
+$`\log_b x = \frac{\log_b x \cdot \log_c b}{\log_c b} = \frac{\log_c (b^{\log_b x})}{\log_c b} = \frac{\log_c x}{\log_c b}`$
+
+</details>
