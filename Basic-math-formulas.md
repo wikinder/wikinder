@@ -47,10 +47,31 @@ $`\log_b x = \frac{\log_c x}{\log_c b}`$
 <details>
 <summary>[show]</summary>
 
-$`\log_b (xy) = \log_b (b^{\log_b x} b^{\log_b y}) = \log_b (b^{\log_b x + \log_b y}) = \log_b x + \log_b y`$
+$`
+\begin{align}
+\log_b (xy)
+&= \log_b (b^{\log_b x} b^{\log_b y}) \\
+&= \log_b (b^{\log_b x + \log_b y}) \\
+&= \log_b x + \log_b y
+\end{align}
+`$
 
-$`\log_b (x^k) = \log_b [(b^{\log_b x})^k] = \log_b (b^{k \log_b x}) = k \log_b x`$
+$`
+\begin{align}
+\log_b (x^k)
+&= \log_b [(b^{\log_b x})^k] \\
+&= \log_b (b^{k \log_b x}) \\
+&= k \log_b x
+\end{align}
+`$
 
-$`\log_b x = \frac{\log_b x \cdot \log_c b}{\log_c b} = \frac{\log_c (b^{\log_b x})}{\log_c b} = \frac{\log_c x}{\log_c b}`$
+$`
+\begin{align}
+\log_b x
+&= \frac{\log_b x \cdot \log_c b}{\log_c b} \\
+&= \frac{\log_c (b^{\log_b x})}{\log_c b} \\
+&= \frac{\log_c x}{\log_c b}
+\end{align}
+`$
 
 </details>
