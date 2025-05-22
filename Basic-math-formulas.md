@@ -93,11 +93,11 @@ By induction on $n$:
    **Base case ($n = 1$)**:
    <br>
    $`
-   \begin{align}
+   \begin{array}{lcll}
    (ab)^1
-   &= ab \\
-   &= a^1 b^1.
-   \end{align}
+   & = & ab       & \text{(by Def. 1)} \\
+   & = & a^1 b^1. & \text{(by Def. 1)}
+   \end{array}
    `$
 
    **Inductive step**:
@@ -105,13 +105,13 @@ By induction on $n$:
    Assume $(ab)^n = a^n b^n$. Then:
 
    $`
-   \begin{align}
+   \begin{array}{lcll}
    (ab)^{n + 1}
-   &= (ab)^n (ab) \\
-   &= a^n b^n (ab) \\
-   &= (a^n a) (b^n b) \\
-   &= a^{n + 1} b^{n + 1}.
-   \end{align}
+   &= (ab)^n (ab)          & \text{(by Def. 2)} \\
+   &= a^n b^n (ab)         & \text{(by the induction hypothesis)} \\
+   &= (a^n a) (b^n b)      & \text{(by associativity \& commutativity)} \\
+   &= a^{n + 1} b^{n + 1}. & \text{(by Def. 2)}
+   \end{array}
    `$
 
    </details>
