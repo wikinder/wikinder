@@ -18,7 +18,7 @@ Let $a$ and $b$ be real numbers, and $m$ and $n$ be positive integers.
 $`
 \begin{array}{lcl}
 a^1       & = & a, \\
-a^{n + 1} & = & a^n \cdot a \text{ for } n \ge 1.
+a^{n + 1} & = & a^n a \text{ for } n \ge 1.
 \end{array}
 `$
 
@@ -31,22 +31,22 @@ Then by induction on $n$:
    <br>
    $`
    \begin{align}
-   a^m \cdot a^1
-   &= a^m \cdot a \\
+   a^m a^1
+   &= a^m a \\
    &= a^{m + 1}.
    \end{align}
    `$
 
    **Inductive step**:
    <br>
-   Assume $a^m \cdot a^n = a^{m + n}$. Then:
+   Assume $a^m a^n = a^{m + n}$. Then:
 
    $`
    \begin{align}
-   a^m \cdot a^{n + 1}
-   &= a^m \cdot (a^n \cdot a) \\
-   &= (a^m \cdot a^n) \cdot a \\
-   &= a^{m + n} \cdot a \\
+   a^m a^{n + 1}
+   &= a^m (a^n a) \\
+   &= (a^m a^n) a \\
+   &= a^{m + n} a \\
    &= a^{(m + n) + 1} \\
    &= a^{m + (n + 1)}.
    \end{align}
