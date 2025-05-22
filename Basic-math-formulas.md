@@ -22,7 +22,9 @@ a^{n + 1} & = & a^n a & \text{for } n \ge 1. & \text{(Def. 2)}
 
 By induction on $n$:
 
-1. <details>
+1. $a^m a^n = a^{m + n}$
+
+   <details>
    <summary>[show]</summary>
 
    **Base case ($n = 1$)**:
@@ -43,16 +45,18 @@ By induction on $n$:
    \begin{array}{lcll}
    a^m a^{n + 1}
    & = & a^m (a^n a)     & \text{(by Def. 2)} \\
-   & = & (a^m a^n) a     & \text{(by associativity)} \\
+   & = & (a^m a^n) a     & \text{(by associativity of multiplication)} \\
    & = & a^{m + n} a     & \text{(by the induction hypothesis)} \\
    & = & a^{(m + n) + 1} & \text{(by Def. 2)} \\
-   & = & a^{m + (n + 1)} & \text{(by associativity)}.
+   & = & a^{m + (n + 1)} & \text{(by associativity of addition)}.
    \end{array}
    `$
 
    </details>
 
-2. <details>
+2. $(a^m)^n = a^{mn}$
+
+   <details>
    <summary>[show]</summary>
 
    **Base case ($n = 1$)**:
@@ -81,7 +85,9 @@ By induction on $n$:
 
    </details>
 
-3. <details>
+3. $(ab)^n = a^n b^n$
+
+   <details>
    <summary>[show]</summary>
 
    **Base case ($n = 1$)**:
