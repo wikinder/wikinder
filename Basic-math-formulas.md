@@ -6,9 +6,6 @@
 
 ### Proof
 
-<details>
-<summary>[show]</summary>
-
 Let $a$ and $b$ be real numbers, and let $m$ and $n$ be positive integers.
 
 **Definition (_Exponentiation_)**:
@@ -23,9 +20,6 @@ a^{n + 1} & = & a^n a & \text{for } n \ge 1. & \text{(Def. 2)}
 By induction on $n$:
 
 1. $a^m a^n = a^{m + n}$
-
-   <details>
-   <summary>[show]</summary>
 
    **Base case ($n = 1$)**:
    <br>
@@ -46,13 +40,11 @@ By induction on $n$:
    a^m a^{n + 1}
    & = a^m (a^n a)      & & \text{(by Def. 2)} \\
    & = (a^m a^n) a      & & \text{(by associativity)} \\
-   & = a^{m + n} a      & & \text{(by the induction hypothesis)} \\
+   & = a^{m + n} a      & & \text{(by induction hypothesis)} \\
    & = a^{(m + n) + 1}  & & \text{(by Def. 2)} \\
    & = a^{m + (n + 1)}. & & \text{(by associativity)}
    \end{align*}
    `$
-
-   </details>
 
 2. $(a^m)^n = a^{mn}$
 
@@ -115,8 +107,6 @@ By induction on $n$:
    `$
 
    </details>
-
-</details>
 
 ## Logarithm rules
 
