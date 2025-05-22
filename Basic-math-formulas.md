@@ -1,4 +1,4 @@
-## Exponent laws
+## Exponent rules
 
 1. $`a^m a^n = a^{m + n}`$
 
@@ -70,7 +70,7 @@ By induction on $n$:
 
 </details>
 
-## Logarithm laws
+## Logarithm rules
 
 1. $`\log_b (xy) = \log_b x + \log_b y`$
 
