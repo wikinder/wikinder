@@ -32,8 +32,8 @@ By induction on $n$:
    $`
    \begin{align*}
    a^m a^1
-   & = a^m a      & \text{(by Def. 1)} \\
-   & = a^{m + 1}. & \text{(by Def. 2)}
+   & = a^m a      & & \text{(by Def. 1)} \\
+   & = a^{m + 1}. & & \text{(by Def. 2)}
    \end{align*}
    `$
 
@@ -44,11 +44,11 @@ By induction on $n$:
    $`
    \begin{align*}
    a^m a^{n + 1}
-   & = a^m (a^n a)      & \text{(by Def. 2)} \\
-   & = (a^m a^n) a      & \text{(by associativity)} \\
-   & = a^{m + n} a      & \text{(by the induction hypothesis)} \\
-   & = a^{(m + n) + 1}  & \text{(by Def. 2)} \\
-   & = a^{m + (n + 1)}. & \text{(by associativity)}
+   & = a^m (a^n a)      & & \text{(by Def. 2)} \\
+   & = (a^m a^n) a      & & \text{(by associativity)} \\
+   & = a^{m + n} a      & & \text{(by the induction hypothesis)} \\
+   & = a^{(m + n) + 1}  & & \text{(by Def. 2)} \\
+   & = a^{m + (n + 1)}. & & \text{(by associativity)}
    \end{align*}
    `$
 
@@ -64,8 +64,8 @@ By induction on $n$:
    $`
    \begin{align*}
    (a^m)^1
-   & = a^m            & \text{(by Def. 1)} \\
-   & = a^{m \cdot 1}. & \text{(by identity)}
+   & = a^m            & & \text{(by Def. 1)} \\
+   & = a^{m \cdot 1}. & & \text{(by identity)}
    \end{align*}
    `$
 
@@ -76,10 +76,10 @@ By induction on $n$:
    $`
    \begin{align*}
    (a^m)^{n + 1}
-   & = (a^m)^n a^m   & \text{(by Def. 2)} \\
-   & = a^{mn} a^m    & \text{(by the induction hypothesis)} \\
-   & = a^{mn + m}    & \text{(by Rule 1)} \\
-   & = a^{m(n + 1)}. & \text{(by distributivity)}
+   & = (a^m)^n a^m   & & \text{(by Def. 2)} \\
+   & = a^{mn} a^m    & & \text{(by the induction hypothesis)} \\
+   & = a^{mn + m}    & & \text{(by Rule 1)} \\
+   & = a^{m(n + 1)}. & & \text{(by distributivity)}
    \end{align*}
    `$
 
@@ -95,8 +95,8 @@ By induction on $n$:
    $`
    \begin{align*}
    (ab)^1
-   & = ab       & \text{(by Def. 1)} \\
-   & = a^1 b^1. & \text{(by Def. 1)}
+   & = ab       & & \text{(by Def. 1)} \\
+   & = a^1 b^1. & & \text{(by Def. 1)}
    \end{align*}
    `$
 
@@ -107,10 +107,10 @@ By induction on $n$:
    $`
    \begin{align*}
    (ab)^{n + 1}
-   & = (ab)^n (ab)          & \text{(by Def. 2)} \\
-   & = a^n b^n (ab)         & \text{(by the induction hypothesis)} \\
-   & = (a^n a) (b^n b)      & \text{(by associativity and commutativity)} \\
-   & = a^{n + 1} b^{n + 1}. & \text{(by Def. 2)}
+   & = (ab)^n (ab)          & & \text{(by Def. 2)} \\
+   & = a^n b^n (ab)         & & \text{(by the induction hypothesis)} \\
+   & = (a^n a) (b^n b)      & & \text{(by associativity and commutativity)} \\
+   & = a^{n + 1} b^{n + 1}. & & \text{(by Def. 2)}
    \end{align*}
    `$
 
