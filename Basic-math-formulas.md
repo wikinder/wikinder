@@ -123,6 +123,8 @@ By induction on $n$:
 <details>
 <summary>[show]</summary>
 
+Let $x, y > 0$ and $k$ be real numbers, and let $b, c > 0$ be real numbers with $b, c \ne 1$.
+
 1. <br>
 
    $`
