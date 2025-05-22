@@ -107,10 +107,10 @@ By induction on $n$:
    $`
    \begin{array}{lcll}
    (ab)^{n + 1}
-   &= (ab)^n (ab)          & \text{(by Def. 2)} \\
-   &= a^n b^n (ab)         & \text{(by the induction hypothesis)} \\
-   &= (a^n a) (b^n b)      & \text{(by associativity \& commutativity)} \\
-   &= a^{n + 1} b^{n + 1}. & \text{(by Def. 2)}
+   & = & (ab)^n (ab)          & \text{(by Def. 2)} \\
+   & = & a^n b^n (ab)         & \text{(by the induction hypothesis)} \\
+   & = & (a^n a) (b^n b)      & \text{(by associativity and commutativity)} \\
+   & = & a^{n + 1} b^{n + 1}. & \text{(by Def. 2)}
    \end{array}
    `$
 
