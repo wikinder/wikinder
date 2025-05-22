@@ -139,7 +139,7 @@ By induction on $n$:
    $`
    \begin{align}
    \log_b (x^k)
-   &= \log_b [(b^{\log_b x})^k] \\
+   &= \log_b ((b^{\log_b x})^k) \\
    &= \log_b (b^{k \log_b x}) \\
    &= k \log_b x
    \end{align}
