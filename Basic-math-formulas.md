@@ -11,7 +11,18 @@
 <details>
 <summary>[show]</summary>
 
-Let $a$ and $b$ be real numbers, and $m$ and $n$ be positive integers. By induction on $n$:
+Let $a$ and $b$ be real numbers, and $m$ and $n$ be positive integers.
+
+**Definition (_Exponentiation_)**:
+
+$`
+\begin{array}{lcl}
+a^1       & = & a, \\
+a^{n + 1} & = & a^n \cdot a \text{ for } n \ge 1.
+\end{array}
+`$
+
+Then by induction on $n$:
 
 1. <details>
    <summary>[show]</summary>
