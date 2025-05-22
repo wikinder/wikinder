@@ -1,10 +1,8 @@
 ## Exponent rules
 
-1. $`a^m a^n = a^{m + n}`$
-
-2. $`(a^m)^n = a^{mn}`$
-
-3. $`(ab)^n = a^n b^n`$
+1. $a^m a^n = a^{m + n}$
+2. $(a^m)^n = a^{mn}$
+3. $(ab)^n = a^n b^n$
 
 ### Proof
 
@@ -57,14 +55,36 @@ By induction on $n$:
 2. <details>
    <summary>[show]</summary>
 
-   Base case:
+   **Base case ($n = 1$)**:
+   <br>
+   $`
+   \begin{align}
+   (a^m)^1
+   &= a^m \\
+   &= a^{m \cdot 1}.
+   \end{align}
+   `$
+
+   **Inductive step**:
+   <br>
+   Assume $(a^m)^n = a^{mn}$. Then:
+
+   $`
+   \begin{align}
+   (a^m)^{n + 1}
+   &= (a^m)^n a^m \\
+   &= a^{mn} a^m \\
+   &= a^{mn + m} \\
+   &= a^{m(n + 1)}.
+   \end{align}
+   `$
 
    </details>
 
 3. <details>
    <summary>[show]</summary>
 
-   Base case:
+   **Base case ($n = 1$)**:
 
    </details>
 
@@ -72,11 +92,9 @@ By induction on $n$:
 
 ## Logarithm rules
 
-1. $`\log_b (xy) = \log_b x + \log_b y`$
-
-2. $`\log_b (x^k) = k \log_b x`$
-
-3. $`\log_b x = \frac{\log_c x}{\log_c b}`$
+1. $\log_b (xy) = \log_b x + \log_b y$
+2. $\log_b (x^k) = k \log_b x$
+3. $\log_b x = \frac{\log_c x}{\log_c b}$
 
 ### Proof
 
