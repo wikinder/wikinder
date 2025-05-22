@@ -136,7 +136,7 @@ just like $f(f^{-1}(x)) = f^{-1}(f(x)) = x$. Using this:
    \log_b (xy)
    &= \log_b (b^{\log_b x} b^{\log_b y}) \\
    &= \log_b (b^{\log_b x + \log_b y}) \\
-   &= \log_b x + \log_b y
+   &= \log_b x + \log_b y.
    \end{align}
    `$
 
@@ -147,7 +147,7 @@ just like $f(f^{-1}(x)) = f^{-1}(f(x)) = x$. Using this:
    \log_b (x^k)
    &= \log_b ((b^{\log_b x})^k) \\
    &= \log_b (b^{k \log_b x}) \\
-   &= k \log_b x
+   &= k \log_b x.
    \end{align}
    `$
 
@@ -158,7 +158,7 @@ just like $f(f^{-1}(x)) = f^{-1}(f(x)) = x$. Using this:
    \log_b x
    &= \frac{\log_b x \cdot \log_c b}{\log_c b} \\
    &= \frac{\log_c (b^{\log_b x})}{\log_c b} \\
-   &= \frac{\log_c x}{\log_c b}
+   &= \frac{\log_c x}{\log_c b}.
    \end{align}
    `$
 
