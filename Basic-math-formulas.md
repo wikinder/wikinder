@@ -27,20 +27,26 @@ Then by induction on $n$:
 1. <details>
    <summary>[show]</summary>
 
-   Base case ($n = 1$):
+   **Base case ($n = 1$)**:
    <br>
-   $`a^m a^1 = a^m a = a^{m + 1}`$.
+   $`
+   \begin{align}
+   a^m \cdot a^1
+   &= a^m \cdot a \\
+   &= a^{m + 1}.
+   \end{align}
+   `$
 
-   Inductive step:
+   **Inductive step**:
    <br>
-   Assume $a^m a^n = a^{m + n}$. Then:
+   Assume $a^m \cdot a^n = a^{m + n}$. Then:
 
    $`
    \begin{align}
-   a^m a^{n + 1}
-   &= a^m (a^n a) \\
-   &= (a^m a^n) a \\
-   &= a^{m + n} a \\
+   a^m \cdot a^{n + 1}
+   &= a^m \cdot (a^n \cdot a) \\
+   &= (a^m \cdot a^n) \cdot a \\
+   &= a^{m + n} \cdot a \\
    &= a^{(m + n) + 1} \\
    &= a^{m + (n + 1)}.
    \end{align}
