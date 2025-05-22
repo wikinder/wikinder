@@ -14,9 +14,9 @@ Let $a$ and $b$ be real numbers, and let $m$ and $n$ be positive integers.
 **Definition (_Exponentiation_)**:
 
 $`
-\begin{array}{lcl}
-a^1       & = & a, \\
-a^{n + 1} & = & a^n a \text{ for } n \ge 1.
+\begin{array}{lclll}
+a^1       & = & a,    &                      & \text{(Def. 1)} \\
+a^{n + 1} & = & a^n a & \text{for } n \ge 1. & \text{(Def. 2)}
 \end{array}
 `$
 
@@ -28,11 +28,11 @@ By induction on $n$:
    **Base case ($n = 1$)**:
    <br>
    $`
-   \begin{align}
+   \begin{array}{lcll}
    a^m a^1
-   &= a^m a \\
-   &= a^{m + 1}.
-   \end{align}
+   & = & a^m a     & \text{(by Def. 1)} \\
+   & = & a^{m + 1} & \text{(by Def. 2)}.
+   \end{array}
    `$
 
    **Inductive step**:
@@ -40,14 +40,14 @@ By induction on $n$:
    Assume $a^m a^n = a^{m + n}$. Then:
 
    $`
-   \begin{align}
+   \begin{array}{lcll}
    a^m a^{n + 1}
-   &= a^m (a^n a) \\
-   &= (a^m a^n) a \\
-   &= a^{m + n} a \\
-   &= a^{(m + n) + 1} \\
-   &= a^{m + (n + 1)}.
-   \end{align}
+   & = & a^m (a^n a)     & \text{(by Def. 2)} \\
+   & = & (a^m a^n) a     & \text{(by associativity)} \\
+   & = & a^{m + n} a     & \text{(by the induction hypothesis)} \\
+   & = & a^{(m + n) + 1} & \text{(by Def. 2)} \\
+   & = & a^{m + (n + 1)} & \text{(by associativity)}.
+   \end{array}
    `$
 
    </details>
