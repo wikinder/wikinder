@@ -45,10 +45,10 @@ By induction on $n$:
    \begin{array}{lcll}
    a^m a^{n + 1}
    & = & a^m (a^n a)     & \text{(by Def. 2)} \\
-   & = & (a^m a^n) a     & \text{(by associativity of multiplication)} \\
+   & = & (a^m a^n) a     & \text{(by associativity)} \\
    & = & a^{m + n} a     & \text{(by the induction hypothesis)} \\
    & = & a^{(m + n) + 1} & \text{(by Def. 2)} \\
-   & = & a^{m + (n + 1)} & \text{(by associativity of addition)}.
+   & = & a^{m + (n + 1)} & \text{(by associativity)}.
    \end{array}
    `$
 
