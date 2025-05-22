@@ -22,7 +22,7 @@ a^{n + 1} & = & a^n a \text{ for } n \ge 1.
 \end{array}
 `$
 
-Then by induction on $n$:
+By induction on $n$:
 
 1. <details>
    <summary>[show]</summary>
