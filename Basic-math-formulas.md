@@ -32,8 +32,8 @@ By induction on $n$:
    $`
    \begin{array}{lcll}
    a^m a^1
-   & = & a^m a     & \text{(by Def. 1)} \\
-   & = & a^{m + 1} & \text{(by Def. 2)}.
+   & = & a^m a      & \text{(by Def. 1)} \\
+   & = & a^{m + 1}. & \text{(by Def. 2)}
    \end{array}
    `$
 
@@ -44,11 +44,11 @@ By induction on $n$:
    $`
    \begin{array}{lcll}
    a^m a^{n + 1}
-   & = & a^m (a^n a)     & \text{(by Def. 2)} \\
-   & = & (a^m a^n) a     & \text{(by associativity)} \\
-   & = & a^{m + n} a     & \text{(by the induction hypothesis)} \\
-   & = & a^{(m + n) + 1} & \text{(by Def. 2)} \\
-   & = & a^{m + (n + 1)} & \text{(by associativity)}.
+   & = & a^m (a^n a)      & \text{(by Def. 2)} \\
+   & = & (a^m a^n) a      & \text{(by associativity)} \\
+   & = & a^{m + n} a      & \text{(by the induction hypothesis)} \\
+   & = & a^{(m + n) + 1}  & \text{(by Def. 2)} \\
+   & = & a^{m + (n + 1)}. & \text{(by associativity)}
    \end{array}
    `$
 
@@ -62,11 +62,11 @@ By induction on $n$:
    **Base case ($n = 1$)**:
    <br>
    $`
-   \begin{align}
+   \begin{array}{lcll}
    (a^m)^1
-   &= a^m \\
-   &= a^{m \cdot 1}.
-   \end{align}
+   & = & a^m            & \text{(by Def. 1)} \\
+   & = & a^{m \cdot 1}. & \text{(by identity)}
+   \end{array}
    `$
 
    **Inductive step**:
@@ -74,13 +74,13 @@ By induction on $n$:
    Assume $(a^m)^n = a^{mn}$. Then:
 
    $`
-   \begin{align}
+   \begin{array}{lcll}
    (a^m)^{n + 1}
-   &= (a^m)^n a^m \\
-   &= a^{mn} a^m \\
-   &= a^{mn + m} \\
-   &= a^{m(n + 1)}.
-   \end{align}
+   & = & (a^m)^n a^m   & \text{(by Def. 2)} \\
+   & = & a^{mn} a^m    & \text{(by the induction hypothesis)} \\
+   & = & a^{mn + m}    & \text{(by Rule 1)} \\
+   & = & a^{m(n + 1)}. & \text{(by distributivity)}
+   \end{array}
    `$
 
    </details>
