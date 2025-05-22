@@ -9,7 +9,7 @@
 <details>
 <summary>[show]</summary>
 
-Let $a$ and $b$ be real numbers, and $m$ and $n$ be positive integers.
+Let $a$ and $b$ be real numbers, and let $m$ and $n$ be positive integers.
 
 **Definition (_Exponentiation_)**:
 
