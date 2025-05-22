@@ -85,6 +85,28 @@ By induction on $n$:
    <summary>[show]</summary>
 
    **Base case ($n = 1$)**:
+   <br>
+   $`
+   \begin{align}
+   (ab)^1
+   &= ab \\
+   &= a^1 b^1.
+   \end{align}
+   `$
+
+   **Inductive step**:
+   <br>
+   Assume $(ab)^n = a^n b^n$. Then:
+
+   $`
+   \begin{align}
+   (ab)^{n + 1}
+   &= (ab)^n (ab) \\
+   &= a^n b^n (ab) \\
+   &= (a^n a) (b^n b) \\
+   &= a^{n + 1} b^{n + 1}.
+   \end{align}
+   `$
 
    </details>
 
