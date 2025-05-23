@@ -16,7 +16,7 @@ a^m a^n = a^{m + n} & \quad \text{(1)} \\
 \begin{array}{ll}
 \log_b (xy) = \log_b x + \log_b y     & \quad \text{(1)} \\
 \\
-\log_b (x^k) = k \, \log_b x          & \quad \text{(2)} \\
+\log_b (x^k) = k \log_b x             & \quad \text{(2)} \\
 \\
 \log_b x = \dfrac{\log_c x}{\log_c b} & \quad \text{(3)}
 \end{array}
