@@ -22,7 +22,7 @@ a^m a^n = a^{m + n} & \quad \text{(1)} \\
 \end{array}
 ```
 
-## Proof
+## Proofs
 
 ### Exponent rules
 
