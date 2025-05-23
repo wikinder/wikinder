@@ -162,7 +162,7 @@ just like $f(f^{-1}(x)) = f^{-1}(f(x)) = x$. Using this:
    $`
    \begin{align}
    \log_b x
-   &= \frac{\log_b x \cdot \log_c b}{\log_c b} \\
+   &= \log_b x \cdot \frac{\log_c b}{\log_c b} \\
    &= \frac{\log_c (b^{\log_b x})}{\log_c b} \\
    &= \frac{\log_c x}{\log_c b}.
    \end{align}
