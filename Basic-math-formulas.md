@@ -12,11 +12,15 @@ $$
 
 ## Logarithm rules
 
-$$\log_b (xy) = \log_b x + \log_b y \qquad \text{(1)}$$
-
-$$\log_b (x^k) = k \log_b x \qquad \text{(2)}$$
-
-$$\log_b x = \frac{\log_c x}{\log_c b} \qquad \text{(3)}$$
+$$
+\begin{array}{lcll}
+\log_b (xy)  & = & \log_b x + \log_b y       & \quad \text{(1)} \\
+\\
+\log_b (x^k) & = & k \log_b x                & \quad \text{(2)} \\
+\\
+\log_b x     & = & \frac{\log_c x}{\log_c b} & \quad \text{(3)}
+\end{array}
+$$
 
 ## Proof
 
