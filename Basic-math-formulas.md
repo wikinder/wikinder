@@ -126,9 +126,12 @@ By induction on $n$:
 
 ### Proof
 
-Since a logarithm is the inverse of exponentiation, we have:
+<details>
+<summary>[show]</summary>
 
-$$b^{\log_b x} = \log_b (b^x) = x,$$
+Let $x, y > 0$ and $k$ be real numbers, and let $b, c > 0$ be real numbers with $b, c \ne 1$. Since a logarithm is the inverse of exponentiation, we have:
+
+$`b^{\log_b x} = \log_b (b^x) = x,`$
 
 just like $f(f^{-1}(x)) = f^{-1}(f(x)) = x$. Using this:
 
@@ -164,3 +167,5 @@ just like $f(f^{-1}(x)) = f^{-1}(f(x)) = x$. Using this:
    &= \frac{\log_c x}{\log_c b}.
    \end{align}
    `$
+
+</details>
