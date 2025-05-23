@@ -2,11 +2,11 @@
 
 ```math
 \begin{array}{ll}
-a^m a^n = a^{m + n} & \quad \text{(1)} \\
+a^m a^n = a^{m + n} & \qquad \text{(1)} \\
 \\
-(a^m)^n = a^{mn}    & \quad \text{(2)} \\
+(a^m)^n = a^{mn}    & \qquad \text{(2)} \\
 \\
-(ab)^n = a^n b^n    & \quad \text{(3)}
+(ab)^n = a^n b^n    & \qquad \text{(3)}
 \end{array}
 ```
 
@@ -14,11 +14,11 @@ a^m a^n = a^{m + n} & \quad \text{(1)} \\
 
 ```math
 \begin{array}{ll}
-\log_b (xy) = \log_b x + \log_b y     & \quad \text{(1)} \\
+\log_b (xy) = \log_b x + \log_b y     & \qquad \text{(1)} \\
 \\
-\log_b (x^k) = k \log_b x             & \quad \text{(2)} \\
+\log_b (x^k) = k \log_b x             & \qquad \text{(2)} \\
 \\
-\log_b x = \dfrac{\log_c x}{\log_c b} & \quad \text{(3)}
+\log_b x = \dfrac{\log_c x}{\log_c b} & \qquad \text{(3)}
 \end{array}
 ```
 
