@@ -1,6 +1,6 @@
 ## Exponent rules
 
-$$
+```math
 \begin{array}{ll}
 a^m a^n = a^{m + n} & \quad \text{(1)} \\
 \\
@@ -8,11 +8,11 @@ a^m a^n = a^{m + n} & \quad \text{(1)} \\
 \\
 (ab)^n = a^n b^n    & \quad \text{(3)}
 \end{array}
-$$
+```
 
 ## Logarithm rules
 
-$$
+```math
 \begin{array}{ll}
 \log_b (xy) = \log_b x + \log_b y     & \quad \text{(1)} \\
 \\
@@ -20,7 +20,7 @@ $$
 \\
 \log_b x = \dfrac{\log_c x}{\log_c b} & \quad \text{(3)}
 \end{array}
-$$
+```
 
 ## Proof
 
