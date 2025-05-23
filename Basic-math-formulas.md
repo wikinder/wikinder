@@ -41,7 +41,7 @@ By induction on $n$:
 
 (1) $a^m a^n = a^{m + n}$
 
-**Base case ($n = 1$)**:
+Base case ($n = 1$):
 
 $$
 \begin{align*}
@@ -50,9 +50,7 @@ a^m a^1 & = a^m a      & & \text{(by Def. 1)} \\
 \end{align*}
 $$
 
-**Inductive step**:
-
-Assume $a^m a^n = a^{m + n}$. Then:
+Inductive step: Assume $a^m a^n = a^{m + n}$. Then:
 
 $$
 \begin{align*}
@@ -66,7 +64,7 @@ $$
 
 (2) $(a^m)^n = a^{mn}$
 
-**Base case ($n = 1$)**:
+Base case ($n = 1$):
 
 $$
 \begin{align*}
@@ -75,9 +73,7 @@ $$
 \end{align*}
 $$
 
-**Inductive step**:
-
-Assume $(a^m)^n = a^{mn}$. Then:
+Inductive step: Assume $(a^m)^n = a^{mn}$. Then:
 
 $$
 \begin{align*}
@@ -90,7 +86,7 @@ $$
 
 (3) $(ab)^n = a^n b^n$
 
-**Base case ($n = 1$)**:
+Base case ($n = 1$):
 
 $$
 \begin{align*}
@@ -99,9 +95,7 @@ $$
 \end{align*}
 $$
 
-**Inductive step**:
-
-Assume $(ab)^n = a^n b^n$. Then:
+Inductive step: Assume $(ab)^n = a^n b^n$. Then:
 
 $$
 \begin{align*}
