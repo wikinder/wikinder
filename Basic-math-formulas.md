@@ -1,7 +1,7 @@
 ## Exponent rules
 
 $$
-\begin{array}{l}
+\begin{array}{ll}
 a^m a^n = a^{m + n} \\
 \\
 (a^m)^n = a^{mn} \\
@@ -13,7 +13,7 @@ $$
 ## Logarithm rules
 
 $$
-\begin{array}{l}
+\begin{array}{ll}
 \log_b (xy) = \log_b x + \log_b y \\
 \\
 \log_b (x^k) = k \log_b x \\
