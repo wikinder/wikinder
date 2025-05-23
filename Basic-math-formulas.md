@@ -1,6 +1,6 @@
 ## Exponent rules
 
-```math
+$$
 \begin{array}{ll}
 a^m a^n = a^{m + n} & \quad \text{(1)} \\
 \\
@@ -8,11 +8,11 @@ a^m a^n = a^{m + n} & \quad \text{(1)} \\
 \\
 (ab)^n = a^n b^n    & \quad \text{(3)}
 \end{array}
-```
+$$
 
 ## Logarithm rules
 
-```math
+$$
 \begin{array}{ll}
 \log_b (xy) = \log_b x + \log_b y     & \quad \text{(1)} \\
 \\
@@ -20,7 +20,7 @@ a^m a^n = a^{m + n} & \quad \text{(1)} \\
 \\
 \log_b x = \dfrac{\log_c x}{\log_c b} & \quad \text{(3)}
 \end{array}
-```
+$$
 
 ## Proofs
 
@@ -30,18 +30,16 @@ Let $a$ and $b$ be real numbers, and let $m$ and $n$ be positive integers.
 
 **Definition (_Exponentiation_)**:
 
-$`
-\begin{array}{lclll}
-a^1       & = & a,    &                      & \text{(Def. 1)} \\
-a^{n + 1} & = & a^n a & \text{for } n \ge 1. & \text{(Def. 2)}
+$$
+\begin{array}{ll}
+a^1 = a,                                     & \quad \text{(Def. 1)} \\
+a^{n + 1} = a^n a \quad \text{for } n \ge 1. & \quad \text{(Def. 2)}
 \end{array}
-`$
+$$
 
 By induction on $n$:
 
-(1)
-
-$a^m a^n = a^{m + n}$
+(1) $a^m a^n = a^{m + n}$
 
 **Base case ($n = 1$)**:
 <br>
