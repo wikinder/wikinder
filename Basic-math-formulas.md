@@ -3,7 +3,9 @@
 $$
 \begin{array}{ll}
 a^m a^n = a^{m + n} \\
+\\
 (a^m)^n = a^{mn} \\
+\\
 (ab)^n = a^n b^n
 \end{array}
 $$
@@ -13,7 +15,9 @@ $$
 $$
 \begin{array}{ll}
 \log_b (xy) = \log_b x + \log_b y \\
+\\
 \log_b (x^k) = k \log_b x \\
+\\
 \log_b x = \dfrac{\log_c x}{\log_c b}
 \end{array}
 $$
