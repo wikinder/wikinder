@@ -4,10 +4,15 @@
 2. $(a^m)^n = a^{mn}$
 3. $(ab)^n = a^n b^n$
 
-### Proof
+## Logarithm rules
 
-<details>
-<summary>[show]</summary>
+1. $\log_b (xy) = \log_b x + \log_b y$
+2. $\log_b (x^k) = k \log_b x$
+3. $\log_b x = \frac{\log_c x}{\log_c b}$
+
+## Proof
+
+### Exponent rules
 
 Let $a$ and $b$ be real numbers, and let $m$ and $n$ be positive integers.
 
@@ -23,9 +28,6 @@ a^{n + 1} & = & a^n a & \text{for } n \ge 1. & \text{(Def. 2)}
 By induction on $n$:
 
 1. $a^m a^n = a^{m + n}$
-
-   <details>
-   <summary>[show]</summary>
 
    **Base case ($n = 1$)**:
    <br>
@@ -52,12 +54,7 @@ By induction on $n$:
    \end{align*}
    `$
 
-   </details>
-
 2. $(a^m)^n = a^{mn}$
-
-   <details>
-   <summary>[show]</summary>
 
    **Base case ($n = 1$)**:
    <br>
@@ -83,12 +80,7 @@ By induction on $n$:
    \end{align*}
    `$
 
-   </details>
-
 3. $(ab)^n = a^n b^n$
-
-   <details>
-   <summary>[show]</summary>
 
    **Base case ($n = 1$)**:
    <br>
@@ -114,20 +106,7 @@ By induction on $n$:
    \end{align*}
    `$
 
-   </details>
-
-</details>
-
-## Logarithm rules
-
-1. $\log_b (xy) = \log_b x + \log_b y$
-2. $\log_b (x^k) = k \log_b x$
-3. $\log_b x = \frac{\log_c x}{\log_c b}$
-
-### Proof
-
-<details>
-<summary>[show]</summary>
+### Logarithm rules
 
 Let $x, y > 0$ and $k$ be real numbers, and let $b, c > 0$ be real numbers with $b, c \ne 1$. Since a logarithm is the inverse of exponentiation, we have:
 
@@ -167,5 +146,3 @@ just like $f(f^{-1}(x)) = f^{-1}(f(x)) = x$. Using this:
    &= \frac{\log_c x}{\log_c b}.
    \end{align}
    `$
-
-</details>
