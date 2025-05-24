@@ -59,7 +59,9 @@ ooooo
 ooooo
 ```
 
-**Definition (Even and odd numbers)**: Let $n$ and $k$ be integers. We say that $n$ is **even** if there exists $k$ such that $n = 2k$, and $n$ is **odd** if there exists $k$ such that $n = 2k + 1$.
+**Definition (_Even and odd numbers_)**:
+<br>
+Let $n$ and $k$ be integers. We say that $n$ is **even** if there exists $k$ such that $n = 2k$, and $n$ is **odd** if there exists $k$ such that $n = 2k + 1$.
 
 ### Odd numbers have a middle
 
