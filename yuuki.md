@@ -33,7 +33,9 @@
     </tr>
     <tr>
       <th>Place of birth</th>
-      <td>Iwate Prefectural Fukuoka Hospital</td>
+      <td itemprop="birthPlace" itemscope itemtype="https://schema.org/Hospital">
+        <span itemprop="name">Iwate Prefectural Fukuoka Hospital</span>
+      </td>
     </tr>
     <tr>
       <th>Hometown</th>
