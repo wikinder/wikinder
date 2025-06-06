@@ -35,7 +35,7 @@
     <tr>
       <th>Date of birth</th>
       <td>
-        <time itemprop="birthDate" datetime="1994-05-17T01:56+09:00">May 17, 1994 1:56 AM</time>
+        <time datetime="1994-05-17T01:56+09:00" itemprop="birthDate">May 17, 1994 1:56 AM <abbr title="Japan Standard Time">JST</abbr></time>
       </td>
     </tr>
     <tr>
