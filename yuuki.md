@@ -8,29 +8,26 @@
       <td itemprop="name" lang="ja">ゆうき</td>
     </tr>
     <tr>
-      <th rowspan="4" valign="top">Birth name</th>
+      <th rowspan="3" valign="top">Birth name</th>
       <td itemprop="alternateName" lang="en-US">
         <span itemprop="givenName">Yuuki</span>
         <span itemprop="familyName">Konno</span>
       </td>
     </tr>
     <tr>
-      <td itemprop="alternateName" lang="ja">
-        <span itemprop="familyName">金野</span>
-        <span itemprop="givenName">裕希</span>
+      <td lang="ja">
+        <ruby>
+          <rb itemprop="alternateName">
+            <span itemprop="familyName">金野</span><span itemprop="givenName">裕希</span>
+          </rb>
+          <rp>(</rp>
+          <rt lang="ja-Hira">こんのゆうき</rt>
+          <rp>)</rp>
+        </ruby>
       </td>
     </tr>
     <tr>
-      <td itemprop="alternateName" lang="ja-Hira">
-        <span itemprop="familyName">こんの</span>
-        <span itemprop="givenName">ゆうき</span>
-      </td>
-    </tr>
-    <tr>
-      <td itemprop="alternateName" lang="ja-Latn">
-        <span itemprop="familyName">Konno</span>
-        <span itemprop="givenName">Yūki</span>
-      </td>
+      <td lang="ja-Latn">Konno Yūki</td>
     </tr>
     <tr>
       <th rowspan="2" valign="top">Date of birth</th>
