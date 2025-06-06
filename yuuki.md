@@ -20,7 +20,7 @@
           <span itemprop="alternateName">
             <span itemprop="familyName">金野</span><span itemprop="givenName">裕希</span>
           </span>
-          <rp>(</rp><rt lang="ja-Hira">こんのゆうき</rt><rp>)</rp>
+          <rp>(</rp><rt lang="ja-Hira">こんの ゆうき</rt><rp>)</rp>
         </ruby>
       </td>
     </tr>
