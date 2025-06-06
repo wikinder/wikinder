@@ -1,12 +1,15 @@
 <div itemscope itemtype="https://schema.org/Person">
   <table>
     <tr>
-      <th>Professional name</th>
-      <td itemprop="name">yuuki</td>
+      <th rowspan="2" valign="top">Professional name</th>
+      <td itemprop="name" lang="en-US">yuuki</td>
+    </tr>
+    <tr>
+      <td itemprop="name" lang="ja">ゆうき</td>
     </tr>
     <tr>
       <th rowspan="4" valign="top">Birth name</th>
-      <td itemprop="alternateName">
+      <td itemprop="alternateName" lang="en-US">
         <span itemprop="givenName">Yuuki</span>
         <span itemprop="familyName">Konno</span>
       </td>
@@ -19,7 +22,7 @@
     </tr>
     <tr>
       <td itemprop="alternateName" lang="ja-Latn">
-        <span itemprop="familyName">KONNO</span>
+        <span itemprop="familyName">Konno</span>
         <span itemprop="givenName">Yūki</span>
       </td>
     </tr>
