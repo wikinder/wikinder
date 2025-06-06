@@ -34,7 +34,9 @@
     </tr>
     <tr>
       <th>Date of birth</th>
-      <td>May 17, 1994 1:56 AM</td>
+      <td>
+        <time itemprop="birthDate" datetime="1994-05-17T01:56+09:00">May 17, 1994 1:56 AM</time>
+      </td>
     </tr>
     <tr>
       <th>Place of birth</th>
