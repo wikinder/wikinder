@@ -1,12 +1,12 @@
-<div itemscope itemtype="http://schema.org/Person">
+<div itemscope itemtype="https://schema.org/Person">
   <table>
     <tr>
-      <th>Name</th>
+      <th>Professional name</th>
       <td itemprop="name">yuuki</td>
     </tr>
     <tr>
       <th rowspan="4" valign="top">Birth name</th>
-      <td>Yuuki Konno</td>
+      <td itemprop="alternateName">Yuuki Konno</td>
     </tr>
     <tr>
       <td>金野 裕希</td>
