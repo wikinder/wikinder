@@ -1,4 +1,4 @@
-<table itemscope itemtype="https://schema.org/Person">
+<table>
   <tr>
     <th>Date of birth</th>
     <td>May 17, 1994 1:56 AM</td>
