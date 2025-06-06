@@ -1,68 +1,69 @@
 <div itemscope itemtype="http://schema.org/Person">
-<table>
-  <tr>
-    <th>Name</th>
-    <td itemprop="name">yuuki</td>
-  </tr>
-  <tr>
-    <th rowspan="4" valign="top">Birth name</th>
-    <td>Yuuki Konno</td>
-  </tr>
-  <tr>
-    <td>金野 裕希</td>
-  </tr>
-  <tr>
-    <td>KONNO Yūki</td>
-  </tr>
-  <tr>
-    <td>こんの ゆうき</td>
-  </tr>
-  <tr>
-    <th>Date of birth</th>
-    <td>May 17, 1994 1:56 AM</td>
-  </tr>
-  <tr>
-    <th>Place of birth</th>
-    <td>Iwate Prefectural Fukuoka Hospital</td>
-  </tr>
-  <tr>
-    <th>Hometown</th>
-    <td>Esashi, Iwate, Japan</td>
-  </tr>
-  <tr>
-    <th>Education</th>
-    <td>Wikinder</td>
-  </tr>
-  <tr>
-    <th>Occupation</th>
-    <td>Wikid</td>
-  </tr>
-  <tr>
-    <th rowspan="6" valign="top">Medical conditions</th>
-    <td>Stuttering</td>
-  </tr>
-  <tr>
-    <td>Color blindness</td>
-  </tr>
-  <tr>
-    <td>Allergic rhinitis</td>
-  </tr>
-  <tr>
-    <td>Varicocele</td>
-  </tr>
-  <tr>
-    <td>Non-24-hour sleep-wake disorder</td>
-  </tr>
-  <tr>
-    <td>Anisometropia</td>
-  </tr>
-  <tr>
-    <th>Website</th>
-    <td>
-      <a href="https://yuukikonno.com/">yuukikonno.com</a>
-    </td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <th>Name</th>
+      <td itemprop="name">yuuki</td>
+    </tr>
+    <tr>
+      <th rowspan="4" valign="top">Birth name</th>
+      <td>Yuuki Konno</td>
+    </tr>
+    <tr>
+      <td>金野 裕希</td>
+    </tr>
+    <tr>
+      <td>KONNO Yūki</td>
+    </tr>
+    <tr>
+      <td>こんの ゆうき</td>
+    </tr>
+    <tr>
+      <th>Date of birth</th>
+      <td>May 17, 1994 1:56 AM</td>
+    </tr>
+    <tr>
+      <th>Place of birth</th>
+      <td>Iwate Prefectural Fukuoka Hospital</td>
+    </tr>
+    <tr>
+      <th>Hometown</th>
+      <td>Esashi, Iwate, Japan</td>
+    </tr>
+    <tr>
+      <th>Education</th>
+      <td>Wikinder</td>
+    </tr>
+    <tr>
+      <th>Occupation</th>
+      <td>Wikid</td>
+    </tr>
+    <tr>
+      <th rowspan="6" valign="top">Medical conditions</th>
+      <td>Stuttering</td>
+    </tr>
+    <tr>
+      <td>Color blindness</td>
+    </tr>
+    <tr>
+      <td>Allergic rhinitis</td>
+    </tr>
+    <tr>
+      <td>Varicocele</td>
+    </tr>
+    <tr>
+      <td>Non-24-hour sleep-wake disorder</td>
+    </tr>
+    <tr>
+      <td>Anisometropia</td>
+    </tr>
+    <tr>
+      <th>Website</th>
+      <td>
+        <a href="https://yuukikonno.com/">yuukikonno.com</a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 **Yuuki Konno** (金野 裕希, _Konno Yūki_, born May 17, 1994) is a Japanese Wikid.
 
