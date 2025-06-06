@@ -33,10 +33,14 @@
       </td>
     </tr>
     <tr>
-      <th>Date of birth</th>
+      <th rowspan="2" valign="top">Date of birth</th>
       <td>
-        <time datetime="1994-05-17T01:56+09:00" itemprop="birthDate">May 17, 1994 1:56 AM <abbr title="Japan Standard Time">JST</abbr></time>
+        May 17, 1994 1:56 AM
+        <abbr title="Japan Standard Time">JST</abbr>
       </td>
+    </tr>
+    <tr>
+      <td itemprop="birthDate">1994-05-17T01:56+09:00</td>
     </tr>
     <tr>
       <th>Place of birth</th>
