@@ -6,16 +6,28 @@
     </tr>
     <tr>
       <th rowspan="4" valign="top">Birth name</th>
-      <td itemprop="alternateName">Yuuki Konno</td>
+      <td itemprop="alternateName">
+        <span itemprop="givenName">Yuuki</span>
+        <span itemprop="familyName">Konno</span>
+      </td>
     </tr>
     <tr>
-      <td>金野 裕希</td>
+      <td itemprop="alternateName" lang="ja">
+        <span itemprop="familyName">金野</span>
+        <span itemprop="givenName">裕希</span>
+      </td>
     </tr>
     <tr>
-      <td>KONNO Yūki</td>
+      <td itemprop="alternateName" lang="ja-Latn">
+        <span itemprop="familyName">KONNO</span>
+        <span itemprop="givenName">Yūki</span>
+      </td>
     </tr>
     <tr>
-      <td>こんの ゆうき</td>
+      <td itemprop="alternateName" lang="ja-Hira">
+        <span itemprop="familyName">こんの</span>
+        <span itemprop="givenName">ゆうき</span>
+      </td>
     </tr>
     <tr>
       <th>Date of birth</th>
