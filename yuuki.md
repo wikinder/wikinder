@@ -1,5 +1,22 @@
 <table>
   <tr>
+    <th>Name</th>
+    <td>yuuki</td>
+  </tr>
+  <tr>
+    <th rowspan="4" valign="top">Birth name</th>
+    <td>Yuuki Konno</td>
+  </tr>
+  <tr>
+    <td>金野 裕希</td>
+  </tr>
+  <tr>
+    <td>KONNO Yūki</td>
+  </tr>
+  <tr>
+    <td>こんの ゆうき</td>
+  </tr>
+  <tr>
     <th>Date of birth</th>
     <td>May 17, 1994 1:56 AM</td>
   </tr>
