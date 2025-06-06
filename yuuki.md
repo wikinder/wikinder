@@ -17,9 +17,9 @@
     <tr>
       <td lang="ja">
         <ruby>
-          <rb itemprop="alternateName">
+          <span itemprop="alternateName">
             <span itemprop="familyName">金野</span><span itemprop="givenName">裕希</span>
-          </rb>
+          </span>
           <rp>(</rp>
           <rt lang="ja-Hira">こんのゆうき</rt>
           <rp>)</rp>
