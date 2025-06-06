@@ -2,14 +2,14 @@
   <table>
     <tr>
       <th rowspan="2" valign="top">Professional name</th>
-      <td itemprop="name" lang="en-US">yuuki</td>
+      <td itemprop="name">yuuki</td>
     </tr>
     <tr>
       <td itemprop="name" lang="ja">ゆうき</td>
     </tr>
     <tr>
       <th rowspan="3" valign="top">Birth name</th>
-      <td itemprop="alternateName" lang="en-US">
+      <td itemprop="alternateName">
         <span itemprop="givenName">Yuuki</span>
         <span itemprop="familyName">Konno</span>
       </td>
@@ -28,13 +28,7 @@
       <td lang="ja-Latn">Konno Yūki</td>
     </tr>
     <tr>
-      <th rowspan="2" valign="top">Date of birth</th>
-      <td>
-        May 17, 1994 1:56 AM
-        <abbr title="Japan Standard Time">JST</abbr>
-      </td>
-    </tr>
-    <tr>
+      <th>Date of birth</th>
       <td itemprop="birthDate">1994-05-17T01:56+09:00</td>
     </tr>
     <tr>
