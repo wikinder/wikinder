@@ -1,7 +1,8 @@
+<div itemscope itemtype="http://schema.org/Person">
 <table>
   <tr>
     <th>Name</th>
-    <td>yuuki</td>
+    <td itemprop="name">yuuki</td>
   </tr>
   <tr>
     <th rowspan="4" valign="top">Birth name</th>
