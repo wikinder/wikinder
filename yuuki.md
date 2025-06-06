@@ -21,15 +21,15 @@
       </td>
     </tr>
     <tr>
-      <td itemprop="alternateName" lang="ja-Latn">
-        <span itemprop="familyName">Konno</span>
-        <span itemprop="givenName">Yūki</span>
-      </td>
-    </tr>
-    <tr>
       <td itemprop="alternateName" lang="ja-Hira">
         <span itemprop="familyName">こんの</span>
         <span itemprop="givenName">ゆうき</span>
+      </td>
+    </tr>
+    <tr>
+      <td itemprop="alternateName" lang="ja-Latn">
+        <span itemprop="familyName">Konno</span>
+        <span itemprop="givenName">Yūki</span>
       </td>
     </tr>
     <tr>
