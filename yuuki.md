@@ -52,7 +52,9 @@
     <tr>
       <th>Occupation</th>
       <td>
-        <div itemprop="hasOccupation" itemscope itemtype="https://schema.org/Occupation">Wikid</div>
+        <div itemprop="hasOccupation" itemscope itemtype="https://schema.org/Occupation">
+          <span itemprop="name">Wikid</span>
+        </div>
       </td>
     </tr>
     <tr>
