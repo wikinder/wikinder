@@ -39,9 +39,7 @@
     </tr>
     <tr>
       <th>Gender</th>
-      <td>
-        <div itemprop="gender" itemscope itemtype="https://schema.org/Male">Male</div>
-      </td>
+      <td itemprop="gender">Male</td>
     </tr>
     <tr>
       <th>Hometown</th>
