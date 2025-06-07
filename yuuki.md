@@ -44,7 +44,10 @@
     <tr>
       <th>Height</th>
       <td>
-        <div itemprop="height" itemscope itemtype="https://schema.org/Distance">163.5 cm</div>
+        <div itemprop="height" itemscope itemtype="https://schema.org/QuantitativeValue">
+          <span itemprop="value">163.5</span>
+          <span itemprop="unitCode" content="CMT">cm</span>
+        </div>
       </td>
     </tr>
     <tr>
