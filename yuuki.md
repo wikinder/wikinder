@@ -46,7 +46,7 @@
       <td>
         <div itemprop="height" itemscope itemtype="https://schema.org/QuantitativeValue">
           <span itemprop="value">163.5</span>
-          <span itemprop="unitCode" content="CMT">cm</span>
+          <span itemprop="unitText">cm</span>
         </div>
       </td>
     </tr>
