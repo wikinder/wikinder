@@ -51,7 +51,9 @@
     </tr>
     <tr>
       <th>Occupation</th>
-      <td>Wikid</td>
+      <td>
+        <div itemprop="hasOccupation" itemscope itemtype="https://schema.org/Occupation">Wikid</div>
+      </td>
     </tr>
     <tr>
       <th rowspan="6" valign="top">Medical conditions</th>
