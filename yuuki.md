@@ -42,6 +42,12 @@
       <td itemprop="gender">Male</td>
     </tr>
     <tr>
+      <th>Height</th>
+      <td>
+        <div itemprop="height" itemscope itemtype="https://schema.org/Distance">163.5 cm</div>
+      </td>
+    </tr>
+    <tr>
       <th>Hometown</th>
       <td>Esashi, Iwate, Japan</td>
     </tr>
