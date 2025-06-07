@@ -38,6 +38,12 @@
       </td>
     </tr>
     <tr>
+      <th>Gender</th>
+      <td>
+        <div itemprop="gender" itemscope itemtype="https://schema.org/Male">Male</div>
+      </td>
+    </tr>
+    <tr>
       <th>Hometown</th>
       <td>Esashi, Iwate, Japan</td>
     </tr>
