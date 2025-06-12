@@ -16,6 +16,12 @@ $(a + b)^3 = a^3 + 3a^2 b + 3ab^2 + b^3$
 
 $(a + b)^n = \displaystyle \sum_{k = 0}^n \binom{n}{k} a^{n - k} b^k$ (Binomial theorem)
 
+$a^2 - b^2 = (a + b)(a - b)$
+
+$a^3 - b^3 = (a - b)(a^2 + ab + b^2)$
+
+$a^n - b^n = \displaystyle (a - b) \sum_{k = 0}^{n - 1} a^{n - k - 1} b^k$
+
 ## Quadratic formula
 
 $ax^2 + bx + c = 0$
