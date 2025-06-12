@@ -50,15 +50,15 @@ $= a^{m + 1}. \quad \text{(by Def. 2)}$
 
 Inductive step: Assume $a^m a^n = a^{m + n}$. Then:
 
-$$
-\begin{align*}
-a^m a^{n + 1} & = a^m (a^n a)      & & \text{(by Def. 2)} \\
-              & = (a^m a^n) a      & & \text{(by associativity)} \\
-              & = a^{m + n} a      & & \text{(by the induction hypothesis)} \\
-              & = a^{(m + n) + 1}  & & \text{(by Def. 2)} \\
-              & = a^{m + (n + 1)}. & & \text{(by associativity)}
-\end{align*}
-$$
+$a^m a^{n + 1} = a^m (a^n a) \quad \text{(by Def. 2)}$
+
+$= (a^m a^n) a \quad \text{(by associativity)}$
+
+$= a^{m + n} a \quad \text{(by the induction hypothesis)}$
+
+$= a^{(m + n) + 1} \quad \text{(by Def. 2)}$
+
+$= a^{m + (n + 1)}. \quad \text{(by associativity)}$
 
 #### Rule 2
 
