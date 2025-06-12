@@ -40,7 +40,7 @@ By induction on $n$:
 
 $a^m a^n = a^{m + n}$
 
-Base case ($n = 1$):
+**Base case ($n = 1$)**:
 
 $a^m a^1$
 
@@ -48,7 +48,7 @@ $= a^m a \quad \text{(by Def. 1)}$
 
 $= a^{m + 1}. \quad \text{(by Def. 2)}$
 
-Inductive step: Assume $a^m a^n = a^{m + n}$. Then:
+**Inductive step**: Assume $a^m a^n = a^{m + n}$. Then:
 
 $a^m a^{n + 1} = a^m (a^n a) \quad \text{(by Def. 2)}$
 
