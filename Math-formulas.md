@@ -6,6 +6,12 @@ $$(a + b)^3 = a^3 + 3a^2 b + 3ab^2 + b^3$$
 
 $$(a + b)^n = \sum_{k = 0}^n \binom{n}{k} a^{n - k} b^k$$
 
+## Quadratic formula
+
+$$ax^2 + bx + c = 0$$
+
+$$\implies x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
+
 ## Exponent rules
 
 $$a^m a^n = a^{m + n}$$
