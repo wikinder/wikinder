@@ -38,9 +38,7 @@ $$\log_b x = \dfrac{\log_c x}{\log_c b}$$
 
 ## Trigonometric identities
 
-### Pythagorean identity
-
-$$\sin^2 \theta + \cos^2 \theta = 1$$
+$$\sin^2 \theta + \cos^2 \theta = 1 \quad \text{(Pythagorean identity)}$$
 
 ### Addition formulas
 
