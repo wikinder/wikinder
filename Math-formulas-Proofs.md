@@ -2,7 +2,7 @@
 
 ## Euler's identities
 
-## Algebra
+## Algebraic identities
 
 ## Quadratic formula
 
