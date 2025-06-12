@@ -2,7 +2,7 @@
 
 ## Euler's identities
 
-## Expansion and factorization
+## Algebra
 
 ## Quadratic formula
 
