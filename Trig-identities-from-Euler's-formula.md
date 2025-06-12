@@ -30,9 +30,9 @@ $$\sin 2 \theta = 2 \sin \theta \cos \theta$$
 
 $$\cos 2 \theta = \cos^2 \theta - \sin^2 \theta$$
 
-$$= 2 \cos^2 \theta - 1$$
-
 $$= 1 - 2 \sin^2 \theta$$
+
+$$= 2 \cos^2 \theta - 1$$
 
 #### Proof
 
