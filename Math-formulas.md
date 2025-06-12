@@ -4,7 +4,7 @@ $$(a + b)^2 = a^2 + 2ab + b^2$$
 
 $$(a + b)^3 = a^3 + 3a^2 b + 3ab^2 + b^3$$
 
-$$(a + b)^n = \sum_{k = 0}^n \binom{n}{k} a^{n - k} b^k, \text{where } \binom{n}{k} = \frac{n!}{k! (n - k)!}$$
+$$(a + b)^n = \sum_{k = 0}^n \binom{n}{k} a^{n - k} b^k$$
 
 ## Exponent rules
 
