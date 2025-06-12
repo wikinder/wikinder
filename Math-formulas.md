@@ -1,3 +1,7 @@
+## Euler's formula
+
+$$e^{i \theta} = \cos \theta + i \sin \theta$$
+
 ## Binomial theorem
 
 $$(a + b)^2 = a^2 + 2ab + b^2$$
