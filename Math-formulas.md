@@ -2,11 +2,11 @@
 
 ## Euler's identities
 
-$e^{i \pi} + 1 = 0 \quad \text{(Euler's identity)}$
+$e^{i \pi} + 1 = 0$ (Euler's identity)
 
-$e^{i \theta} = \cos \theta + i \sin \theta \quad \text{(Euler's formula)}$
+$e^{i \theta} = \cos \theta + i \sin \theta$ (Euler's formula)
 
-$(\cos \theta + i \sin \theta)^n = \cos n \theta + i \sin n \theta \quad \text{(de Moivre's formula)}$
+$(\cos \theta + i \sin \theta)^n = \cos n \theta + i \sin n \theta$ (de Moivre's formula)
 
 ## Algebraic identities
 
