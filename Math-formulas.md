@@ -1,8 +1,10 @@
 ## Euler's formula
 
-$$e^{i \pi} + 1 = 0$$
+$$e^{i \pi} + 1 = 0 \quad \text{(Euler's identity)}$$
 
-$$e^{i \theta} = \cos \theta + i \sin \theta$$
+$$e^{i \theta} = \cos \theta + i \sin \theta \quad \text{(Euler's formula)}$$
+
+$$(\cos \theta + i \sin \theta)^n = \cos n \theta + i \sin n \theta \quad \text{(de Moivre's formula)}$$
 
 ## Binomial theorem
 
@@ -34,11 +36,29 @@ $$\log_b (x^k) = k \log_b x$$
 
 $$\log_b x = \dfrac{\log_c x}{\log_c b}$$
 
-## Addition formulas
+## Trigonometric identities
+
+### Addition formulas
 
 $$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta$$
 
 $$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta$$
+
+### Double-angle formulas
+
+$$\sin 2 \theta = 2 \sin \theta \cos \theta$$
+
+$$\cos 2 \theta = \cos^2 \theta - \sin^2 \theta$$
+
+$$= 1 - 2 \sin^2 \theta$$
+
+$$= 2 \cos^2 \theta - 1$$
+
+### Multiple-angle formulas
+
+$$\sin n \theta = \sum_{k = 0}^{\bigl\lfloor \frac{n - 1}{2} \bigr\rfloor} (-1)^k \binom{n}{2k + 1} \cos^{n - (2k + 1)} \theta \sin^{2k + 1} \theta$$
+
+$$\cos n \theta = \sum_{k = 0}^{\bigl\lfloor \frac{n}{2} \bigr\rfloor} (-1)^k \binom{n}{2k} \cos^{n - 2k} \theta \sin^{2k} \theta$$
 
 ## Proofs
 
