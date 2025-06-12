@@ -1,5 +1,7 @@
 $$e^{i \theta} = \cos \theta + i \sin \theta$$
 
+$$(\cos \theta + i \sin \theta)^n = \cos n \theta + i \sin n \theta$$
+
 ## Addition formulas
 
 $$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta$$
@@ -20,10 +22,14 @@ $= (\cos \alpha \cos \beta - \sin \alpha \sin \beta) + i(\sin \alpha \cos \beta 
 
 ## Double-angle formulas
 
-$$\sin 2 \theta$$
+$$\sin 2 \theta = 2 \sin \theta \cos \theta$$
 
-$$\cos 2 \theta$$
+$$\cos 2 \theta = \cos^2 \theta - \sin^2 \theta$$
 
 ### Proof
 
+$\cos 2 \theta + i \sin 2 \theta$
 
+$= (\cos \theta + i \sin \theta)^2$
+
+$= (\cos^2 \theta - \sin^2 \theta) + i (2 \sin \theta \cos \theta)$
