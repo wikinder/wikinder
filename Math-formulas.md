@@ -40,12 +40,11 @@ By induction on $n$:
 
 Base case ($n = 1$):
 
-$$
-\begin{align*}
-a^m a^1 & = a^m a      & & \text{(by Def. 1)} \\
-        & = a^{m + 1}. & & \text{(by Def. 2)}
-\end{align*}
-$$
+$a^m a^1$
+
+$= a^m a \quad \text{(by Def. 1)}$
+
+$= a^{m + 1}. \quad \text{(by Def. 2)}$
 
 Inductive step: Assume $a^m a^n = a^{m + n}$. Then:
 
