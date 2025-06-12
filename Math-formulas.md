@@ -36,7 +36,9 @@ $a^{n + 1} = a^n a \quad \text{for } n \ge 1. \quad \text{(Def. 2)}$
 
 By induction on $n$:
 
-(1) $a^m a^n = a^{m + n}$
+#### Rule 1
+
+$a^m a^n = a^{m + n}$
 
 Base case ($n = 1$):
 
@@ -57,6 +59,8 @@ a^m a^{n + 1} & = a^m (a^n a)      & & \text{(by Def. 2)} \\
               & = a^{m + (n + 1)}. & & \text{(by associativity)}
 \end{align*}
 $$
+
+#### Rule 2
 
 (2) $(a^m)^n = a^{mn}$
 
@@ -79,6 +83,8 @@ $$
               & = a^{m(n + 1)}. & & \text{(by distributivity)}
 \end{align*}
 $$
+
+#### Rule 3
 
 (3) $(ab)^n = a^n b^n$
 
