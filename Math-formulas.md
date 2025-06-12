@@ -52,11 +52,7 @@ $\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta$
 
 $\sin 2 \theta = 2 \sin \theta \cos \theta$
 
-$\cos 2 \theta = \cos^2 \theta - \sin^2 \theta$
-
-$= 1 - 2 \sin^2 \theta$
-
-$= 2 \cos^2 \theta - 1$
+$\cos 2 \theta = \cos^2 \theta - \sin^2 \theta = 1 - 2 \sin^2 \theta = 2 \cos^2 \theta - 1$
 
 ### Multiple-angle formulas
 
