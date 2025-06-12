@@ -50,7 +50,9 @@ $= a^{m + 1}. \quad \text{(by Def. 2)}$
 
 Inductive step: Assume $a^m a^n = a^{m + n}$. Then:
 
-$a^m a^{n + 1} = a^m (a^n a) \quad \text{(by Def. 2)}$
+$a^m a^{n + 1}$
+
+$= a^m (a^n a) \quad \text{(by Def. 2)}$
 
 $= (a^m a^n) a \quad \text{(by associativity)}$
 
@@ -62,27 +64,27 @@ $= a^{m + (n + 1)}. \quad \text{(by associativity)}$
 
 #### Rule 2
 
-(2) $(a^m)^n = a^{mn}$
+$(a^m)^n = a^{mn}$
 
 Base case ($n = 1$):
 
-$$
-\begin{align*}
-(a^m)^1 & = a^m            & & \text{(by Def. 1)} \\
-        & = a^{m \cdot 1}. & & \text{(by identity)}
-\end{align*}
-$$
+$(a^m)^1$
+
+$= a^m \quad \text{(by Def. 1)}$
+
+$= a^{m \cdot 1}. \quad \text{(by identity)}$
 
 Inductive step: Assume $(a^m)^n = a^{mn}$. Then:
 
-$$
-\begin{align*}
-(a^m)^{n + 1} & = (a^m)^n a^m   & & \text{(by Def. 2)} \\
-              & = a^{mn} a^m    & & \text{(by the induction hypothesis)} \\
-              & = a^{mn + m}    & & \text{(by Rule 1)} \\
-              & = a^{m(n + 1)}. & & \text{(by distributivity)}
-\end{align*}
-$$
+$(a^m)^{n + 1}$
+
+$= (a^m)^n a^m \quad \text{(by Def. 2)}$
+
+$= a^{mn} a^m \quad \text{(by the induction hypothesis)}$
+
+$= a^{mn + m} \quad \text{(by Rule 1)}$
+
+$= a^{m(n + 1)}. \quad \text{(by distributivity)}$
 
 #### Rule 3
 
