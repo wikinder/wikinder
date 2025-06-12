@@ -24,17 +24,13 @@ $a^m a^n = a^{m + n}$
 
 Base case ($n = 1$):
 
-$a^m a^1$
-
-$= a^m a \quad \text{(by Def. 1)}$
+$a^m a^1 = a^m a \quad \text{(by Def. 1)}$
 
 $= a^{m + 1}. \quad \text{(by Def. 2)}$
 
 Inductive step: Assume $a^m a^n = a^{m + n}$. Then:
 
-$a^m a^{n + 1}$
-
-$= a^m (a^n a) \quad \text{(by Def. 2)}$
+$a^m a^{n + 1} = a^m (a^n a) \quad \text{(by Def. 2)}$
 
 $= (a^m a^n) a \quad \text{(by associativity)}$
 
@@ -50,17 +46,13 @@ $(a^m)^n = a^{mn}$
 
 Base case ($n = 1$):
 
-$(a^m)^1$
-
-$= a^m \quad \text{(by Def. 1)}$
+$(a^m)^1 = a^m \quad \text{(by Def. 1)}$
 
 $= a^{m \cdot 1}. \quad \text{(by identity)}$
 
 Inductive step: Assume $(a^m)^n = a^{mn}$. Then:
 
-$(a^m)^{n + 1}$
-
-$= (a^m)^n a^m \quad \text{(by Def. 2)}$
+$(a^m)^{n + 1} = (a^m)^n a^m \quad \text{(by Def. 2)}$
 
 $= a^{mn} a^m \quad \text{(by the induction hypothesis)}$
 
@@ -74,17 +66,13 @@ $(ab)^n = a^n b^n$
 
 Base case ($n = 1$):
 
-$(ab)^1$
-
-$= ab \quad \text{(by Def. 1)}$
+$(ab)^1 = ab \quad \text{(by Def. 1)}$
 
 $= a^1 b^1. \quad \text{(by Def. 1)}$
 
 Inductive step: Assume $(ab)^n = a^n b^n$. Then:
 
-$(ab)^{n + 1}$
-
-$= (ab)^n (ab) \quad \text{(by Def. 2)}$
+$(ab)^{n + 1} = (ab)^n (ab) \quad \text{(by Def. 2)}$
 
 $= a^n b^n (ab) \quad \text{(by the induction hypothesis)}$
 
@@ -102,9 +90,7 @@ just like $f(f^{-1}(x)) = f^{-1}(f(x)) = x$. Using this:
 
 ### Rule 1
 
-$\log_b (xy)$
-
-$= \log_b (b^{\log_b x} b^{\log_b y})$
+$\log_b (xy) = \log_b (b^{\log_b x} b^{\log_b y})$
 
 $= \log_b (b^{\log_b x + \log_b y})$
 
@@ -112,9 +98,7 @@ $= \log_b x + \log_b y.$
 
 ### Rule 2
 
-$\log_b (x^k)$
-
-$= \log_b ((b^{\log_b x})^k)$
+$\log_b (x^k) = \log_b ((b^{\log_b x})^k)$
 
 $= \log_b (b^{k \log_b x})$
 
@@ -122,9 +106,7 @@ $= k \log_b x.$
 
 ### Rule 3
 
-$\log_b x$
-
-$= \log_b x \cdot \dfrac{\log_c b}{\log_c b}$
+$\log_b x = \log_b x \cdot \dfrac{\log_c b}{\log_c b}$
 
 $= \dfrac{\log_c (b^{\log_b x})}{\log_c b}$
 
@@ -136,9 +118,7 @@ $= \dfrac{\log_c x}{\log_c b}.$
 
 ### Addition formulas
 
-$\cos(\alpha + \beta) + i \sin(\alpha + \beta)$
-
-$= e^{i(\alpha + \beta)}$
+$\cos(\alpha + \beta) + i \sin(\alpha + \beta) = e^{i(\alpha + \beta)}$
 
 $= e^{i \alpha} e^{i \beta}$
 
@@ -148,31 +128,23 @@ $= (\cos \alpha \cos \beta - \sin \alpha \sin \beta) + i(\sin \alpha \cos \beta 
 
 ### Double-angle formulas
 
-$\sin 2 \theta$
-
-$= \sin(\theta + \theta)$
+$\sin 2 \theta = \sin(\theta + \theta)$
 
 $= \sin \theta \cos \theta + \cos \theta \sin \theta$
 
 $= 2 \sin \theta \cos \theta$
 
-$\cos 2 \theta$
-
-$= \cos(\theta + \theta)$
+$\cos 2 \theta = \cos(\theta + \theta)$
 
 $= \cos \theta \cos \theta - \sin \theta \sin \theta$
 
 $= \cos^2 \theta - \sin^2 \theta$
 
-$\cos^2 \theta - \sin^2 \theta$
-
-$= \cos^2 \theta + \sin^2 \theta - 2 \sin^2 \theta$
+$\cos^2 \theta - \sin^2 \theta = \cos^2 \theta + \sin^2 \theta - 2 \sin^2 \theta$
 
 $= 1 - 2 \sin^2 \theta$
 
-$\cos^2 \theta - \sin^2 \theta$
-
-$= 2 \cos^2 \theta - \cos^2 \theta - \sin^2 \theta$
+$\cos^2 \theta - \sin^2 \theta = 2 \cos^2 \theta - \cos^2 \theta - \sin^2 \theta$
 
 $= 2 \cos^2 \theta - (\cos^2 \theta + \sin^2 \theta)$
 
@@ -180,8 +152,6 @@ $= 2 \cos^2 \theta - 1$
 
 ### Multiple-angle formulas
 
-$\cos n \theta + i \sin n \theta$
-
-$= (\cos \theta + i \sin \theta)^n$
+$\cos n \theta + i \sin n \theta = (\cos \theta + i \sin \theta)^n$
 
 $= \displaystyle \sum_{k = 0}^n \binom{n}{k} \cos^{n - k} \theta i^k \sin^k \theta$
