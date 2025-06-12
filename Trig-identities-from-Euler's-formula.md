@@ -26,10 +26,14 @@ $$\sin 2 \theta = 2 \sin \theta \cos \theta$$
 
 $$\cos 2 \theta = \cos^2 \theta - \sin^2 \theta$$
 
+$$= 1 - 2 \sin^2 \theta$$
+
+$$= 2 \cos^2 \theta - 1$$
+
 ### Proof
 
 $\cos 2 \theta + i \sin 2 \theta$
 
 $= (\cos \theta + i \sin \theta)^2$
 
-$= (\cos^2 \theta - \sin^2 \theta) + i (2 \sin \theta \cos \theta)$
+$= (\cos^2 \theta - \sin^2 \theta) + i(2 \sin \theta \cos \theta)$
