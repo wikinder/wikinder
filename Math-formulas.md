@@ -1,3 +1,5 @@
+[[Proofs|Math formulas Proofs]]
+
 ## Euler's identities
 
 $$e^{i \pi} + 1 = 0 \quad \text{(Euler's identity)}$$
