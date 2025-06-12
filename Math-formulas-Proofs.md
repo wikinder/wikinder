@@ -1,6 +1,6 @@
-## Euler's formula
+## Euler's identities
 
-## Binomial theorem
+## Binomial expansions
 
 ## Quadratic formula
 
