@@ -1,3 +1,5 @@
+$$e^{i \theta} = \cos \theta + i \sin \theta$$
+
 ## Addition formulas
 
 $$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta$$
