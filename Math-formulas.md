@@ -14,7 +14,7 @@ $(a + b)^2 = a^2 + 2ab + b^2$
 
 $(a + b)^3 = a^3 + 3a^2 b + 3ab^2 + b^3$
 
-$(a + b)^n = \displaystyle \sum_{k = 0}^n \binom{n}{k} a^{n - k} b^k \quad \text{(Binomial theorem)}$
+$(a + b)^n = \displaystyle \sum_{k = 0}^n \binom{n}{k} a^{n - k} b^k$ (Binomial theorem)
 
 ## Quadratic formula
 
@@ -40,7 +40,7 @@ $\log_b x = \dfrac{\log_c x}{\log_c b}$
 
 ## Trigonometric identities
 
-$\sin^2 \theta + \cos^2 \theta = 1 \quad \text{(Pythagorean identity)}$
+$\sin^2 \theta + \cos^2 \theta = 1$ (Pythagorean identity)
 
 ### Addition formulas
 
