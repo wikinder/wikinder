@@ -1,5 +1,5 @@
 * [[Math in anime]]
-* [[Basic math formulas]]
+* [[Math formulas]]
 
 <!-- -->
 
