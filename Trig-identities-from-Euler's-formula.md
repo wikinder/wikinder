@@ -44,9 +44,9 @@ $= (\cos^2 \theta - \sin^2 \theta) + i(2 \sin \theta \cos \theta)$
 
 ### General formulas
 
-$$\sin(n \theta) = \sum_{k = 0}^{\bigl\lfloor \frac{n - 1}{2} \bigr\rfloor} (-1)^k \binom{n}{2k + 1} \cos^{n - (2k + 1)} \theta \sin^{2k + 1} \theta$$
+$$\sin n \theta = \sum_{k = 0}^{\bigl\lfloor \frac{n - 1}{2} \bigr\rfloor} (-1)^k \binom{n}{2k + 1} \cos^{n - (2k + 1)} \theta \sin^{2k + 1} \theta$$
 
-$$\cos(n \theta) = \sum_{k = 0}^{\bigl\lfloor \frac{n}{2} \bigr\rfloor} (-1)^k \binom{n}{2k} \cos^{n - 2k} \theta \sin^{2k} \theta$$
+$$\cos n \theta = \sum_{k = 0}^{\bigl\lfloor \frac{n}{2} \bigr\rfloor} (-1)^k \binom{n}{2k} \cos^{n - 2k} \theta \sin^{2k} \theta$$
 
 #### Proof
 
