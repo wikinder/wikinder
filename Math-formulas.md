@@ -8,7 +8,7 @@ $e^{i \theta} = \cos \theta + i \sin \theta \quad \text{(Euler's formula)}$
 
 $(\cos \theta + i \sin \theta)^n = \cos n \theta + i \sin n \theta \quad \text{(de Moivre's formula)}$
 
-## Algebra
+## Algebraic identities
 
 $(a + b)^2 = a^2 + 2ab + b^2$
 
