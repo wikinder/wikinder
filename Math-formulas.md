@@ -34,6 +34,12 @@ $$\log_b (x^k) = k \log_b x$$
 
 $$\log_b x = \dfrac{\log_c x}{\log_c b}$$
 
+## Trigonometry
+
+$$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta$$
+
+$$\cos(\alpha + \beta) = \cos \alpha \cos \beta - \sin \alpha \sin \beta$$
+
 ## Proofs
 
 ### Exponent rules
