@@ -118,32 +118,32 @@ $$b^{\log_b x} = \log_b (b^x) = x,$$
 
 just like $f(f^{-1}(x)) = f^{-1}(f(x)) = x$. Using this:
 
-(1)
+#### Rule 1
 
-$$
-\begin{align*}
-\log_b (xy) & = \log_b (b^{\log_b x} b^{\log_b y}) \\
-            & = \log_b (b^{\log_b x + \log_b y}) \\
-            & = \log_b x + \log_b y.
-\end{align*}
-$$
+$\log_b (xy)$
 
-(2)
+$= \log_b (b^{\log_b x} b^{\log_b y})$
 
-$$
-\begin{align*}
-\log_b (x^k) & = \log_b ((b^{\log_b x})^k) \\
-             & = \log_b (b^{k \log_b x}) \\
-             & = k \log_b x.
-\end{align*}
-$$
+$= \log_b (b^{\log_b x + \log_b y})$
 
-(3)
+$= \log_b x + \log_b y.$
 
-$$
-\begin{align*}
-\log_b x & = \log_b x \cdot \frac{\log_c b}{\log_c b} \\
-         & = \frac{\log_c (b^{\log_b x})}{\log_c b} \\
-         & = \frac{\log_c x}{\log_c b}.
-\end{align*}
-$$
+#### Rule 2
+
+$\log_b (x^k)$
+
+$= \log_b ((b^{\log_b x})^k)$
+
+$= \log_b (b^{k \log_b x})$
+
+$= k \log_b x.$
+
+#### Rule 3
+
+$\log_b x$
+
+$= \log_b x \cdot \dfrac{\log_c b}{\log_c b}$
+
+$= \dfrac{\log_c (b^{\log_b x})}{\log_c b}$
+
+$= \dfrac{\log_c x}{\log_c b}.$
