@@ -30,12 +30,9 @@ Let $a$ and $b$ be real numbers, and let $m$ and $n$ be positive integers.
 
 **Definition (_Exponentiation_)**:
 
-$$
-\begin{array}{lll}
-a^1 = a,          &                      & \text{(Def. 1)} \\
-a^{n + 1} = a^n a & \text{for } n \ge 1. & \text{(Def. 2)}
-\end{array}
-$$
+$$a^1 = a, \qquad \text{(Def. 1)}$$
+
+$$a^{n + 1} = a^n a \quad \text{for } n \ge 1. \qquad \text{(Def. 2)}$$
 
 By induction on $n$:
 
