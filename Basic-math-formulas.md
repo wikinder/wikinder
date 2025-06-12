@@ -1,26 +1,26 @@
+## Algebra
+
+$$(a + b)^2 = a^2 + 2ab + b^2$$
+
+$$(a + b)^3 = a^3 + 3a^2 b + 3ab^2 + b^3$$
+
+$$(a + b)^n = \sum_{k = 0}^n \binom{n}{k} a^{n - k} b^k, \text{where } \binom{n}{k} = \frac{n!}{k! (n - k)!}$$
+
 ## Exponent rules
 
-$$
-\begin{array}{ll}
-a^m a^n = a^{m + n} \\
-\\
-(a^m)^n = a^{mn} \\
-\\
-(ab)^n = a^n b^n
-\end{array}
-$$
+$$a^m a^n = a^{m + n}$$
+
+$$(a^m)^n = a^{mn}$$
+
+$$(ab)^n = a^n b^n$$
 
 ## Logarithm rules
 
-$$
-\begin{array}{ll}
-\log_b (xy) = \log_b x + \log_b y \\
-\\
-\log_b (x^k) = k \log_b x \\
-\\
-\log_b x = \dfrac{\log_c x}{\log_c b}
-\end{array}
-$$
+$$\log_b (xy) = \log_b x + \log_b y$$
+
+$$\log_b (x^k) = k \log_b x$$
+
+$$\log_b x = \dfrac{\log_c x}{\log_c b}$$
 
 ## Proofs
 
