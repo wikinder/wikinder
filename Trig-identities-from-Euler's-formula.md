@@ -17,3 +17,13 @@ $= e^{i \alpha} e^{i \beta}$
 $= (\cos \alpha + i \sin \alpha)(\cos \beta + i \sin \beta)$
 
 $= (\cos \alpha \cos \beta - \sin \alpha \sin \beta) + i(\sin \alpha \cos \beta + \cos \alpha \sin \beta)$
+
+## Double-angle formulas
+
+$$\sin 2 \theta$$
+
+$$\cos 2 \theta$$
+
+### Proof
+
+
