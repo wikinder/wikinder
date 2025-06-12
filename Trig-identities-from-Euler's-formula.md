@@ -2,6 +2,8 @@ $$e^{i \theta} = \cos \theta + i \sin \theta$$
 
 $$(\cos \theta + i \sin \theta)^n = \cos n \theta + i \sin n \theta$$
 
+$$\sin^2 \theta + \cos^2 \theta = 1$$
+
 ## Addition formulas
 
 $$\sin(\alpha + \beta) = \sin \alpha \cos \beta + \cos \alpha \sin \beta$$
@@ -26,9 +28,9 @@ $$\sin 2 \theta = 2 \sin \theta \cos \theta$$
 
 $$\cos 2 \theta = \cos^2 \theta - \sin^2 \theta$$
 
-$$= 1 - 2 \sin^2 \theta$$
-
 $$= 2 \cos^2 \theta - 1$$
+
+$$= 1 - 2 \sin^2 \theta$$
 
 ### Proof
 
