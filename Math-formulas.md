@@ -1,4 +1,4 @@
-## Euler's formula
+## Euler's identities
 
 $$e^{i \pi} + 1 = 0 \quad \text{(Euler's identity)}$$
 
@@ -6,13 +6,13 @@ $$e^{i \theta} = \cos \theta + i \sin \theta \quad \text{(Euler's formula)}$$
 
 $$(\cos \theta + i \sin \theta)^n = \cos n \theta + i \sin n \theta \quad \text{(de Moivre's formula)}$$
 
-## Binomial theorem
+## Binomial expansions
 
 $$(a + b)^2 = a^2 + 2ab + b^2$$
 
 $$(a + b)^3 = a^3 + 3a^2 b + 3ab^2 + b^3$$
 
-$$(a + b)^n = \sum_{k = 0}^n \binom{n}{k} a^{n - k} b^k$$
+$$(a + b)^n = \sum_{k = 0}^n \binom{n}{k} a^{n - k} b^k \quad \text{(Binomial theorem)}$$
 
 ## Quadratic formula
 
