@@ -88,27 +88,27 @@ $= a^{m(n + 1)}. \quad \text{(by distributivity)}$
 
 #### Rule 3
 
-(3) $(ab)^n = a^n b^n$
+$(ab)^n = a^n b^n$
 
 Base case ($n = 1$):
 
-$$
-\begin{align*}
-(ab)^1 & = ab       & & \text{(by Def. 1)} \\
-       & = a^1 b^1. & & \text{(by Def. 1)}
-\end{align*}
-$$
+$(ab)^1$
+
+$= ab \quad \text{(by Def. 1)}$
+
+$= a^1 b^1. \quad \text{(by Def. 1)}$
 
 Inductive step: Assume $(ab)^n = a^n b^n$. Then:
 
-$$
-\begin{align*}
-(ab)^{n + 1} & = (ab)^n (ab)          & & \text{(by Def. 2)} \\
-             & = a^n b^n (ab)         & & \text{(by the induction hypothesis)} \\
-             & = (a^n a) (b^n b)      & & \text{(by associativity and commutativity)} \\
-             & = a^{n + 1} b^{n + 1}. & & \text{(by Def. 2)}
-\end{align*}
-$$
+$(ab)^{n + 1}$
+
+$= (ab)^n (ab) \quad \text{(by Def. 2)}$
+
+$= a^n b^n (ab) \quad \text{(by the induction hypothesis)}$
+
+$= (a^n a) (b^n b) \quad \text{(by associativity and commutativity)}$
+
+$= a^{n + 1} b^{n + 1}. \quad \text{(by Def. 2)}$
 
 ### Logarithm rules
 
