@@ -1,8 +1,8 @@
 ## Euler's formula
 
-$$e^{i \theta} = \cos \theta + i \sin \theta$$
-
 $$e^{i \pi} + 1 = 0$$
+
+$$e^{i \theta} = \cos \theta + i \sin \theta$$
 
 ## Binomial theorem
 
