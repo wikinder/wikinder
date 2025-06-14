@@ -30,7 +30,7 @@ $f'' = -f$
 <br>
 $g'' = -g$
 
-By substituting $x = 0$ into Eqs. 1 and 2, we obtain the initial conditions $f(0) = 1$, $f'(0) = 0$, $g(0) = 0$, and $g'(0) = 1$. The unique solutions to the differential equations are:
+We have the initial conditions $f(0) = 1$, $f'(0) = 0$, $g(0) = 0$, and $g'(0) = 1$ by substituting $x = 0$ into Eqs. 1 and 2. The unique solutions are:
 
 $f = \cos x$
 <br>
