@@ -2,6 +2,34 @@
 
 ## Euler's formula
 
+Assume that $e^{ix}$ is a complex number. Let:
+
+$e^{ix} = f + ig.$
+
+Differentiate both sides with respect to $x$:
+
+$(e^{ix})' = (f + ig)'$
+
+$ie^{ix} = f' + ig'.$
+
+Substitute $e^{ix} = f + ig$:
+
+$i(f + ig) = f' + ig'$
+
+$-g + if = f' + ig'.$
+
+Equate the real and imaginary parts of both sides:
+
+$-g = f',$
+<br>
+$f = g'.$
+
+Substitute the equations into each other:
+
+$f'' = -f,$
+<br>
+$g'' = -g.$
+
 ## Algebraic identities
 
 ## Quadratic formula
