@@ -12,7 +12,7 @@ $(e^{ix})' = (f + ig)'$
 
 $ie^{ix} = f' + ig'.$
 
-Substitute $e^{ix} = f + ig$:
+Substitute $e^{ix} = f + ig$ into the left hand side:
 
 $i(f + ig) = f' + ig'$
 
