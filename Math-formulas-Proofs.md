@@ -24,7 +24,7 @@ $-g = f',$
 <br>
 $f = g'.$
 
-Substitute the equations into each other:
+Substitute one equation into the other:
 
 $f'' = -f,$
 <br>
