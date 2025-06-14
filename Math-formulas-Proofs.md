@@ -10,9 +10,9 @@ Differentiate both sides with respect to $x$:
 
 $(e^{ix})' = (f + ig)'$
 
-$ie^{ix} = f' + ig'$
+$ie^{ix} = f' + ig'$ (Eq. 2)
 
-Substitute Eq. 1 into the left hand side:
+Substitute Eq. 1 into the left hand side of Eq. 2:
 
 $i(f + ig) = f' + ig'$
 
@@ -30,7 +30,15 @@ $f'' = -f$
 <br>
 $g'' = -g$
 
-...
+By substituting $x = 0$ into Eqs. 1 and 2, we obtain the initial conditions $f(0) = 1$, $f'(0) = 0$, $g(0) = 0$, and $g'(0) = 1$. The unique solutions to the differential equations are:
+
+$f = \cos x$
+<br>
+$g = \sin x$
+
+Answer:
+
+$e^{ix} = \cos x + i \sin x$
 
 ## Algebraic identities
 
