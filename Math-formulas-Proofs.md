@@ -1,6 +1,6 @@
 < [[Math formulas]]
 
-## Euler's identities
+## Euler's formula
 
 ## Algebraic identities
 
