@@ -4,7 +4,7 @@
 
 Assume that $e^{ix}$ is a complex number and can be written as:
 
-$e^{ix} = f + ig.$
+$e^{ix} = f + ig.$ (Eq. 1)
 
 Differentiate both sides with respect to $x$:
 
@@ -12,7 +12,7 @@ $(e^{ix})' = (f + ig)'$
 
 $ie^{ix} = f' + ig'.$
 
-Substitute $e^{ix} = f + ig$ into the left hand side:
+Substitute Eq. 1 into the left hand side:
 
 $i(f + ig) = f' + ig'$
 
