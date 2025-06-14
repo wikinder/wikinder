@@ -30,6 +30,8 @@ $f'' = -f,$
 <br>
 $g'' = -g.$
 
+...
+
 ## Algebraic identities
 
 ## Quadratic formula
