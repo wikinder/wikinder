@@ -4,31 +4,31 @@
 
 Assume that $e^{ix}$ is a complex number and can be written as:
 
-$e^{ix} = f + ig.$ (Eq. 1)
+$e^{ix} = f + ig$ (Eq. 1)
 
 Differentiate both sides with respect to $x$:
 
 $(e^{ix})' = (f + ig)'$
 
-$ie^{ix} = f' + ig'.$
+$ie^{ix} = f' + ig'$
 
 Substitute Eq. 1 into the left hand side:
 
 $i(f + ig) = f' + ig'$
 
-$-g + if = f' + ig'.$
+$-g + if = f' + ig'$
 
 Equate the real and imaginary parts of both sides:
 
-$-g = f',$
+$-g = f'$
 <br>
-$f = g'.$
+$f = g'$
 
 Which can be rewritten as:
 
-$f'' = -f,$
+$f'' = -f$
 <br>
-$g'' = -g.$
+$g'' = -g$
 
 ...
 
