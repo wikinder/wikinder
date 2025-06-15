@@ -10,7 +10,7 @@ $(e^{ix})' = (f + ig)'$
 
 $ie^{ix} = f' + ig'$ (Eq. 2)
 
-Substitute Eq. 1 into the left hand side:
+Substitute Eq. 1 into the left-hand side:
 
 $i(f + ig) = f' + ig'$
 
@@ -28,7 +28,7 @@ $f'' = -f$
 <br>
 $g'' = -g$
 
-We have the initial conditions $f(0) = 1$, $f'(0) = 0$, $g(0) = 0$, and $g'(0) = 1$ by substituting $x = 0$ into Eqs. 1 and 2. The unique solutions are:
+These are second-order differential equations, with initial conditions $f(0) = 1$, $f'(0) = 0$, $g(0) = 0$, and $g'(0) = 1$, obtained by substituting $x = 0$ into Eqs. 1 and 2. The unique solutions are:
 
 $f = \cos x$
 <br>
