@@ -2,7 +2,7 @@
 
 ## Euler's formula
 
-Assume that $e^{ix}$ is a complex number and can be written as:
+Assume that $e^{ix}$ is a complex number. Then it can be written as:
 
 $e^{ix} = f + ig$ (Eq. 1)
 
