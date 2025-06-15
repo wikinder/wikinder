@@ -2,9 +2,7 @@
 
 ## Euler's formula
 
-Assume that $e^{ix}$ is a complex number. Then it can be written as:
-
-$e^{ix} = f + ig$ (Eq. 1)
+Let $e^{ix} = f + ig$. (Eq. 1)
 
 Differentiate both sides with respect to $x$:
 
@@ -12,7 +10,7 @@ $(e^{ix})' = (f + ig)'$
 
 $ie^{ix} = f' + ig'$ (Eq. 2)
 
-Substitute Eq. 1 into the left hand side of Eq. 2:
+Substitute Eq. 1 into the left hand side:
 
 $i(f + ig) = f' + ig'$
 
