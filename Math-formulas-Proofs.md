@@ -34,10 +34,6 @@ $f = \cos x$
 <br>
 $g = \sin x$
 
-Answer:
-
-$e^{ix} = \cos x + i \sin x$
-
 ## Algebraic identities
 
 ## Quadratic formula
