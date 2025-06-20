@@ -5,4 +5,4 @@
 <!-- -->
 
 * [[Math of blocks]]
-* [[drawPoint Geometry]]
+* [[Drawing lines with dots]]
