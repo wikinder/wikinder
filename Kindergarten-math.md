@@ -2,4 +2,4 @@
 * [[Math formulas]]
     * [[Proofs|Math formulas Proofs]]
 * [[Drawing lines with dots]]
-* [[Math of blocks]]
+* [[Counting bears]]
