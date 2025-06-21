@@ -1,27 +1,27 @@
-We can think of a number $n$ as a collection of $n$ blocks (or pebbles, dominoes, or any other countable objects).
+We can think of a number $n$ as a collection of $n$ bears (or blocks, dominoes, or any other countable objects).
 
 Numbers from 1 to 10:
 
 ```
-o
+🧸
 
-oo
+🧸🧸
 
-ooo
+🧸🧸🧸
 
-oooo
+🧸🧸🧸🧸
 
-ooooo
+🧸🧸🧸🧸🧸
 
-oooooo
+🧸🧸🧸🧸🧸🧸
 
-ooooooo
+🧸🧸🧸🧸🧸🧸🧸
 
-oooooooo
+🧸🧸🧸🧸🧸🧸🧸🧸
 
-ooooooooo
+🧸🧸🧸🧸🧸🧸🧸🧸🧸
 
-oooooooooo
+🧸🧸🧸🧸🧸🧸🧸🧸🧸🧸
 ```
 
 ## Even and odd numbers
