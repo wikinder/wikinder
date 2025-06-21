@@ -17,6 +17,7 @@
 
 ### Japan
 
+* [Note](https://note.com/wikinder)
 * [X](https://x.com/wikinderjp)
 
 ## Archives
