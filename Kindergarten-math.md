@@ -1,7 +1,5 @@
 * [[Math in anime]]
-* [[Basic math formulas]]
-
-<!-- -->
-
-* [[Math of blocks]]
-* [[drawPoint Geometry]]
+* [[Math formulas]]
+    * [[Proofs|Math formulas Proofs]]
+* [[Drawing lines with dots]]
+* [[Counting bears]]
