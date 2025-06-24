@@ -1,5 +1,5 @@
 * [[Counting bears]]
-* [[Drawing lines with dots]]
+* [[Moving bears]]
 * [[Math formulas]]
     * [[Proofs|Math formulas Proofs]]
 * [[Math in anime]]
