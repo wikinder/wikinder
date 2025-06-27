@@ -2,7 +2,9 @@
 
 ## Welcome to Wikinder
 
-$$(a + b)^2 = a^2 + 2ab + b^2$$
+$(a + b)^2 = a^2 + 2ab + b^2$
+
+![Row, Row, Row Your Boat](https://github.com/user-attachments/assets/7c208576-7d65-4960-8c0a-c597dfa118db)
 
 ## Donors
 
