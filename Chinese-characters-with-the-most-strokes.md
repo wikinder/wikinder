@@ -34,6 +34,12 @@
 
 </details>
 
+## Dictionaries
+
+| Character | Number of strokes | Notes |
+|---|---|---|
+| ![䨻](https://glyphwiki.org/glyph/u4a3b.png) | 52 | _Kangxi Zidian_ (1716) |
+
 ## References
 
 * https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/syo/koku/001.htm
