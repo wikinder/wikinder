@@ -6,6 +6,8 @@ $\Huge (a + b)^2 = a^2 + 2ab + b^2$
 
 <img alt="Row, Row, Row Your Boat" src="https://github.com/user-attachments/assets/7c208576-7d65-4960-8c0a-c597dfa118db" width="800">
 
+https://github.com/user-attachments/assets/e1c19145-1c4d-4d32-be16-b79e9d824e54
+
 ## Donors
 
 * Aoi Hirahara (平原 葵)
