@@ -6,7 +6,8 @@ $\Huge (a + b)^2 = a^2 + 2ab + b^2$
 
 ![Row, Row, Row Your Boat](https://github.com/user-attachments/assets/3f3db565-8193-42a9-bd85-d725a61d8151)
 
-https://github.com/user-attachments/assets/115d242e-67fa-4cbe-90be-ac7e0894556c
+<details>
+<summary>[show]</summary>
 
 ```
 %abc-2.1
@@ -18,6 +19,10 @@ K:C
 C C C/2>D/2 E | E/2>D/2E/2>F/2 G2 |
 (3c/2c/2c/2 (3G/2G/2G/2 (3E/2E/2E/2 (3C/2C/2C/2 | G/2>F/2E/2>D/2 C2 |]
 ```
+
+</details>
+
+https://github.com/user-attachments/assets/115d242e-67fa-4cbe-90be-ac7e0894556c
 
 ## Donors
 
