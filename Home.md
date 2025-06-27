@@ -18,9 +18,9 @@ $(a + b)^2 = a^2 + 2ab + b^2$
 }
 ```
 
-</details>
+https://github.com/user-attachments/assets/9120dccc-6ea1-4143-8da5-5d50d3df2aa3
 
-https://github.com/user-attachments/assets/9aaefe6d-cea7-487a-a31a-cb51e9fd9da7
+</details>
 
 ## Donors
 
