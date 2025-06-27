@@ -19,6 +19,9 @@
 
 ## Kanji Kentei
 
+<details>
+<summary>[show]</summary>
+
 | Character | Number of strokes | Level |
 |---|---|---|
 | 鑑 | 23 | 4 |
@@ -28,6 +31,8 @@
 | 鬱 | 29 | 2 |
 | 鸚 | 28 | 1.5 |
 | 麤 | 33 | 1 |
+
+</details>
 
 ## References
 
