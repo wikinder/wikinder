@@ -34,11 +34,14 @@
 
 </details>
 
-## Dictionaries
+## General
 
 | Character | Number of strokes | Notes |
 |---|---|---|
 | ![䨻](https://glyphwiki.org/glyph/u4a3b.png) | 52 | _Kangxi Zidian_ (1716) |
+| ![𠔻](https://glyphwiki.org/glyph/u2053b.png) | 64 | _Dai Kan-Wa Jiten_ (1960) |
+| ![𪚥](https://glyphwiki.org/glyph/u2a6a5.png) | 64 | _Dai Kan-Wa Jiten_ (1960) |
+| ![⿺⻍⿳⿱穴王⿲月⿱⿲糸言糸⿲長馬長戈心](https://github.com/user-attachments/assets/fe24dcab-59f2-4e56-b1b7-b37aa88b9a37) | 70 | |
 
 ## References
 
