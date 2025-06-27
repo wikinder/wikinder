@@ -13,10 +13,8 @@ $(a + b)^2 = a^2 + 2ab + b^2$
 \relative c' {
   \numericTimeSignature
   \time 4/4
-  c4 c4 c8.[ d16] e4 | e8.[ d16 e8. f16] g2
-  | \tuplet 3/2 { c8[ c8 c8] } \tuplet 3/2 { g8[ g8 g8] }
-    \tuplet 3/2 { e8[ e8 e8] } \tuplet 3/2 { c8[ c8 c8] }
-  | g'8.[ f16 e8. d16] c2 \bar "|."
+  c4 c4 c8.[ d16] e4 | e8.[ d16 e8. f16] g2 |
+  \tuplet 3/2 { c8[ c8 c8] } \tuplet 3/2 { g8[ g8 g8] } \tuplet 3/2 { e8[ e8 e8] } \tuplet 3/2 { c8[ c8 c8] } | g'8.[ f16 e8. d16] c2 \bar "|."
 }
 ```
 
