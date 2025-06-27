@@ -2,7 +2,7 @@
 
 ## Welcome to Wikinder
 
-$\Huge (a + b)^2 = a^2 + 2ab + b^2$
+$(a + b)^2 = a^2 + 2ab + b^2$
 
 ![Row, Row, Row Your Boat](https://github.com/user-attachments/assets/40e65b09-9ad1-4a03-9478-7c81dea11514)
 
