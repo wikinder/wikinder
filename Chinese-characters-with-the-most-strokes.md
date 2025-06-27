@@ -9,3 +9,7 @@
 | 競 | 20 | JP: Grade 4 |
 | 議 | 20 | JP: Grade 4 |
 | 護 | 20 | JP: Grade 5 |
+
+## References
+
+* https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/syo/koku/001.htm
