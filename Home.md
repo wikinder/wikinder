@@ -20,7 +20,7 @@ $(a + b)^2 = a^2 + 2ab + b^2$
 
 </details>
 
-https://github.com/user-attachments/assets/fdba35f4-9ff1-4277-9693-db44ebce7013
+https://github.com/user-attachments/assets/9aaefe6d-cea7-487a-a31a-cb51e9fd9da7
 
 ## Donors
 
