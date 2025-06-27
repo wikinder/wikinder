@@ -37,3 +37,4 @@
 ## References
 
 * https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/syo/koku/001.htm
+* https://www.kanken.or.jp/kanken/outline/data/outline_degree_national_list20200217.pdf
