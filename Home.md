@@ -20,7 +20,7 @@ $\Huge (a + b)^2 = a^2 + 2ab + b^2$
 
 </details>
 
-https://github.com/user-attachments/assets/421bf95c-6b8a-4391-94b6-6eb076c72361
+https://github.com/user-attachments/assets/dd2c9ae0-e7f5-43b0-a04a-3ec3971e05c4
 
 ## Donors
 
