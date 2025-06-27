@@ -4,7 +4,7 @@
 
 $\Huge (a + b)^2 = a^2 + 2ab + b^2$
 
-![Row, Row, Row Your Boat](https://github.com/user-attachments/assets/41c75e78-1e76-4d25-908a-7ea10bcc38a1)
+![Row, Row, Row Your Boat](https://github.com/user-attachments/assets/40e65b09-9ad1-4a03-9478-7c81dea11514)
 
 <details>
 <summary>[show]</summary>
