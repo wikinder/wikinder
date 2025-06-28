@@ -3,7 +3,7 @@
 <details>
 <summary>[show]</summary>
 
-| Grade | Character | Number of strokes |
+| Grade | Kanji | Number of strokes |
 |---|---|---|
 | 1 | 森 | 12 |
 | 2 | 曜 | 18 |
@@ -22,7 +22,7 @@
 <details>
 <summary>[show]</summary>
 
-| Level | Character | Number of strokes |
+| Level | Kanji | Number of strokes |
 |---|---|---|
 | 4 | 鑑 | 23 |
 | 3 | 顧 | 21 |
