@@ -5,3 +5,5 @@ function drawLine(x1, x2) {
   }
 }
 ```
+
+Category: [[Bear math]]
