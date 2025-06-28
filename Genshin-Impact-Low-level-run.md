@@ -1,5 +1,3 @@
-< [[Genshin Impact]]
-
 ## F2P characters
 
 | Name     | AR |
