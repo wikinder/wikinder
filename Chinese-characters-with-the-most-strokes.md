@@ -3,17 +3,17 @@
 <details>
 <summary>[show]</summary>
 
-| Character | Number of strokes | Grade |
+| Grade | Character | Number of strokes |
 |---|---|---|
-| 森 | 12 | 1 |
-| 曜 | 18 | 2 |
-| 顔 | 18 | 2 |
-| 題 | 18 | 3 |
-| 競 | 20 | 4 |
-| 議 | 20 | 4 |
-| 護 | 20 | 5 |
-| 臓 | 19 | 6 |
-| 警 | 19 | 6 |
+| 1 | 森 | 12 |
+| 2 | 曜 | 18 |
+| 2 | 顔 | 18 |
+| 3 | 題 | 18 |
+| 4 | 競 | 20 |
+| 4 | 議 | 20 |
+| 5 | 護 | 20 |
+| 6 | 臓 | 19 |
+| 6 | 警 | 19 |
 
 </details>
 
@@ -22,15 +22,15 @@
 <details>
 <summary>[show]</summary>
 
-| Character | Number of strokes | Level |
+| Level | Character | Number of strokes |
 |---|---|---|
-| 鑑 | 23 | 4 |
-| 顧 | 21 | 3 |
-| 魔 | 21 | 3 |
-| 艦 | 21 | 2.5 |
-| 鬱 | 29 | 2 |
-| 鸚 | 28 | 1.5 |
-| 麤 | 33 | 1 |
+| 4 | 鑑 | 23 |
+| 3 | 顧 | 21 |
+| 3 | 魔 | 21 |
+| Pre-2 | 艦 | 21 |
+| 2 | 鬱 | 29 |
+| Pre-1 | 鸚 | 28 |
+| 1 | 麤 | 33 |
 
 </details>
 
