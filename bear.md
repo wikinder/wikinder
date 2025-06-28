@@ -1,10 +1,10 @@
 <table>
   <tr>
-    <th>Date of birth</th>
+    <th scope="row">Date of birth</th>
     <td>2009</td>
   </tr>
   <tr>
-    <th>Height</th>
+    <th scope="row">Height</th>
     <td>60 cm (24 in)</td>
   </tr>
 </table>
