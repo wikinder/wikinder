@@ -1,47 +1,52 @@
-## _Kangxi Zidian_ (1716)
+## _Kyōiku_ kanji
 
-<p>
-  <img alt="䨻" src="https://glyphwiki.org/glyph/u4a3b.svg" width="64" height="64">
-  (52 strokes)
-</p>
+<details>
+<summary>[show]</summary>
 
-## _Dai Kan-Wa Jiten_ (1960)
+| Grade | Kanji | Number of strokes |
+|---|---|---|
+| 1 | 森 | 12 |
+| 2 | 曜 | 18 |
+| 2 | 顔 | 18 |
+| 3 | 題 | 18 |
+| 4 | 競 | 20 |
+| 4 | 議 | 20 |
+| 5 | 護 | 20 |
+| 6 | 臓 | 19 |
+| 6 | 警 | 19 |
 
-<p>
-  <img alt="𠔻" src="https://glyphwiki.org/glyph/u2053b.svg" width="64" height="64">
-  (64 strokes)
-</p>
+</details>
 
-<p>
-  <img alt="𪚥" src="https://glyphwiki.org/glyph/u2a6a5.svg" width="64" height="64">
-  (64 strokes)
-</p>
+## Kanji Kentei
 
-## Biáng
+<details>
+<summary>[show]</summary>
 
-<p>
-  <img alt="𰻞" src="https://glyphwiki.org/glyph/u30ede.svg" width="32" height="32">
-  (58 strokes)
-</p>
+| Level | Kanji | Number of strokes |
+|---|---|---|
+| 4 | 鑑 | 23 |
+| 3 | 顧 | 21 |
+| 3 | 魔 | 21 |
+| Pre-2 | 艦 | 21 |
+| 2 | 鬱 | 29 |
+| Pre-1 | 鸚 | 28 |
+| 1 | 麤 | 33 |
 
-<p>
-  <img alt="⿺⻍⿳⿱穴王⿲月⿱⿲糸言糸⿲長馬長戈心" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Bi%C3%A1ng-v12.svg" width="64" height="64">
-  (70 strokes)
-</p>
+</details>
 
-## Kokuji
+## General
 
-<p>
-  <img alt="𰽔" src="https://glyphwiki.org/glyph/u30f54.svg" width="64" height="64">
-  (76 strokes)
-</p>
+| Character | Number of strokes | Notes |
+|---|---|---|
+| <img alt="䨻" src="https://glyphwiki.org/glyph/u4a3b.png" width="64"> | 52 | _Kangxi Zidian_ (1716) |
+| <img alt="𠔻" src="https://glyphwiki.org/glyph/u2053b.png" width="64"> | 64 | _Dai Kan-Wa Jiten_ (1960) |
+| <img alt="𪚥" src="https://glyphwiki.org/glyph/u2a6a5.png" width="64"> | 64 | _Dai Kan-Wa Jiten_ (1960) |
+| <img alt="⿺⻍⿳⿱穴王⿲月⿱⿲糸言糸⿲長馬長戈心" src="https://github.com/user-attachments/assets/fe24dcab-59f2-4e56-b1b7-b37aa88b9a37" width="64"> | 70 | |
+| <img alt="𰽔" src="https://glyphwiki.org/glyph/u30f54.png" width="64"> | 76 | _Kokuji_ |
+| <img alt="⿳⿲歒客歒⿰口圡⿲歒客客" src="https://github.com/user-attachments/assets/6cd4eab1-fb92-4c4b-9259-6d5f66833d22" width="64"> | 79 | _Kokuji_ |
+| <img alt="𱁬" src="https://github.com/user-attachments/assets/76e9724f-63a1-4842-bd8f-1a2ca06f2bd8" width="64"> | 84 | _Kokuji_ |
 
-<p>
-  <img alt="⿳⿲歒客歒⿰口圡⿲歒客客" src="https://github.com/user-attachments/assets/6429335c-c541-46ae-8b62-64a54c4455f4" width="64" height="64">
-  (79 strokes)
-</p>
+## References
 
-<p>
-  <img alt="𱁬" src="https://github.com/user-attachments/assets/bf05fcb9-d9e9-4913-9208-951db734c6af" width="64" height="64">
-  (84 strokes)
-</p>
+* https://www.mext.go.jp/a_menu/shotou/new-cs/youryou/syo/koku/001.htm
+* https://www.kanken.or.jp/kanken/outline/data/outline_degree_national_list20200217.pdf
