@@ -1,2 +1,0 @@
-* [[Counting bears]]
-* [[Moving bears]]
