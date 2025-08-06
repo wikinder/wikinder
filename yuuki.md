@@ -11,6 +11,7 @@
 
 ## Research interests
 
+* Normal form of a numerical expression (like converting $8 + 2$ to $2 + 8$)
 * [[Math in anime]]
 * Small shogi variants, such as 3x3 shogi
 
