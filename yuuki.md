@@ -13,10 +13,10 @@
 
 * Solving small variants of shogi, such as 3x3 shogi
 
+## Early life
+
 <details>
 <summary>[show]</summary>
-
-## Early life
 
 yuuki was born on May 17, 1994, in Ninohe, Iwate, and grew up in Esashi, Iwate. His mother, Yūko Konno (née Jūmonji), was a nurse, and his father, Kōji Konno, was a medical assistant and later a labor activist.[^1]
 
