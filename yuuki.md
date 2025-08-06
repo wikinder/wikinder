@@ -19,6 +19,7 @@
 * [[Chinese characters with the most strokes]]
 * Kaibun
 * Shiritori with country names
+* Low-level runs in Genshin Impact
 
 ## Biography
 
