@@ -12,7 +12,7 @@
 ## Research interests
 
 * "Make 24" puzzle
-* Normal form of a numerical expression (like converting $8 + 2$ to $2 + 8$)
+    * Normal form of a numerical expression (like converting $8 + 2$ to $2 + 8$)
 * [[Bear math|Math#Bear math]]
 * [[Math in anime]]
 * 3x3 shogi
