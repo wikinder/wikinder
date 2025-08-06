@@ -15,7 +15,7 @@
 * Normal form of a numerical expression (like converting $8 + 2$ to $2 + 8$)
 * [[Bear math|Math#Bear math]]
 * [[Math in anime]]
-* Small shogi variants, such as 3x3 shogi
+* 3x3 shogi
 * [[Chinese characters with the most strokes]]
 * Kaibun
 * Shiritori with country names
