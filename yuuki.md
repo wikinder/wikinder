@@ -11,7 +11,7 @@
 
 ## Research projects
 
-* 
+* Solving small variants of shogi, such as 3x3 shogi
 
 <details>
 <summary>[show]</summary>
