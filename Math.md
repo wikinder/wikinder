@@ -2,7 +2,7 @@
 * [[Math formulas]]
     * [[Proofs|Math formulas Proofs]]
 
-<!-- -->
+## Bear math
 
 * [[Counting bears]]
 * [[Moving bears]]
