@@ -11,7 +11,8 @@
 
 ## Research interests
 
-* Small shogi variants, such as 3x3 shogi
+* [[Math in anime]]
+* 3x3 shogi and other small shogi variants
 
 ## Biography
 
