@@ -1,4 +1,4 @@
-< [[Math]]
+< [[Bear math|Math#Bear math]]
 
 ```js
 function drawLine(x1, x2) {
