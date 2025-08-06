@@ -13,7 +13,7 @@
 
 * Solving small variants of shogi, such as 3x3 shogi
 
-## Early life
+## Biography
 
 <details>
 <summary>[show]</summary>
