@@ -15,6 +15,7 @@
 * [[Bear math|Math#Bear math]]
 * [[Math in anime]]
 * Small shogi variants, such as 3x3 shogi
+* Shiritori with country names
 
 ## Biography
 
