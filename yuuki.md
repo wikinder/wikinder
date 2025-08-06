@@ -9,6 +9,13 @@
 
 **Yuuki Konno** (金野 裕希, _Konno Yūki_, born May 17, 1994) is a Japanese Wikid.
 
+## Research projects
+
+* 
+
+<details>
+<summary>[show]</summary>
+
 ## Early life
 
 yuuki was born on May 17, 1994, in Ninohe, Iwate, and grew up in Esashi, Iwate. His mother, Yūko Konno (née Jūmonji), was a nurse, and his father, Kōji Konno, was a medical assistant and later a labor activist.[^1]
@@ -35,3 +42,5 @@ In 2005, he dropped out of Esashi Municipal Iwayadō Elementary School in fifth 
 [^4]: Wada (2007).
 
 [^5]: Anonymous et al. (2004).
+
+</details>
