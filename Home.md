@@ -27,6 +27,7 @@ https://github.com/user-attachments/assets/2cbf4e6e-dc5b-4ff1-b04a-8373a4738dbf
 </details>
 
 * [[Kaibun]] (Japanese palindromes)
+* [[Shiritori]] (Japanese word chain game)
 * [[Chinese characters with the most strokes]]
 
 ## Donors
