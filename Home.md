@@ -26,10 +26,19 @@ https://github.com/user-attachments/assets/2cbf4e6e-dc5b-4ff1-b04a-8373a4738dbf
 
 </details>
 
-* [[Chinese characters with the most strokes]]
-* Japanese
-    * [[Kaibun]] (palindromes)
-    * [[Shiritori]] (word chain game)
+* Languages
+    * [[Chinese characters with the most strokes]]
+    * Japanese
+        * [[Kaibun]] (palindromes)
+        * [[Shiritori]] (word chain game)
+
+<!-- -->
+
+* Games
+    * [[Othello]]
+    * [[Chess]]
+    * [[Shogi]]
+    * [[Go]]
 
 ## Donors
 
