@@ -9,15 +9,6 @@
 
 **Yuuki Konno** (金野 裕希, _Konno Yūki_, born May 17, 1994) is a Japanese Wikid.
 
-## Research interests
-
-* "Make 24" puzzle
-    * Normal form of a numerical expression (like converting $8 + 2$ to $2 + 8$)
-* [[Bear math|Math#Bear math]]
-* [[Math in anime]]
-* 3x3 shogi
-* [[Low-level runs in Genshin Impact|Genshin Impact low level runs]]
-
 ## Biography
 
 <details>
