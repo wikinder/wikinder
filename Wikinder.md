@@ -6,6 +6,7 @@
 
 ## Social networks
 
+* [Discord](https://discord.gg/bgEXkwxnQp)
 * [Facebook](https://www.facebook.com/wikinder)
 * [Instagram](https://www.instagram.com/wikindergarten/)
 * [LinkedIn](https://www.linkedin.com/company/wikinder/)
@@ -17,6 +18,7 @@
 
 ### Japan
 
+* [Discord](https://discord.gg/qPE8DyuVw5)
 * [Note](https://note.com/wikinder)
 * [X](https://x.com/wikinderjp)
 
