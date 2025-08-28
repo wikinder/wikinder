@@ -13,9 +13,9 @@
 
 ### Recreational number theory
 
-I study numbers like 111, 123, and 12321, e.g., whether they are prime or not.
+I study numbers like 111, 123, and 12321, e.g., whether they are prime or not. I also study elementary number theory using the counting bears, like representing the number 3 as 🧸🧸🧸. I'm also interested in the 24 game and the normal form of a numerical expression, like converting $8 + 2$ to $2 + 8.$
 
-Keywords: repdigits, repunits, palindromic numbers, reverse of a number, concatenation of numbers, regex
+Keywords: repdigits, repunits, palindromic numbers, reverse of a number, concatenation of numbers
 
 ## Bio
 
