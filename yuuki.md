@@ -11,7 +11,11 @@
 
 ## What I'm working on
 
+### Recreational number theory
 
+I study numbers like 111, 123, and 12321. Whether they are prime, etc.
+
+Keywords: repdigits, repunits, palindromic numbers, reverse of a number, concatenation of numbers, regex
 
 ## Bio
 
