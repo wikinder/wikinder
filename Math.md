@@ -2,7 +2,7 @@
     * [[Proofs|Math formulas proofs]]
 * [[Math in anime]]
 
-## Recreational mathematics
+## Recreational math
 
 * [[Palindromic number]]
 * [[24]]
