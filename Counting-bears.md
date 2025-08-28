@@ -86,7 +86,7 @@ A number is called composite if it can be rearranged into a rectangle, and if no
 
 [^1]: Or an even number has two middles.
 
-[^2]: There is a concept of the _geometric median_, though. The geometric median of the three vertices of a triangle is called the _Fermat point_.
+[^2]: Though there is a concept of the _geometric median_. The geometric median of the three vertices of a triangle is called the _Fermat point_.
 
 [^3]: Examples of totally ordered sets: tuples ordered by index, the set of natural numbers $(\mathbb{N}, \le)$, and the set of real numbers $(\mathbb{R}, \le)$.
 
