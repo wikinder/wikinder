@@ -7,7 +7,7 @@
 * [[Palindromic number]]
 * [[24]]
 
-## Bear math
+## Math of counting bears
 
 * [[Counting bears]]
 * [[Moving bears]]
