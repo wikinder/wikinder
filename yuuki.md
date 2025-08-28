@@ -25,7 +25,7 @@ Keywords: repdigits, repunits, [A138141](https://oeis.org/A138141), palindromic 
 
 I make:
 
-* [data.wikinder.org](https://data.wikinder.org/) - A web service that provides data on numbers, dates, color codes, Unicode characters, chess positions, and more.
+* [data.wikinder.org](https://data.wikinder.org/) - A web service that provides data on numbers, dates, Unicode characters, chess positions, and more.
 
 ## What I've done
 
