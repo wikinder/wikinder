@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <th scope="row">Official site</th>
+    <th scope="row">Website</th>
     <td>
       <a href="https://yuukikonno.com/">yuukikonno.com</a>
     </td>
