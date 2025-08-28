@@ -13,7 +13,7 @@
 
 ### Recreational number theory
 
-I study numbers like 111, 123, and 12321. Whether they are prime, etc.
+I study numbers like 111, 123, and 12321, e.g., whether they are prime or not.
 
 Keywords: repdigits, repunits, palindromic numbers, reverse of a number, concatenation of numbers, regex
 
