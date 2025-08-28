@@ -52,7 +52,7 @@ Three bears have a middle; four don't.[^1] However, if three bears form a triang
 
 ## Prime numbers
 
-A number is called composite if it can be rearranged into a rectangle; if not, it is called prime.[^4] However, 1 is neither prime nor composite. The first prime numbers are 2, 3, 5, 7, 11, .... 
+A number is composite if it can be rearranged into a rectangle; if not, it is prime.[^4] However, 1 is neither prime nor composite. The first prime numbers are 2, 3, 5, 7, 11, .... 
 
 ```
 🧸🧸
