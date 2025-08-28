@@ -11,7 +11,7 @@
 
 ## What I'm working on
 
-### Recreational math
+### Math
 
 I study:
 
