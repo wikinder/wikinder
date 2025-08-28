@@ -2,7 +2,7 @@
     * [[Proofs|Math formulas proofs]]
 * [[Math in anime]]
 
-## Counting bears
+## Math of counting bears
 
 * [[Counting bears]]
 * [[Moving bears]]
