@@ -52,6 +52,8 @@ Three bears have a middle one; four don't.[^1] However, if three bears form a tr
 
 ## Prime numbers
 
+A number that cannot be rearranged into a rectangle is called a prime number. The first prime numbers are 2, 3, 5, 7, 11, ....
+
 ```
 🧸
 
