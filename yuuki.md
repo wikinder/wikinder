@@ -11,7 +11,7 @@
 
 ## What I'm working on
 
-### Recreational number theory
+### Recreational math
 
 I study:
 
