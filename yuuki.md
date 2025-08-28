@@ -15,7 +15,7 @@
 
 I study:
 
-* Numbers like 111, 123, and 12321. Whether they are prime or not, etc.
+* Numbers like 111, 123, and 12321. Whether they are prime, etc.
 * The "make 24" game and the normal form of a numerical expression, like converting $8 + 2$ to $2 + 8.$
 * [[Math of counting bears|Math#Math of counting bears]], like representing the number 3 as 🧸🧸🧸.
 
