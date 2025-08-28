@@ -32,6 +32,9 @@ An even number can be divided into two equal parts, while an odd number cannot.
 
 🧸🧸🧸
 🧸🧸
+
+🧸🧸🧸
+🧸🧸🧸
 ```
 
 **Definition (_Even and odd numbers_)**:
