@@ -38,7 +38,7 @@ See [yuukiarchive](https://github.com/yuukiarchive).
 
 yuuki was born on May 17, 1994, in Ninohe, Iwate, Japan, and grew up in Esashi, Iwate. His mother, Yūko Konno (née Jūmonji), was a nurse, and his father, Kōji Konno, was a medical assistant and later a labor activist.[^1]
 
-yuuki started using a computer at age four and learned kanji. In 2003, he started using the Internet at age nine. He trolled on [TheBBS](https://web.archive.org/web/20031022181655/http://thebbs.jp/) (ザ掲示板) under the names "Aku no Zurihaki" (悪のずりはき) and "Seizan".[^2] Learning HTML and CSS, he created browser exploits and websites.[^3] In the game [Virtual Farm](https://web.archive.org/web/20040407090500/http://www.comitia.jp/farm/) (バーチャル農場),[^4] yuuki was called "The Boy Who Cried Wolf" (狼少年) after lying about another player stealing his money.[^5]
+yuuki started using a computer at 4 and learned kanji. He started using the Internet at 9 in 2003. He trolled on [TheBBS](https://web.archive.org/web/20031022181655/http://thebbs.jp/) (ザ掲示板) under the names "Aku no Zurihaki" (悪のずりはき) and "Seizan".[^2] Learning HTML and CSS, he created browser exploits and websites.[^3] In the game [Virtual Farm](https://web.archive.org/web/20040407090500/http://www.comitia.jp/farm/) (バーチャル農場),[^4] yuuki was called "The Boy Who Cried Wolf" (狼少年) after lying about another player stealing his money.[^5]
 
 In 2005, he dropped out of Esashi Municipal Iwayadō Elementary School in fifth grade.
 
