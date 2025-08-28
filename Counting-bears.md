@@ -1,6 +1,11 @@
 < [[Math]]
 
+<details>
+<summary>Subpages</summary>
+
 * [[Moving bears]]
+
+</details>
 
 We can think of a number $n$ as a collection of $n$ bears.
 
