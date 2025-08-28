@@ -52,7 +52,7 @@ Three bears have a middle one; four don't.[^1] However, if three bears form a tr
 
 ## Prime numbers
 
-A number that cannot be rearranged into a rectangle[^4] is called prime. The first prime numbers are 2, 3, 5, 7, 11, .... 
+A number that cannot be rearranged into a rectangle is called prime.[^4] The first prime numbers are 2, 3, 5, 7, 11, .... 
 
 ```
 🧸
@@ -92,4 +92,4 @@ A number that cannot be rearranged into a rectangle[^4] is called prime. The fir
 
 [^3]: Examples of totally ordered sets: tuples ordered by index, the set of natural numbers $(\mathbb{N}, \le)$, and the set of real numbers $(\mathbb{R}, \le)$.
 
-[^4]: Except a rectangle with one side equal to 1.
+[^4]: Or a prime number can only be rearranged into a rectangle with one side 1.
