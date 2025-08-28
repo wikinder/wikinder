@@ -68,7 +68,7 @@ Let $n$ and $k$ be integers. We say:
 
 ### Odd numbers have a middle
 
-Three doors have a middle one; four don't.[^1] However, if three doors form a triangle, it may not be clear which is the middle.[^2] We can at least say that if a set $S$ has an odd number of elements that are arranged "in a line", then $S$ has a middle element. It seems that such an ordering is called a _linear order_ or _total order_.[^3]
+Three bears have a middle one; four don't.[^1] However, if three bears form a triangle, it's not clear which is the middle.[^2] We can at least say that if a set $S$ has an odd number of elements that are arranged "in a line", then $S$ has a middle element. Such an ordering is called a _linear order_ or a _total order_.[^3]
 
 ## Prime numbers
 
@@ -104,8 +104,8 @@ Three doors have a middle one; four don't.[^1] However, if three doors form a tr
 
 ## Notes
 
-[^1]: One can also think of an even number as having two things in the middle.
+[^1]: We can also think of an even number as having two things in the middle.
 
-[^2]: It seems there is a concept called the _geometric median_. The geometric median of the three vertices of a triangle is called the _Fermat point_.
+[^2]: There is a concept of the _geometric median_, though. The geometric median of the three vertices of a triangle is called the _Fermat point_.
 
-[^3]: Examples of _totally ordered sets_: tuples ordered by index, the set of natural numbers $(\mathbb{N}, \le)$, and the set of real numbers $(\mathbb{R}, \le)$.
+[^3]: Examples of totally ordered sets: tuples ordered by index, the set of natural numbers $(\mathbb{N}, \le)$, and the set of real numbers $(\mathbb{R}, \le)$.
