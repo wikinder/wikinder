@@ -52,7 +52,7 @@ Three bears have a middle one; four don't.[^1] However, if three bears form a tr
 
 ## Prime numbers
 
-A number that cannot be rearranged into a rectangle is called a prime number. The first prime numbers are 2, 3, 5, 7, 11, ....
+A number that cannot be rearranged into a rectangle[^4] is called prime. The first prime numbers are 2, 3, 5, 7, 11, .... 
 
 ```
 🧸
@@ -70,6 +70,18 @@ A number that cannot be rearranged into a rectangle is called a prime number. Th
 🧸🧸🧸
 
 🧸🧸🧸🧸🧸🧸🧸
+
+🧸🧸🧸🧸
+🧸🧸🧸🧸
+
+🧸🧸🧸
+🧸🧸🧸
+🧸🧸🧸
+
+🧸🧸🧸🧸🧸
+🧸🧸🧸🧸🧸
+
+🧸🧸🧸🧸🧸🧸🧸🧸🧸🧸🧸
 ```
 
 ## Notes
@@ -79,3 +91,5 @@ A number that cannot be rearranged into a rectangle is called a prime number. Th
 [^2]: There is a concept of the _geometric median_, though. The geometric median of the three vertices of a triangle is called the _Fermat point_.
 
 [^3]: Examples of totally ordered sets: tuples ordered by index, the set of natural numbers $(\mathbb{N}, \le)$, and the set of real numbers $(\mathbb{R}, \le)$.
+
+[^4]: Except a rectangle with one side equal to 1.
