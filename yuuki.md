@@ -9,7 +9,7 @@
 
 **Yuuki Konno** (金野 裕希, _Konno Yūki_; born May 17, 1994) is a Japanese Wikid.
 
-## What I'm working on
+## What I'm doing
 
 ### Math
 
@@ -26,6 +26,10 @@ Keywords: repdigits, repunits, [A138141](https://oeis.org/A138141), palindromic 
 I make:
 
 * [data.wikinder.org](https://data.wikinder.org/) - A web service that provides data on numbers, dates, color codes, Unicode characters, chess positions, and more.
+
+## What I've done
+
+See [yuukiarchive](https://github.com/yuukiarchive).
 
 ## Bio
 
