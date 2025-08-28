@@ -48,15 +48,13 @@ Let $n$ and $k$ be integers. We say:
 
 ### Odd numbers have a middle
 
-Three bears have a middle one; four don't.[^1] However, if three bears form a triangle, it's not clear which is the middle.[^2] We can at least say that if a set $S$ has an odd number of elements that are arranged "in a line", then $S$ has a middle element. Such an ordering is called a _linear order_ or a _total order_.[^3]
+Three bears have a middle; four don't.[^1] However, if three bears form a triangle, it's not clear which is the middle.[^2] We can at least say that if a set $S$ has an odd number of elements that are arranged "in a line", then $S$ has a middle element. Such an ordering is called a _linear order_ or a _total order_.[^3]
 
 ## Prime numbers
 
-A number that cannot be rearranged into a rectangle is called prime.[^4] The first prime numbers are 2, 3, 5, 7, 11, .... 
+A number is called composite if it can be rearranged into a rectangle, and if not, it is called prime.[^4] However, 1 is neither prime nor composite. The first prime numbers are 2, 3, 5, 7, 11, .... 
 
 ```
-🧸
-
 🧸🧸
 
 🧸🧸🧸
@@ -86,7 +84,7 @@ A number that cannot be rearranged into a rectangle is called prime.[^4] The fir
 
 ## Notes
 
-[^1]: We can also think of an even number as having two things in the middle.
+[^1]: Or an even number has two middles.
 
 [^2]: There is a concept of the _geometric median_, though. The geometric median of the three vertices of a triangle is called the _Fermat point_.
 
