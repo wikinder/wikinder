@@ -1,4 +1,4 @@
-< [[Bear math|Math#Bear math]]
+< [[Math of counting bears|Math#Math of counting bears]]
 
 We can think of a number $n$ as a collection of $n$ bears.
 
