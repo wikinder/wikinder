@@ -9,7 +9,7 @@ $(a + b)^2 = a^2 + 2ab + b^2$
 <img alt="Sheet music for &quot;Row, Row, Row Your Boat&quot;" src="https://github.com/user-attachments/assets/40e65b09-9ad1-4a03-9478-7c81dea11514" height="100">
 
 <details>
-<summary>[show]</summary>
+<summary>Play</summary>
 
 ```lilypond
 \relative c' {
