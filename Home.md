@@ -4,9 +4,9 @@
 
 $(a + b)^2 = a^2 + 2ab + b^2$
 
-<img alt="A rose made of Lego" src="https://github.com/user-attachments/assets/785abd52-dea5-46f6-88a0-41dec4d6e7bc" height="200">
+<img src="https://github.com/user-attachments/assets/785abd52-dea5-46f6-88a0-41dec4d6e7bc" alt="A rose made of Lego" height="200">
 <br>
-<img alt="Sheet music for &quot;Row, Row, Row Your Boat&quot;" src="https://github.com/user-attachments/assets/40e65b09-9ad1-4a03-9478-7c81dea11514" height="100">
+<img src="https://github.com/user-attachments/assets/40e65b09-9ad1-4a03-9478-7c81dea11514" alt="Sheet music for &quot;Row, Row, Row Your Boat&quot;" height="100">
 
 <details>
 <summary>Play</summary>
