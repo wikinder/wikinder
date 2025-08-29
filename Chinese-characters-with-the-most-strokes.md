@@ -8,10 +8,12 @@
 | <img src="https://github.com/user-attachments/assets/6cd4eab1-fb92-4c4b-9259-6d5f66833d22" alt="⿳⿲歒客歒⿰口圡⿲歒客客" width="64" height="64"> | 79 | _Kokuji_ |
 | <img src="https://github.com/user-attachments/assets/76e9724f-63a1-4842-bd8f-1a2ca06f2bd8" alt="𱁬" width="64" height="64"> | 84 | _Kokuji_ |
 
-## _Kyōiku_ kanji
+## Kanji
 
 <details>
 <summary>[show]</summary>
+
+### _Kyōiku_ kanji
 
 | Grade | Kanji | Number of strokes |
 |---|---|---|
@@ -25,12 +27,7 @@
 | 6 | 臓 | 19 |
 | 6 | 警 | 19 |
 
-</details>
-
-## Kanji Kentei
-
-<details>
-<summary>[show]</summary>
+### Kanji Kentei
 
 | Level | Kanji | Number of strokes |
 |---|---|---|
