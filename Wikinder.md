@@ -1,3 +1,10 @@
+<table>
+  <tr>
+    <th scope="row">Founding date</th>
+    <td>September 1, 2005</td>
+  </tr>
+</table>
+
 ## Wiki hosts
 
 * [GitHub Wiki](https://github.com/wikinder/wikinder/wiki)
