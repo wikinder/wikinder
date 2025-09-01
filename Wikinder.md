@@ -1,5 +1,9 @@
 <table>
   <tr>
+    <th scope="row">Founder</th>
+    <td>[[bear]]</td>
+  </tr>
+  <tr>
     <th scope="row">Founding date</th>
     <td>September 1, 2005</td>
   </tr>
