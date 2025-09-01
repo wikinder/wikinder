@@ -11,19 +11,19 @@
 
 ## What I'm doing
 
-I study many things, with a focus on things that last longer, like math.
+I study many things, with a focus on things that last longer.
 
 ### Math
 
 * Numbers like 111, 123, and 12321. (e.g., are they prime?)
-* The "Make 24" game and the normal form of a numerical expression, like converting $8 + 2$ to $2 + 8.$
+* The "make 24" game and the normal form of a numerical expression, like converting $8 + 2$ to $2 + 8.$
 * [[Counting bears]], like representing the number 3 as `🧸🧸🧸`.
 
 Keywords: repdigits, repunits, [A138141](https://oeis.org/A138141), palindromic numbers, reverse of a number, concatenation of numbers, [A140606](https://oeis.org/A140606), [A247982](https://oeis.org/A247982)
 
 ### Programming
 
-* [data.wikinder.org](https://data.wikinder.org/) - A web service that provides data on numbers, dates, Unicode characters, chess positions, and more.
+* [data.wikinder.org](https://data.wikinder.org/) - A web service that provides data in various categories, such as dates, Unicode characters, and chess positions.
 
 ## What I've done
 
