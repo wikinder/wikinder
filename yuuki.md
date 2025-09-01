@@ -11,8 +11,6 @@
 
 ## What I'm doing
 
-I play on the computer, with a focus on things that last a long time.
-
 ### Math
 
 I study:
