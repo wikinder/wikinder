@@ -15,8 +15,6 @@ I study many things, with some focus on things that last longer, like math.
 
 ### Math
 
-I study:
-
 * Numbers like 111, 123, and 12321. (e.g., are they prime?)
 * The "Make 24" game and the normal form of a numerical expression, like converting $8 + 2$ to $2 + 8.$
 * [[Counting bears]], like representing the number 3 as `🧸🧸🧸`.
@@ -24,8 +22,6 @@ I study:
 Keywords: repdigits, repunits, [A138141](https://oeis.org/A138141), palindromic numbers, reverse of a number, concatenation of numbers, [A140606](https://oeis.org/A140606), [A247982](https://oeis.org/A247982)
 
 ### Programming
-
-I make:
 
 * [data.wikinder.org](https://data.wikinder.org/) - A web service that provides data on numbers, dates, Unicode characters, chess positions, and more.
 
