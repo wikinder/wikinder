@@ -11,7 +11,7 @@
 
 ## What I'm doing
 
-I do random things every day, mostly on the computer, with a focus on things that last longer.
+I do many things every day, mostly playing on the computer, focusing on things that last a long time.
 
 ### Math
 
