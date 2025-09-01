@@ -1,3 +1,14 @@
+<table>
+  <tr>
+    <th scope="row">Founder</th>
+    <td>[[bear]]</td>
+  </tr>
+  <tr>
+    <th scope="row">Founding date</th>
+    <td>September 1, 2005</td>
+  </tr>
+</table>
+
 ## Wiki hosts
 
 * [GitHub Wiki](https://github.com/wikinder/wikinder/wiki)
@@ -6,9 +17,11 @@
 
 ## Social networks
 
+* [Discord](https://discord.gg/bgEXkwxnQp)
 * [Facebook](https://www.facebook.com/wikinder)
 * [Instagram](https://www.instagram.com/wikindergarten/)
 * [LinkedIn](https://www.linkedin.com/company/wikinder/)
+* [Scratch](https://scratch.mit.edu/users/wikinder/)
 * [Threads](https://www.threads.net/@wikindergarten)
 * [TikTok](https://www.tiktok.com/@wikinder)
 * [X](https://x.com/wikinder)
@@ -16,6 +29,8 @@
 
 ### Japan
 
+* [Discord](https://discord.gg/qPE8DyuVw5)
+* [Note](https://note.com/wikinder)
 * [X](https://x.com/wikinderjp)
 
 ## Archives
