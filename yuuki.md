@@ -11,7 +11,7 @@
 
 ## What I'm doing
 
-I play on the computer, focusing on things that last a long time.
+I play on the computer, with a focus on things that last a long time.
 
 ### Math
 
