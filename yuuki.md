@@ -11,7 +11,7 @@
 
 ## What I'm doing
 
-I study many things, with a focus on things that last longer.
+I study many things.
 
 ### Math
 
