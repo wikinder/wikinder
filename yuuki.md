@@ -17,7 +17,7 @@ I play on the computer and focus on things that last a long time.
 
 I study:
 
-* Numbers like 111, 123, and 12321. (e.g., are they prime?)
+* Numbers like 111, 123, and 12321. (E.g., are they prime?)
 * The "make 24" game and the normal form of a numerical expression, like converting $8 + 2$ to $2 + 8.$
 * [[Counting bears]], like representing the number 3 as `🧸🧸🧸`.
 
