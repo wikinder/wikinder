@@ -11,11 +11,7 @@
 
 ## What I'm doing
 
-### Programming
-
-I make:
-
-* [data.wikinder.org](https://data.wikinder.org/) - A web service that provides data on numbers, dates, Unicode characters, chess positions, and more.
+I study many things randomly, with a focus on something permanent like math.
 
 ### Math
 
@@ -26,6 +22,12 @@ I study:
 * [[Counting bears]], like representing the number 3 as `🧸🧸🧸`.
 
 Keywords: repdigits, repunits, [A138141](https://oeis.org/A138141), palindromic numbers, reverse of a number, concatenation of numbers, [A140606](https://oeis.org/A140606), [A247982](https://oeis.org/A247982)
+
+### Programming
+
+I make:
+
+* [data.wikinder.org](https://data.wikinder.org/) - A web service that provides data on numbers, dates, Unicode characters, chess positions, and more.
 
 ## What I've done
 
