@@ -11,7 +11,7 @@
 
 ## What I'm doing
 
-I study many things randomly, with a focus on something permanent like math.
+I study many things, with some focus on things that last longer, like math.
 
 ### Math
 
