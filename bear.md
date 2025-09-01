@@ -5,7 +5,7 @@
   </tr>
   <tr>
     <th scope="row">Occupation</th>
-    <td>Founder of Wikinder</td>
+    <td>Founder of [[Wikinder]]</td>
   </tr>
   <tr>
     <th scope="row">Height</th>
