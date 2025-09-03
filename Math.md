@@ -1,8 +1,11 @@
 * [[Math in anime]]
 * [[Math formulas]]
-    * [[Proofs|Math formulas Proofs]]
 
 <!-- -->
 
 * [[Counting bears]]
 * [[Moving bears]]
+
+<!-- -->
+
+* [[Are 111, 1111, and 11111 prime?]]
