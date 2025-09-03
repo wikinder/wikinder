@@ -6,4 +6,8 @@ function drawLine(x1, x2) {
 }
 ```
 
+## See also
+
+* [[Counting bears]]
+
 [[#math|Math]]
