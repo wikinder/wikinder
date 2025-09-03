@@ -1,4 +1,4 @@
-< [[Math formulas]]
+< [[Math]] | [[Math formulas]]
 
 ## Euler's formula
 
