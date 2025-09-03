@@ -5,4 +5,3 @@
 * [[Counting bears]]
 * [[Math in anime]]
 * [[Math formulas]]
-    * [[Proofs|Math formulas proofs]]
