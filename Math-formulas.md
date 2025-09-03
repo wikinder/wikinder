@@ -1,3 +1,5 @@
+< [[Math]]
+
 * [[Proofs|Math formulas proofs]]
 
 ## Euler's identities
