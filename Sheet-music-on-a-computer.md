@@ -41,13 +41,13 @@ rsvg-convert -b white -f svg -o row.cropped.svg row.cropped.svg
 Convert to WAV:
 
 ```sh
-fluidsynth -ni ~/Library/Audio/Sounds/Banks/FluidR3_GM.sf2 -F row.wav row.mid
+fluidsynth -ni FluidR3_GM.sf2 -F row.wav row.mid
 ```
 
 Convert to WebM:
 
 ```sh
-ffmpeg -i row.wav -c:a libopus -b:a 96k row.webm
+ffmpeg -i row.wav -c:a libopus row.webm
 ```
 
 ["Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/51ee7351-5555-4a18-9f2e-d9587a8ce325)
