@@ -18,7 +18,7 @@ row.ly:
 }
 ```
 
-Convert to cropped SVG:
+Convert to SVG:
 
 ```sh
 lilypond --svg -dcrop row.ly
