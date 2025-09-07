@@ -18,9 +18,13 @@ row.ly:
 }
 ```
 
+Convert to cropped SVG:
+
 ```sh
 lilypond --svg -dcrop row.ly
 ```
+
+Set the background color to white:
 
 ```sh
 rsvg-convert -b white -f svg -o row.cropped.svg row.cropped.svg
@@ -28,14 +32,22 @@ rsvg-convert -b white -f svg -o row.cropped.svg row.cropped.svg
 
 ![Sheet music for "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/efd112de-9199-47e8-a3d0-0f3513a06f9c)
 
-```sh
-ly musicxml foo.ly > foo.musicxml
-```
+Convert to MusicXML:
 
 ```sh
-mscore -o foo.flac foo.musicxml
+ly musicxml row.ly > row.musicxml
 ```
 
+Convert to FLAC:
+
 ```sh
-ffmpeg -i foo.flac -c:a libopus -b:a 96k foo.webm
+mscore -o row.flac row.musicxml
 ```
+
+Convert to WebM:
+
+```sh
+ffmpeg -i row.flac -c:a libopus -b:a 96k row.webm
+```
+
+["Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/51ee7351-5555-4a18-9f2e-d9587a8ce325)
