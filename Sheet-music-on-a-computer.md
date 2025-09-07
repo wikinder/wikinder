@@ -1,6 +1,6 @@
 MusicXML is the standard format for sheet music. However, it is too verbose to write by hand.
 
-LilyPond notation is useful for writing simple sheet music. It can be converted to MusicXML using python-ly, but the support is very limited.
+LilyPond notation is useful for writing simple sheet music. It can be converted to MusicXML using python-ly, but support is very limited.
 
 row.ly:
 
