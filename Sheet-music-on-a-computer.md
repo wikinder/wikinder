@@ -14,10 +14,14 @@ row-your-boat.ly:
 }
 ```
 
-```bash
+```sh
 ly musicxml foo.ly > foo.musicxml
+```
 
+```sh
 mscore -o foo.flac foo.musicxml
+```
 
+```sh
 ffmpeg -i foo.flac -c:a libopus -b:a 96k foo.webm
 ```
