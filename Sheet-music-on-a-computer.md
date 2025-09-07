@@ -15,6 +15,12 @@ row-your-boat.ly:
 ```
 
 ```sh
+lilypond --svg -dcrop row.ly
+```
+
+!["Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/aae025f3-4363-4881-9e94-c7b13052f70b)
+
+```sh
 ly musicxml foo.ly > foo.musicxml
 ```
 
