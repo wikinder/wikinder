@@ -28,6 +28,8 @@ rsvg-convert -b white -f svg -o row.cropped.svg row.cropped.svg
 
 ![Sheet music for "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/efd112de-9199-47e8-a3d0-0f3513a06f9c)
 
+![row cropped](https://github.com/user-attachments/assets/7c610af6-aba8-4832-977c-1f7e1ad95270)
+
 ```sh
 ly musicxml foo.ly > foo.musicxml
 ```
