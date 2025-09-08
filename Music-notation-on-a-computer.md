@@ -27,7 +27,7 @@ Prerequisites:
 * lilypond
 * librsvg
 * fluidsynth
-    * [FluidR3_GM.sf2](https://github.com/pianobooster/fluid-soundfont/releases)
+* [FluidR3_GM.sf2](https://github.com/pianobooster/fluid-soundfont/releases)
 * ffmpeg
 * python-ly
 
