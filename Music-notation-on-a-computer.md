@@ -26,7 +26,7 @@ Prerequisites:
 
 * lilypond
 * librsvg
-* fluid-synth
+* fluidsynth
     * FluidR3_GM.sf2
 * ffmpeg
 * python-ly
