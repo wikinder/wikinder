@@ -5,22 +5,13 @@
 $(a + b)^2 = a^2 + 2ab + b^2$
 
 <img src="https://github.com/user-attachments/assets/785abd52-dea5-46f6-88a0-41dec4d6e7bc" alt="A rose made of Lego" width="115" height="200">
-<br>
-<img src="https://github.com/user-attachments/assets/40e65b09-9ad1-4a03-9478-7c81dea11514" alt="Sheet music for &quot;Row, Row, Row Your Boat&quot;" width="360" height="103">
+
+[![Sheet music for "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/f7885323-ab42-4ac4-9210-7989245f0823)](./Sheet-music-on-a-computer#row-row-row-your-boat)
 
 <details>
 <summary>Play</summary>
 
-```lilypond
-\relative c' {
-  \numericTimeSignature
-  \time 4/4
-  c4 c4 c8.[ d16] e4 | e8.[ d16 e8. f16] g2 |
-  \tuplet 3/2 { c8[ c8 c8] } \tuplet 3/2 { g8[ g8 g8] } \tuplet 3/2 { e8[ e8 e8] } \tuplet 3/2 { c8[ c8 c8] } | g'8.[ f16 e8. d16] c2 \bar "|."
-}
-```
-
-https://github.com/user-attachments/assets/2cbf4e6e-dc5b-4ff1-b04a-8373a4738dbf
+["Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/8b48be04-c256-4d81-b155-5661b63c21ba)
 
 </details>
 
