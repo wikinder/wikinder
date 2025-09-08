@@ -64,7 +64,7 @@ Convert MIDI to WAV:
 fluidsynth -ni FluidR3_GM.sf2 -F row.wav row.mid
 ```
 
-Convert to WebM:
+Convert WAV to WebM:
 
 ```sh
 ffmpeg -i row.wav -c:a libopus row.webm
