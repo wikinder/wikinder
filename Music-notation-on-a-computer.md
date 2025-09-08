@@ -58,7 +58,7 @@ Set the SVG background color to white:
 rsvg-convert -b white -f svg -o row.cropped.svg row.cropped.svg
 ```
 
-Convert to WAV:
+Convert MIDI to WAV:
 
 ```sh
 fluidsynth -ni FluidR3_GM.sf2 -F row.wav row.mid
