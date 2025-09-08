@@ -61,7 +61,7 @@ Convert to SVG and MIDI:
 lilypond --svg -dcrop -dmidi-extension=mid row.ly
 ```
 
-Set the SVG background color to white:
+Set the SVG background to white:
 
 ```sh
 rsvg-convert -b white -f svg -o row.cropped.svg row.cropped.svg
@@ -70,7 +70,7 @@ rsvg-convert -b white -f svg -o row.cropped.svg row.cropped.svg
 Convert MIDI to WAV:
 
 ```sh
-fluidsynth -ni FluidR3_GM.sf2 -F row.wav row.mid
+fluidsynth -ni /path/to/FluidR3_GM.sf2 -F row.wav row.mid
 ```
 
 Convert WAV to WebM:
