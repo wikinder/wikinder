@@ -2,7 +2,7 @@ MusicXML is an interchange format for musical scores. However, it is too verbose
 
 LilyPond notation is useful for writing simple scores. It can be converted to MusicXML using python-ly, although support is limited.
 
-Below, you'll find simple LilyPond examples for popular nursery rhymes. For the full source code and conversion instructions, see the [How to convert it](#how-to-convert-it) section. All files are available in [my repo](https://github.com/yuukiarchive/sheetmusic).
+Below, you'll find simple LilyPond examples for various nursery rhymes. For the full source code and conversion instructions, see the [How to convert it](#how-to-convert-it) section. All files are available in [my repo](https://github.com/yuukiarchive/sheetmusic).
 
 ## Row, Row, Row Your Boat
 
