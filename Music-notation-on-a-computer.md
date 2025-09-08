@@ -10,13 +10,13 @@ Below, you'll find LilyPond fragments for nursery rhymes. For the full code and 
 \relative c' {
   \time 6/8
   c4. c4. | c4 d8 e4. | e4 d8 e4 f8 | g2. |
-  c8[ c8 c8] g8[ g8 g8] | e8[ e8 e8] c8[ c8 c8] | g'4 f8 e4 d8 | c2. \bar "|."
+  c8[ c8 c8] g8[ g8 g8] | e8[ e8 e8] c8[ c8 c8] | g'4 f8 e4 d8 | c2. \fine
 }
 ```
 
-![Sheet music for "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/f7885323-ab42-4ac4-9210-7989245f0823)
+![Sheet music for "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/4c65b571-0107-4efe-9ceb-c95033cafd2d)
 
-[Play "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/8b48be04-c256-4d81-b155-5661b63c21ba)
+[Play "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/775c080b-f99c-4b4c-8d81-ee06e0ccbb49)
 
 ## Twinkle, Twinkle, Little Star
 
