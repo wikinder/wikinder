@@ -16,7 +16,7 @@ This article shows rough LilyPond notation for several nursery rhymes. See the [
 
 ![Sheet music for "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/f7885323-ab42-4ac4-9210-7989245f0823)
 
-["Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/8b48be04-c256-4d81-b155-5661b63c21ba)
+[Play "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/8b48be04-c256-4d81-b155-5661b63c21ba)
 
 ## Twinkle, Twinkle, Little Star
 
