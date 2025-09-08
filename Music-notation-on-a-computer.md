@@ -70,7 +70,7 @@ rsvg-convert -b white -f svg -o row.cropped.svg row.cropped.svg
 Convert MIDI to WAV:
 
 ```sh
-fluidsynth -ni /path/to/FluidR3_GM.sf2 -F row.wav row.mid
+fluidsynth -ni /path/to/FluidR3_GM.sf2 row.mid -F row.wav
 ```
 
 Convert WAV to WebM:
