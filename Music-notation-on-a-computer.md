@@ -22,7 +22,7 @@ Below, you'll find simple LilyPond examples for various nursery rhymes. For the 
 
 ## How to convert LilyPond files
 
-Full source code for "[Row, Row, Row Your Boat](#row-row-row-your-boat)" (row.ly):
+Example of the full source code for "[Row, Row, Row Your Boat](#row-row-row-your-boat)" (row.ly):
 
 ```lilypond
 \version "2.24.4"
