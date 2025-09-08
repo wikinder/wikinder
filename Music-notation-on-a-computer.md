@@ -22,6 +22,15 @@ Below, you'll find LilyPond fragments for various nursery rhymes. For the full s
 
 ## How to convert LilyPond files
 
+Prerequisites:
+
+* lilypond
+* librsvg
+* fluid-synth
+    * FluidR3_GM.sf2
+* ffmpeg
+* python-ly
+
 Example of the full source code for "[Row, Row, Row Your Boat](#row-row-row-your-boat)" (row.ly):
 
 ```lilypond
