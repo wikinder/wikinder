@@ -8,13 +8,6 @@ $(a + b)^2 = a^2 + 2ab + b^2$
 
 [![Sheet music for "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/f7885323-ab42-4ac4-9210-7989245f0823)](./Sheet-music-on-a-computer#row-row-row-your-boat)
 
-<details>
-<summary>Play</summary>
-
-["Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/8b48be04-c256-4d81-b155-5661b63c21ba)
-
-</details>
-
 * [[Are 111, 1111, and 11111 prime?]]
 
 ## Donors
