@@ -6,7 +6,7 @@ $(a + b)^2 = a^2 + 2ab + b^2$
 
 <img src="https://github.com/user-attachments/assets/785abd52-dea5-46f6-88a0-41dec4d6e7bc" alt="A rose made of Lego" width="115" height="200">
 
-[![Sheet music for "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/f7885323-ab42-4ac4-9210-7989245f0823)](./Sheet-music-on-a-computer#row-row-row-your-boat)
+[![Sheet music for "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/f7885323-ab42-4ac4-9210-7989245f0823)](./Music-notation-on-a-computer#row-row-row-your-boat)
 
 * [[Are 111, 1111, and 11111 prime?]]
 
