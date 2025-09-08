@@ -1,6 +1,6 @@
 MusicXML is an interchange format for music scores. However, it is too verbose to write by hand. MuseScore supports it and is suitable for practical use.
 
-LilyPond notation is useful for writing simple scores. However, it is less interchangeable, although python-ly has limited support for converting to MusicXML.
+LilyPond notation is useful for writing simple scores. It is less interchangeable, though python-ly has limited support for converting to MusicXML.
 
 Below, you'll find LilyPond fragments for various nursery rhymes. For the full source code and conversion instructions, see [#How to convert LilyPond files](#how-to-convert-lilypond-files). All files are available in [my repo](https://github.com/yuukiarchive/sheetmusic).
 
