@@ -52,7 +52,7 @@ Convert to SVG and MIDI:
 lilypond --svg -dcrop -dmidi-extension=mid row.ly
 ```
 
-Set the background color to white:
+Set the SVG background color to white:
 
 ```sh
 rsvg-convert -b white -f svg -o row.cropped.svg row.cropped.svg
