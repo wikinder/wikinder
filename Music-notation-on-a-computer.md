@@ -70,7 +70,7 @@ Convert to WebM:
 ffmpeg -i row.wav -c:a libopus row.webm
 ```
 
-Convert to MusicXML:
+Convert LilyPond to MusicXML:
 
 ```sh
 ly musicxml row.ly > row.musicxml
