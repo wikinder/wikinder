@@ -22,9 +22,6 @@ Below, you'll find simple LilyPond examples for various nursery rhymes. For the 
 
 ## How to convert it
 
-<details>
-<summary>[show]</summary>
-
 row.ly:
 
 ```lilypond
@@ -78,5 +75,3 @@ Convert to MusicXML:
 ```sh
 ly musicxml row.ly > row.musicxml
 ```
-
-</details>
