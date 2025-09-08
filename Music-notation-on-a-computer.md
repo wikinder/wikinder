@@ -31,7 +31,7 @@ Prerequisites:
 * ffmpeg
 * python-ly
 
-Example of the full source code for "[Row, Row, Row Your Boat](#row-row-row-your-boat)" (row.ly):
+Example of the full LilyPond code for "[Row, Row, Row Your Boat](#row-row-row-your-boat)" (row.ly):
 
 ```lilypond
 \version "2.24.4"
