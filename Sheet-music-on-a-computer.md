@@ -1,4 +1,4 @@
-MusicXML is the standard format for musical scores. However, it is too verbose to write by hand.
+MusicXML is an interchange format for musical scores. However, it is too verbose to write by hand.
 
 LilyPond notation is useful for writing simple scores. It can be converted to MusicXML using python-ly, but support is very limited.
 
