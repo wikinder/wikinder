@@ -6,13 +6,30 @@ This article shows rough LilyPond notation for several nursery rhymes. See the [
 
 ## Row, Row, Row Your Boat
 
+```lilypond
+\relative c' {
+  \time 6/8
+  c4. c4. | c4 d8 e4. | e4 d8 e4 f8 | g2. |
+  c8[ c8 c8] g8[ g8 g8] | e8[ e8 e8] c8[ c8 c8] | g'4 f8 e4 d8 | c2. \bar "|."
+}
+```
+
+![Sheet music for "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/f7885323-ab42-4ac4-9210-7989245f0823)
+
+["Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/8b48be04-c256-4d81-b155-5661b63c21ba)
+
 ## Twinkle, Twinkle, Little Star
 
 ## How to convert it
 
+<details>
+<summary>[show]</summary>
+
 row.ly:
 
 ```lilypond
+\version "2.24.4"
+
 \score {
   \relative c' {
     \time 6/8
@@ -21,9 +38,9 @@ row.ly:
   }
 
   \layout {
+    \autoBreaksOff
     indent = #0
     line-width = #120
-    \autoBreaksOff
   }
 
   \midi {
@@ -44,8 +61,6 @@ Set the background color to white:
 rsvg-convert -b white -f svg -o row.cropped.svg row.cropped.svg
 ```
 
-![Sheet music for "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/efd112de-9199-47e8-a3d0-0f3513a06f9c)
-
 Convert to WAV:
 
 ```sh
@@ -58,10 +73,10 @@ Convert to WebM:
 ffmpeg -i row.wav -c:a libopus row.webm
 ```
 
-["Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/51ee7351-5555-4a18-9f2e-d9587a8ce325)
-
 Convert to MusicXML:
 
 ```sh
 ly musicxml row.ly > row.musicxml
 ```
+
+</details>
