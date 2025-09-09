@@ -14,9 +14,9 @@ Below are fragments of LilyPond code for nursery rhymes. For the full code and i
 }
 ```
 
-![Sheet music for "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/4c65b571-0107-4efe-9ceb-c95033cafd2d)
+![Sheet music for "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/cb9b023d-f6fa-4500-9d12-f9f0f69067d3)
 
-[Play "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/775c080b-f99c-4b4c-8d81-ee06e0ccbb49)
+[Play "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/8c0133cd-4a1f-4fc8-b908-492482ab419a)
 
 ## Twinkle, Twinkle, Little Star
 
