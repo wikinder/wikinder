@@ -61,7 +61,7 @@ Example of the full LilyPond code for "[Row, Row, Row Your Boat](#row-row-row-yo
 }
 ```
 
-Convert to SVG and MIDI:
+Convert LilyPond to SVG and MIDI:
 
 ```sh
 lilypond --svg -dcrop -dmidi-extension=mid row.ly
