@@ -82,5 +82,6 @@ ffmpeg -i row.wav -c:a libopus row.webm
 Convert LilyPond to MusicXML (extracting only the `\relative` block):
 
 ```sh
-python3 -c 'import re, sys; print(re.search(r"\\relative.*?{.*?}", open(sys.argv[1]).read(), re.DOTALL).group(0))' row.ly | ly musicxml > row.musicxml
+python3 -c 'import re, sys; print(re.search(r"\\relative.*?{.*?}", open(sys.argv[1]).read(), re.DOTALL).group(0))' row.ly \
+| ly musicxml > row.musicxml
 ```
