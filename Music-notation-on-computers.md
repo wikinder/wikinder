@@ -1,4 +1,4 @@
-MusicXML is an interchange format for music scores. However, it is too verbose to write by hand. MuseScore supports it and is useful in practice.
+MusicXML is an interchange format for music scores. However, it is too verbose to write by hand. MuseScore supports it and is practical.
 
 LilyPond notation is useful for writing simple scores. It is less interchangeable, although python-ly provides limited support for converting to MusicXML.
 
