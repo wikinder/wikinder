@@ -16,7 +16,7 @@ Below are LilyPond fragments for nursery rhymes. See [#How to convert LilyPond s
 
 ![Sheet music for "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/fcc2eaa1-01cd-4c4f-b5d7-1efc7838a46c)
 
-[Play "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/b45fccd3-3ff1-40bb-9915-d9c027ac5b67)
+[Play "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/bce7f3f5-9dab-43ab-9ba0-ff67b19b5ded)
 
 ## Twinkle, Twinkle, Little Star
 
@@ -31,7 +31,7 @@ Below are LilyPond fragments for nursery rhymes. See [#How to convert LilyPond s
 
 ![Sheet music for "Twinkle, Twinkle, Little Star"](https://github.com/user-attachments/assets/24440c64-272d-45c8-97dd-d40b44c73982)
 
-[Play "Twinkle, Twinkle, Little Star"](https://github.com/user-attachments/assets/88e9beeb-d666-44e0-9c90-914824fdf873)
+[Play "Twinkle, Twinkle, Little Star"](https://github.com/user-attachments/assets/97d4e6c0-f0eb-4069-99fd-b0311ec61e6b)
 
 ## How to convert LilyPond scores
 
@@ -52,13 +52,13 @@ Example of the full LilyPond score for "[Row, Row, Row Your Boat](#row-row-row-y
 ```lilypond
 \version "2.24.4"
 
-\header {
-  title = "Row, Row, Row Your Boat"
-}
-
 \paper {
   indent = #0
   line-width = #120
+}
+
+\header {
+  title = "Row, Row, Row Your Boat"
 }
 
 \score {
