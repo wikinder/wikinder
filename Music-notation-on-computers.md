@@ -20,6 +20,19 @@ Below are LilyPond fragments for nursery rhymes. See [#How to convert LilyPond s
 
 ## Twinkle, Twinkle, Little Star
 
+```lilypond
+\relative c' {
+  \time 4/4
+  c4 c4 g'4 g4 | a4 a4 g2 | f4 f4 e4 e4 | d4 d4 c2 |
+  g'4 g4 f4 f4 | e4 e4 d2 | g4 g4 f4 f4 | e4 e4 d2 |
+  c4 c4 g'4 g4 | a4 a4 g2 | f4 f4 e4 e4 | d4 d4 c2 \fine
+}
+```
+
+![Sheet music for "Twinkle, Twinkle, Little Star"](https://github.com/user-attachments/assets/662fc39c-acef-4a8d-8601-9a79733c529d)
+
+[Twinkle, Twinkle, Little Star](https://github.com/user-attachments/assets/4212d20e-be9c-4817-9b29-f78d62afa80e)
+
 ## How to convert LilyPond scores
 
 <details>
