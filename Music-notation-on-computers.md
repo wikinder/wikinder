@@ -14,9 +14,9 @@ Below are LilyPond fragments for nursery rhymes. See [#How to convert LilyPond s
 }
 ```
 
-![Sheet music for "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/b2bdc887-b0c1-48bd-9f1c-8c949353850b)
+![Sheet music for "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/fcc2eaa1-01cd-4c4f-b5d7-1efc7838a46c)
 
-[Play "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/e223a4a7-da33-49de-8296-6af8c741140f)
+[Play "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/b45fccd3-3ff1-40bb-9915-d9c027ac5b67)
 
 ## Twinkle, Twinkle, Little Star
 
@@ -29,9 +29,9 @@ Below are LilyPond fragments for nursery rhymes. See [#How to convert LilyPond s
 }
 ```
 
-![Sheet music for "Twinkle, Twinkle, Little Star"](https://github.com/user-attachments/assets/662fc39c-acef-4a8d-8601-9a79733c529d)
+![Sheet music for "Twinkle, Twinkle, Little Star"](https://github.com/user-attachments/assets/24440c64-272d-45c8-97dd-d40b44c73982)
 
-[Twinkle, Twinkle, Little Star](https://github.com/user-attachments/assets/4212d20e-be9c-4817-9b29-f78d62afa80e)
+[Play "Twinkle, Twinkle, Little Star"](https://github.com/user-attachments/assets/88e9beeb-d666-44e0-9c90-914824fdf873)
 
 ## How to convert LilyPond scores
 
@@ -52,6 +52,15 @@ Example of the full LilyPond score for "[Row, Row, Row Your Boat](#row-row-row-y
 ```lilypond
 \version "2.24.4"
 
+\header {
+  title = "Row, Row, Row Your Boat"
+}
+
+\paper {
+  indent = #0
+  line-width = #120
+}
+
 \score {
   <<
   \chords {
@@ -68,8 +77,6 @@ Example of the full LilyPond score for "[Row, Row, Row Your Boat](#row-row-row-y
   \layout {
     \autoBreaksOff
     \numericTimeSignature
-    indent = #0
-    line-width = #120
   }
 
   \midi {
@@ -99,7 +106,7 @@ fluidsynth -ni /path/to/FluidR3_GM.sf2 row.mid -F row.wav
 Convert WAV to WebM:
 
 ```sh
-ffmpeg -i row.wav -c:a libopus row.webm
+ffmpeg -f lavfi -i 'color=c=black:s=320x180' -i row.wav -c:v libvpx-vp9 -c:a libopus -shortest -pix_fmt yuv420p row.webm
 ```
 
 Convert LilyPond to MusicXML (extracting only the `\relative` block):
