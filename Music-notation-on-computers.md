@@ -20,7 +20,7 @@ Below are fragments of LilyPond scores for nursery rhymes. For the full scores a
 
 ## Twinkle, Twinkle, Little Star
 
-## How to convert LilyPond files
+## How to convert LilyPond scores
 
 <details>
 <summary>[show]</summary>
