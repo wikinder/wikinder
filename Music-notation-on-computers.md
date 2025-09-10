@@ -16,7 +16,7 @@ Below are LilyPond fragments for nursery rhymes. See [#How to convert LilyPond s
 
 ![Sheet music for "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/b2bdc887-b0c1-48bd-9f1c-8c949353850b)
 
-[Play "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/a7b99ee4-129f-4c9d-8b7b-7e523389e557)
+[Play "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/33b8376f-2a71-4703-b173-5f9fcdcd76ed)
 
 ## Twinkle, Twinkle, Little Star
 
