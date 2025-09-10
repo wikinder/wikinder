@@ -45,6 +45,7 @@ Prerequisites:
 * fluidsynth
 * [FluidR3_GM.sf2](https://github.com/pianobooster/fluid-soundfont/releases)
 * ffmpeg
+* python
 * python-ly
 
 Example of the full LilyPond score for "[Row, Row, Row Your Boat](#row-row-row-your-boat)" (row.ly):
