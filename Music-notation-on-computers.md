@@ -16,7 +16,7 @@ Below are LilyPond fragments for nursery rhymes. See [#How to convert LilyPond s
 
 ![Sheet music for "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/fcc2eaa1-01cd-4c4f-b5d7-1efc7838a46c)
 
-[Play "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/bce7f3f5-9dab-43ab-9ba0-ff67b19b5ded)
+[Play "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/662457d0-92e3-4e5e-bfb0-7c229551abf1)
 
 ## Twinkle, Twinkle, Little Star
 
@@ -31,7 +31,7 @@ Below are LilyPond fragments for nursery rhymes. See [#How to convert LilyPond s
 
 ![Sheet music for "Twinkle, Twinkle, Little Star"](https://github.com/user-attachments/assets/24440c64-272d-45c8-97dd-d40b44c73982)
 
-[Play "Twinkle, Twinkle, Little Star"](https://github.com/user-attachments/assets/97d4e6c0-f0eb-4069-99fd-b0311ec61e6b)
+[Play "Twinkle, Twinkle, Little Star"](https://github.com/user-attachments/assets/c616135f-fb58-47f9-bdf4-c6450ab10917)
 
 ## How to convert LilyPond scores
 
@@ -106,7 +106,7 @@ fluidsynth -ni /path/to/FluidR3_GM.sf2 row.mid -F row.wav
 Convert WAV to WebM:
 
 ```sh
-ffmpeg -f lavfi -i 'color=c=black:s=320x180' -i row.wav -c:v libvpx-vp9 -c:a libopus -shortest -pix_fmt yuv420p row.webm
+ffmpeg -f lavfi -i 'color=c=black:s=320x180' -i row.wav -c:v libvpx-vp9 -c:a libopus -af 'silenceremove=stop_periods=1:stop_threshold=-50dB' -shortest -pix_fmt yuv420p row.webm
 ```
 
 Convert LilyPond to MusicXML (extracting only the `\relative` block):
