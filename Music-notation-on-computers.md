@@ -14,9 +14,9 @@ Below are LilyPond fragments for nursery rhymes. See [#How to convert LilyPond s
 }
 ```
 
-![Sheet music for "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/cb9b023d-f6fa-4500-9d12-f9f0f69067d3)
+![Sheet music for "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/b2bdc887-b0c1-48bd-9f1c-8c949353850b)
 
-[Play "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/8c0133cd-4a1f-4fc8-b908-492482ab419a)
+[Play "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/a7b99ee4-129f-4c9d-8b7b-7e523389e557)
 
 ## Twinkle, Twinkle, Little Star
 
@@ -42,8 +42,8 @@ Example of the full LilyPond score for "[Row, Row, Row Your Boat](#row-row-row-y
 \score {
   <<
   \chords {
-    c2. | s2.*3 |
-    c2. | s2. | g2. | c2.
+    c,2.*4 |
+    c,2.*2 | g,2. | c,2.
   }
   \relative c' {
     \time 6/8
@@ -54,6 +54,7 @@ Example of the full LilyPond score for "[Row, Row, Row Your Boat](#row-row-row-y
 
   \layout {
     \autoBreaksOff
+    \numericTimeSignature
     indent = #0
     line-width = #120
   }
