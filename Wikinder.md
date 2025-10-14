@@ -1,3 +1,5 @@
+[[Japan|Wikinder Japan]]
+
 <table>
   <tr>
     <th scope="row">Founder</th>
@@ -27,12 +29,6 @@
 * [X](https://x.com/wikinder)
 * [YouTube](https://www.youtube.com/@wikinder)
 
-### Japan
-
-* [Discord](https://discord.gg/qPE8DyuVw5)
-* [Note](https://note.com/wikinder)
-* [X](https://x.com/wikinderjp)
-
 ## Archives
 
 <details>
@@ -40,9 +36,5 @@
 
 * [Wiki](https://archive.today/wikinder.org)
 * [X](https://archive.today/https://x.com/wikinder/status/*)
-
-### Japan
-
-* [X](https://archive.today/https://x.com/wikinderjp/status/*)
 
 </details>
