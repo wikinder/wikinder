@@ -1,3 +1,5 @@
+[[Japan|Wikinder Japan]]
+
 <table>
   <tr>
     <th scope="row">Founder</th>
@@ -36,7 +38,3 @@
 * [X](https://archive.today/https://x.com/wikinder/status/*)
 
 </details>
-
-## See also
-
-* [[Wikinder Japan]]
