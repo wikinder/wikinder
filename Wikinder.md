@@ -16,7 +16,6 @@
 ## Wiki hosts
 
 * [GitHub Wiki](https://github.com/wikinder/wikinder/wiki)
-    * [SEE](https://github-wiki-see.page/m/wikinder/wikinder/wiki_index)
 * [GitLab Wiki](https://gitlab.com/wikinder/wikinder/-/wikis/home) (read-only)
 
 ## Social networks
