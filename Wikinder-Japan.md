@@ -6,6 +6,11 @@
 * [Note](https://note.com/wikinder)
 * [X](https://x.com/wikinderjp)
 
-## Archive
+## Archives
 
-* [Twilog](https://twilog.togetter.com/wikinderjp)
+<details>
+<summary>[show]</summary>
+
+* [X](https://twilog.togetter.com/wikinderjp)
+
+</details>
