@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-* [[JP|Wikinder Japan]]
+* [[Japan|Wikinder Japan]]
 
 ## Wiki hosts
 
