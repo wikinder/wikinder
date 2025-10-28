@@ -1,4 +1,4 @@
-[[JP|Wikinder Japan]]
+< [[Home]]
 
 <table>
   <tr>
@@ -10,6 +10,8 @@
     <td>September 1, 2005</td>
   </tr>
 </table>
+
+* [[JP|Wikinder Japan]]
 
 ## Wiki hosts
 
