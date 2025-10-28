@@ -1,4 +1,4 @@
-< [[Wikinder]]
+< [[Home]] | [[Wikinder]]
 
 ## Social networks
 
