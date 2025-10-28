@@ -36,6 +36,6 @@
 <summary>[show]</summary>
 
 * [Wiki](https://archive.today/wikinder.org)
-* [X](https://archive.today/https://x.com/wikinder/status/*)
+* [X](https://twilog.togetter.com/wikinder)
 
 </details>
