@@ -4,7 +4,7 @@
 
 $(a + b)^2 = a^2 + 2ab + b^2$
 
-<img src="https://github.com/user-attachments/assets/785abd52-dea5-46f6-88a0-41dec4d6e7bc" alt="A rose made of Lego" width="115" height="200">
+<img src="https://github.com/user-attachments/assets/7cf8f779-d4b1-47f4-b3a6-9802af36563c" alt="A rose made of Lego" width="115" height="200">
 
 [![Sheet music for "Row, Row, Row Your Boat"](https://github.com/user-attachments/assets/fcc2eaa1-01cd-4c4f-b5d7-1efc7838a46c)](Music-notation-on-computers#row-row-row-your-boat)
 
