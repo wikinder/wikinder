@@ -1,9 +1,5 @@
 <table>
   <tr>
-    <th scope="row">Date of birth</th>
-    <td>2009</td>
-  </tr>
-  <tr>
     <th scope="row">Occupation</th>
     <td>Founder of [[Wikinder]]</td>
   </tr>
