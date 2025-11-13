@@ -1,7 +1,5 @@
 [[About|Wikinder]] · [Discord](https://discord.gg/bgEXkwxnQp) <sub>([jp](https://discord.gg/qPE8DyuVw5))</sub> · [IG](https://www.instagram.com/wikindergarten/) · [TikTok](https://www.tiktok.com/@wikinder) · [X](https://x.com/wikinder) <sub>([jp](https://x.com/wikinderjp))</sub> · [YouTube](https://www.youtube.com/@wikinder)
 
-## Welcome to Wikinder
-
 $(a + b)^2 = a^2 + 2ab + b^2$
 
 <img src="https://github.com/user-attachments/assets/7cf8f779-d4b1-47f4-b3a6-9802af36563c" alt="A rose made of Lego" width="115" height="200">
