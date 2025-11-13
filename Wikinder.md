@@ -1,5 +1,3 @@
-< [[Home]]
-
 <table>
   <tr>
     <th scope="row">Founder</th>
