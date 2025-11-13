@@ -1,3 +1,5 @@
+[[Japan|Wikinder Japan]]
+
 <table>
   <tr>
     <th scope="row">Founder</th>
@@ -8,8 +10,6 @@
     <td>September 1, 2005</td>
   </tr>
 </table>
-
-* [[Japan|Wikinder Japan]]
 
 ## Wiki hosts
 
