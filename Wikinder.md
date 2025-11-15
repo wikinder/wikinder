@@ -18,10 +18,12 @@
 
 ## Social networks
 
+* [Bluesky](https://bsky.app/profile/wikinder.bsky.social)
 * [Discord](https://discord.gg/bgEXkwxnQp)
 * [Facebook](https://www.facebook.com/wikinder)
 * [Instagram](https://www.instagram.com/wikindergarten/)
 * [LinkedIn](https://www.linkedin.com/company/wikinder/)
+* [Mastodon](https://mastodon.social/@wikinder)
 * [Scratch](https://scratch.mit.edu/users/wikinder/)
 * [Threads](https://www.threads.net/@wikindergarten)
 * [TikTok](https://www.tiktok.com/@wikinder)
