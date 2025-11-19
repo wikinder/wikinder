@@ -1,4 +1,4 @@
-[[About|Wikinder]] · [Discord](https://discord.gg/bgEXkwxnQp) · [IG](https://www.instagram.com/wikindergarten/) · [TikTok](https://www.tiktok.com/@wikinder) · [X](https://x.com/wikinder) · [YouTube](https://www.youtube.com/@wikinder)
+[[About|Wikinder]] · [Discord](https://discord.gg/bgEXkwxnQp) (<a href="https://discord.gg/qPE8DyuVw5">jp</a>) · [IG](https://www.instagram.com/wikindergarten/) · [TikTok](https://www.tiktok.com/@wikinder) · [X](https://x.com/wikinder) (<a href="https://x.com/wikinderjp">jp</a>) · [YouTube](https://www.youtube.com/@wikinder)
 
 $(a + b)^2 = a^2 + 2ab + b^2$
 
