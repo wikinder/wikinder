@@ -1,3 +1,5 @@
+< [[Math]]
+
 [[Proofs|Math formulas proofs]]
 
 ## Euler's identities
@@ -65,5 +67,3 @@ $\cos 2 \theta = \cos^2 \theta - \sin^2 \theta = 1 - 2 \sin^2 \theta = 2 \cos^2 
 $\sin n \theta = \displaystyle \sum_{k = 0}^{\left\lfloor \frac{n - 1}{2} \right\rfloor} (-1)^k \binom{n}{2k + 1} \cos^{n - (2k + 1)} \theta \sin^{2k + 1} \theta$
 
 $\cos n \theta = \displaystyle \sum_{k = 0}^{\left\lfloor \frac{n}{2} \right\rfloor} (-1)^k \binom{n}{2k} \cos^{n - 2k} \theta \sin^{2k} \theta$
-
-[[#math|Math]]
