@@ -1,4 +1,4 @@
-< [[Math formulas]]
+< [[Math]] | [[Math formulas]]
 
 ## Euler's formula
 
@@ -185,5 +185,3 @@ $= 2 \cos^2 \theta - 1$
 $\cos n \theta + i \sin n \theta = (\cos \theta + i \sin \theta)^n$
 
 $= \displaystyle \sum_{k = 0}^n \binom{n}{k} \cos^{n - k} \theta i^k \sin^k \theta$
-
-[[#math|Math]]
