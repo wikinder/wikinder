@@ -1,3 +1,5 @@
+< [[Math]]
+
 We can think of a number $n$ as a collection of $n$ bears.
 
 ```
@@ -93,5 +95,3 @@ A number is composite if it can be rearranged into a rectangle; if not, it is pr
 [^3]: Examples of totally ordered sets: tuples ordered by index, the set of natural numbers $(\mathbb{N}, \le)$, and the set of real numbers $(\mathbb{R}, \le)$.
 
 [^4]: Or a prime number can only be rearranged into a rectangle with one side 1.
-
-[[#math|Math]]
