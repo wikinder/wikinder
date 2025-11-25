@@ -40,11 +40,11 @@ An even number can be divided into two equal parts, while an odd number cannot.
 ```
 
 **Definition (_Even and odd numbers_)**:
-<br>
+
 Let $n$ and $k$ be integers. We say:
 
-* $n$ is **even** if there exists $k$ such that $n = 2k.$
-* $n$ is **odd** if there exists $k$ such that $n = 2k + 1.$
+- $n$ is **even** if there exists $k$ such that $n = 2k.$
+- $n$ is **odd** if there exists $k$ such that $n = 2k + 1.$
 
 ### Odd numbers have a middle
 
