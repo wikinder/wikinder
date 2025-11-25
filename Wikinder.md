@@ -1,4 +1,4 @@
-[[Japan|Wikinder Japan]]
+- [[Japan|Wikinder Japan]]
 
 <table>
   <tr>
