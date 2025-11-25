@@ -8,4 +8,4 @@ $(a + b)^2 = a^2 + 2ab + b^2$
 
 ## Donors
 
-* Aoi Hirahara (平原 葵)
+- Aoi Hirahara (平原 葵)
