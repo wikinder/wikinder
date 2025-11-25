@@ -19,10 +19,10 @@ In 2005, he dropped out of Esashi Municipal Iwayadō Elementary School in fifth 
 
 ## References
 
-* Anonymous et al. (2004). "[[Housewives] Welcome to Virtual Farm! [Hikikomori]](https://web.archive.org/web/20220302115233/https://ex2.5ch.net/test/read.cgi/net/1081471803/)" (【ﾁｭﾌﾟ】バーチャル農場へようこそ！【ﾋｯｷｰ】). _2channel_.
-* Wada, Takashi (2007). "[Space of communications through the on-line games: Case study of 'Virtual Farm'](https://doi.org/10.20630/chirikagaku.62.4_237)" (オンラインゲームを介したコミュニケーションの空間: 「バーチャル農場」を事例として). _Geographical Sciences_ **62** (4): 237-257. The Japanese Society for Geographical Sciences.
-* Yamaarashi et al. (2002). "[Difficult kanji, interesting kanji](https://web.archive.org/web/20040621193632/http://language.dot.thebbs.jp/1035980740.html)" (難しい漢字・面白い漢字). _TheBBS_.
-* yuuki (2004). _[Internet Security Laboratory](https://web.archive.org/web/20050311192522/http://www.geocities.jp/xxwnt853/top.html)_ (インターネット・セキュリティ・研究所).
+- Anonymous et al. (2004). "[[Housewives] Welcome to Virtual Farm! [Hikikomori]](https://web.archive.org/web/20220302115233/https://ex2.5ch.net/test/read.cgi/net/1081471803/)" (【ﾁｭﾌﾟ】バーチャル農場へようこそ！【ﾋｯｷｰ】). _2channel_.
+- Wada, Takashi (2007). "[Space of communications through the on-line games: Case study of 'Virtual Farm'](https://doi.org/10.20630/chirikagaku.62.4_237)" (オンラインゲームを介したコミュニケーションの空間: 「バーチャル農場」を事例として). _Geographical Sciences_ **62** (4): 237-257. The Japanese Society for Geographical Sciences.
+- Yamaarashi et al. (2002). "[Difficult kanji, interesting kanji](https://web.archive.org/web/20040621193632/http://language.dot.thebbs.jp/1035980740.html)" (難しい漢字・面白い漢字). _TheBBS_.
+- yuuki (2004). _[Internet Security Laboratory](https://web.archive.org/web/20050311192522/http://www.geocities.jp/xxwnt853/top.html)_ (インターネット・セキュリティ・研究所).
 
 ## Notes
 
