@@ -84,7 +84,7 @@ A number is composite if it can be rearranged into a rectangle; if not, it is pr
 
 ## See also
 
-* [[Moving bears]]
+- [[Moving bears]]
 
 ## Notes
 
