@@ -1,4 +1,4 @@
-< [[Math]]
+[[#math|Math]]
 
 - [[Proofs|Math formulas proofs]]
 
