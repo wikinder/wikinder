@@ -1,4 +1,6 @@
-[[Proofs|Math formulas Proofs]]
+[[#math|Math]]
+
+- [[Proofs|Math formulas proofs]]
 
 ## Euler's identities
 
