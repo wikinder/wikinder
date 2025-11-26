@@ -1,3 +1,5 @@
+[[#yuuki|yuuki]]
+
 MusicXML is an interchange format for sheet music. However, it is too verbose to write by hand. MuseScore is a practical application that supports it.
 
 LilyPond notation is useful for writing simple scores. It is less interchangeable, although python-ly provides limited support for converting to MusicXML.
