@@ -1,4 +1,4 @@
-< [[Math]]
+[[#math|Math]]
 
 ```js
 function drawLine(x1, x2) {
