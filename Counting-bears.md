@@ -1,4 +1,4 @@
-< [[Math]]
+[[#math|Math]]
 
 We can think of a number $n$ as a collection of $n$ bears.
 
@@ -15,13 +15,6 @@ We can think of a number $n$ as a collection of $n$ bears.
 
 🧸🧸🧸🧸🧸🧸
 ```
-
-<details>
-<summary>Subpages</summary>
-
-* [[Moving bears]]
-
-</details>
 
 ## Even and odd numbers
 
@@ -47,11 +40,11 @@ An even number can be divided into two equal parts, while an odd number cannot.
 ```
 
 **Definition (_Even and odd numbers_)**:
-<br>
+
 Let $n$ and $k$ be integers. We say:
 
-* $n$ is **even** if there exists $k$ such that $n = 2k.$
-* $n$ is **odd** if there exists $k$ such that $n = 2k + 1.$
+- $n$ is **even** if there exists $k$ such that $n = 2k.$
+- $n$ is **odd** if there exists $k$ such that $n = 2k + 1.$
 
 ### Odd numbers have a middle
 
@@ -88,6 +81,10 @@ A number is composite if it can be rearranged into a rectangle; if not, it is pr
 
 🧸🧸🧸🧸🧸🧸🧸🧸🧸🧸🧸
 ```
+
+## See also
+
+- [[Moving bears]]
 
 ## Notes
 
