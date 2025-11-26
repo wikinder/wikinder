@@ -19,19 +19,19 @@ $-g + if = f' + ig'$
 Equate the real and imaginary parts of both sides:
 
 $-g = f'$
-<br>
+
 $f = g'$
 
 Which can be rewritten as:
 
 $f'' = -f$
-<br>
+
 $g'' = -g$
 
 These are second-order differential equations. By substituting $x = 0$ into Eqs. 1 and 2, we obtain the initial conditions $f(0) = 1$, $f'(0) = 0$, $g(0) = 0$, and $g'(0) = 1$. The unique solutions are:
 
 $f = \cos x$
-<br>
+
 $g = \sin x$
 
 ## Algebraic identities
