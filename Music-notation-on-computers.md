@@ -1,3 +1,5 @@
+[[#yuuki|yuuki]]
+
 MusicXML is an interchange format for sheet music. However, it is too verbose to write by hand. MuseScore is a practical application that supports it.
 
 LilyPond notation is useful for writing simple scores. It is less interchangeable, although python-ly provides limited support for converting to MusicXML.
@@ -35,18 +37,15 @@ Below are LilyPond fragments for nursery rhymes. See [#How to convert LilyPond s
 
 ## How to convert LilyPond scores
 
-<details>
-<summary>[show]</summary>
-
 Prerequisites:
 
-* lilypond
-* librsvg
-* fluidsynth
-* [FluidR3_GM.sf2](https://github.com/pianobooster/fluid-soundfont/releases)
-* ffmpeg
-* python
-* python-ly
+- lilypond
+- librsvg
+- fluidsynth
+- [FluidR3_GM.sf2](https://github.com/pianobooster/fluid-soundfont/releases)
+- ffmpeg
+- python
+- python-ly
 
 Example of the full LilyPond score for "[Row, Row, Row Your Boat](#row-row-row-your-boat)" (row.ly):
 
@@ -116,5 +115,3 @@ Convert LilyPond to MusicXML (extracting only the `\relative` block):
 python3 -c 'import re, sys; print(re.search(r"\\relative.*?{.*?}", open(sys.argv[1]).read(), re.DOTALL).group(0))' row.ly \
 | ly musicxml -o row.musicxml
 ```
-
-</details>
