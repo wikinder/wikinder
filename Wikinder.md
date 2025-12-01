@@ -1,4 +1,4 @@
-[[Japan|Wikinder Japan]]
+- [[Japan|Wikinder Japan]]
 
 <table>
   <tr>
@@ -13,28 +13,30 @@
 
 ## Wiki hosts
 
-* [GitHub Wiki](https://github.com/wikinder/wikinder/wiki)
-    * [SEE](https://github-wiki-see.page/m/wikinder/wikinder/wiki_index)
-* [GitLab Wiki](https://gitlab.com/wikinder/wikinder/-/wikis/home) (read-only)
+- [GitHub](https://github.com/wikinder/wikinder/wiki)
+- [GitLab](https://gitlab.com/wikinder/wikinder/-/wikis/home) (read-only)
 
 ## Social networks
 
-* [Discord](https://discord.gg/bgEXkwxnQp)
-* [Facebook](https://www.facebook.com/wikinder)
-* [Instagram](https://www.instagram.com/wikindergarten/)
-* [LinkedIn](https://www.linkedin.com/company/wikinder/)
-* [Scratch](https://scratch.mit.edu/users/wikinder/)
-* [Threads](https://www.threads.net/@wikindergarten)
-* [TikTok](https://www.tiktok.com/@wikinder)
-* [X](https://x.com/wikinder)
-* [YouTube](https://www.youtube.com/@wikinder)
+- [Bluesky](https://bsky.app/profile/wikinder.bsky.social)
+- [Discord](https://discord.gg/bgEXkwxnQp)
+- [Facebook](https://www.facebook.com/wikinder)
+- [Instagram](https://www.instagram.com/wikindergarten/)
+- [LinkedIn](https://www.linkedin.com/company/wikinder/)
+- [Mastodon](https://mastodon.social/@wikinder)
+- [Scratch](https://scratch.mit.edu/users/wikinder/)
+- [Threads](https://www.threads.net/@wikindergarten)
+- [TikTok](https://www.tiktok.com/@wikinder)
+- [X](https://x.com/wikinder)
+- [YouTube](https://www.youtube.com/@wikinder)
 
 ## Archives
 
-<details>
-<summary>[show]</summary>
+### Wiki
 
-* [Wiki](https://archive.today/wikinder.org)
-* [X](https://archive.today/https://x.com/wikinder/status/*)
+- [Archives](https://github.com/wikinder/wikinder.github.io#archives)
 
-</details>
+### X
+
+- [Twilog](https://twilog.togetter.com/wikinder)
+- [Posfie](https://posfie.com/@wikinder)
