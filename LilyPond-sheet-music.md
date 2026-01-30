@@ -51,11 +51,11 @@ Repo: https://github.com/yuuki7/sheetmusic
   \numericTimeSignature
   \time 4/4
 
-  c4 c4 c8.[ d16] e4 | e8.[ d16 e8. f16] g2 | \break
+  c4 c4 c8.[ d16] e4 | e8.[ d16] e8.[ f16] g2 | \break
 
   \tuplet 3/2 { c'8[ c'8 c'8] } \tuplet 3/2 { g8[ g8 g8] }
   \tuplet 3/2 { e8[ e8 e8] } \tuplet 3/2 { c8[ c8 c8] }
-  | g8.[ f16 e8. d16] c2 \bar "|."
+  | g8.[ f16] e8.[ d16] c2 \bar "|."
 }
 ```
 
