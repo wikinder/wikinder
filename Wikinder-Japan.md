@@ -4,7 +4,7 @@
   <tr>
     <th scope="row">Website</th>
     <td>
-      <a href="https://linktr.ee/wikinder">linktr.ee/wikinder</a>
+      <a href="https://linktr.ee/wikinderjp">linktr.ee/wikinderjp</a>
     </td>
   </tr>
 </table>
