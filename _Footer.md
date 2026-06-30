@@ -1,1 +1,1 @@
-🧸 Content is available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise noted.
+🧸 Content is available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) unless otherwise noted.
